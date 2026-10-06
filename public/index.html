@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="NFL Market Edge: an open, explainable NFL odds and market-movement analytics portfolio.">
+  <meta name="theme-color" content="#102338">
+  <title>NFL Market Edge</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/experiments.css">
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="/" aria-label="NFL Market Edge home"><span class="brandmark">ME</span><span><strong>NFL MARKET EDGE</strong><small>Independent market analytics</small></span></a>
+    <nav aria-label="Main navigation"><button class="nav active" data-view="board" aria-current="page">Market board</button><button class="nav" data-view="performance">Performance</button><button class="nav" data-view="experiments">Experiments</button><button class="nav" data-view="methodology">Methodology</button></nav>
+    <span class="portfolio">A portfolio experiment</span>
+  </header>
+  <main id="main">
+    <div id="notice" class="notice" role="status">Loading market data…</div>
+    <section id="board" class="view">
+      <div class="page-title"><div><p class="eyebrow">NFL / SPREAD MARKETS</p><h1>This week’s market</h1><p class="muted">Follow movement. Compare evidence. Check the number still available.</p></div><div class="data-stamp"><span id="mode" class="badge">Loading</span><p id="updated"></p><button id="import-button" class="button secondary">Import public splits</button><input type="file" id="split-file" accept=".csv,text/csv" hidden></div></div>
+      <div id="summary" class="summary"></div>
+      <div class="toolbar"><div class="filters" role="group" aria-label="Filter games"><button class="filter active" data-filter="all" aria-pressed="true">All games</button><button class="filter" data-filter="reverse" aria-pressed="false">Against the crowd</button><button class="filter" data-filter="qualified" aria-pressed="false">Review candidates</button></div><label class="search"><span>Find a team</span><input id="search" type="search" placeholder="Search teams…"></label></div>
+      <details class="weights"><summary>Ranking weights <span id="weight-summary">60% sharp · 25% model · 15% price</span></summary><div class="weight-controls"><label>Sharp-action evidence <input type="range" id="weight-sharp" min="0" max="100" value="60"><output id="out-sharp">60</output></label><label>Model edge <input type="range" id="weight-model" min="0" max="100" value="25"><output id="out-model">25</output></label><label>Available price <input type="range" id="weight-value" min="0" max="100" value="15"><output id="out-value">15</output></label><button id="reset-weights" class="button secondary">Reset</button></div><p>Weights change the review ranking, not cover probabilities. Missing evidence receives no points. Changes apply only in this browser session.</p></details>
+      <div id="games" aria-live="polite"></div>
+      <p class="board-note">Ranking scores are evidence scores, not win probabilities. “First seen” is the first quote we collected, which may differ from the actual opener.</p>
+    </section>
+    <section id="performance" class="view" hidden><div class="page-title"><div><p class="eyebrow">VALIDATION / NO SHORTCUTS</p><h1>Measure before trusting</h1><p class="muted">Historical prediction accuracy and forward paper tracking are separate.</p></div></div><div id="performance-content"></div></section>
+    <section id="experiments" class="view" hidden><div class="page-title"><div><p class="eyebrow">RESEARCH / FROZEN RULES</p><h1>Does the edge survive?</h1><p class="muted">Discover on earlier seasons. Evaluate later seasons without retuning.</p></div></div><div id="experiment-content"></div></section>
+    <section id="methodology" class="view" hidden><div class="page-title"><div><p class="eyebrow">METHOD / TRANSPARENT BY DESIGN</p><h1>What’s behind the ranking</h1><p class="muted">The evidence, assumptions, and limits are part of the product.</p></div></div>
+      <div class="method-grid"><article class="panel"><span class="section-number">01</span><h2>Observe the market</h2><p>Collect spreads and American odds twice a day. Compare each sportsbook with its own first recorded quote. A lower spread for a team means the market moved toward that team.</p><p>Example: a favorite moving from −3.5 to −2.5 is movement toward its opponent. The opponent’s +3.5 may no longer be available.</p></article>
+      <article class="panel"><span class="section-number">02</span><h2>Look for confirmation</h2><p>Reverse movement requires at least two books moving toward a side with 40% or less of reported spread tickets. Movement against money applies the same rule to reported dollars.</p><p>A money-minus-ticket gap indicates larger average wagers. It does not prove those wagers came from professionals. Splits describe their named source, not the whole betting market.</p></article>
+      <article class="panel"><span class="section-number">03</span><h2>Estimate, then compare</h2><p>A ridge regression predicts home scoring margin using pregame Elo, recent eight-game scoring and defense, home field, and rest. Features only use earlier completed games.</p><p>Historical holdout residuals approximate the margin distribution. Integer margins allow pushes. These probabilities are experimental and have not been validated as calibrated betting probabilities.</p></article>
+      <article class="panel"><span class="section-number">04</span><h2>Keep the claim narrow</h2><p>Default ranking: 60% sharp-action evidence, 25% estimated model edge, 15% available line and price. The sharp score combines multi-book movement, reverse movement, movement against money, and the money-ticket gap.</p><p>These are hand-selected weights. A review candidate needs reverse movement, sharp score ≥45, estimated EV &gt;2.5%, at least 200 holdout residuals, and a future kickoff. This is a screening rule, not a proven strategy.</p></article></div>
+      <article class="panel sources"><h2>Data and refresh policy</h2><p>Live quotes older than 18 hours are excluded; public splits older than 24 hours are excluded. The whole live board becomes stale after 18 hours. The twice-daily collection can miss fast market moves. We do not claim to identify steam bettors or which book led a move.</p><p>Injuries and weather are not model inputs in this version. They can explain apparent contrarian movement. Early-season team form is sparse; international games do not yet receive a reliable neutral-site adjustment in live forecasts.</p><p>Free mode uses The Odds API’s free quota, public nflverse results, GitHub Actions, and static Vercel hosting. No paid database, LLM, or scraping service is required. Public splits are manually imported from sources you are permitted to use.</p><div class="source-links"><a href="https://the-odds-api.com/" target="_blank" rel="noopener">The Odds API</a><a href="https://github.com/nflverse/nfldata" target="_blank" rel="noopener">nflverse game data</a><a href="https://data.vsin.com/betting-splits/" target="_blank" rel="noopener">Example splits source: VSiN</a></div><h3>Import format</h3><p>CSV columns: <code>event_id,team,bookmaker,source,captured_at,tickets_pct,money_pct</code>. Use the exact event ID shown in game details, the home team’s percentages, and a timestamp with timezone. Browser imports affect this session only. To publish an import, update <code>data/splits.csv</code> in your repository and run the collector.</p></article>
+    </section>
+  </main>
+  <footer><span class="footer-brand">NFL MARKET EDGE</span><span>Research &amp; education. No bets placed. No guaranteed edge.</span><span>Built to make the evidence inspectable.</span></footer>
+  <dialog id="game-dialog"><div id="dialog-content"></div></dialog>
+  <script type="module" src="/app.mjs"></script>
+</body>
+</html>

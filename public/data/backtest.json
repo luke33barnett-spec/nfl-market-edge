@@ -1,0 +1,1033 @@
+{
+  "generatedAt": "2026-10-05T20:34:01.054Z",
+  "experiment": {
+    "id": "margin-gap-v1",
+    "description": "One side per game, selected by a pregame margin model versus the historical recorded spread.",
+    "discoverySeasons": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "evaluationSeasons": [
+      2023,
+      2024,
+      2025
+    ],
+    "candidateThresholds": [
+      0,
+      1.5,
+      3,
+      4.5,
+      6
+    ],
+    "minimumDiscoveryBets": 100,
+    "ridgePenalty": 30,
+    "trainingWindowSeasons": 12,
+    "stakeUnits": 1,
+    "stressCostPerBet": 0.01,
+    "rule": "Select the threshold with the highest discovery ROI, freeze it, and report the later seasons without retuning. Do not use public splits or claim sharp-action results."
+  },
+  "selectedThreshold": 6,
+  "discovery": [
+    {
+      "threshold": 0,
+      "bets": 1566,
+      "wins": 769,
+      "losses": 756,
+      "pushes": 41,
+      "profit": -30.813709967972805,
+      "roi": -0.019676698574695277,
+      "winRate": 0.5042622950819672,
+      "maxDrawdown": 43.40975278337876,
+      "skippedPrices": 1
+    },
+    {
+      "threshold": 1.5,
+      "bets": 1031,
+      "wins": 495,
+      "losses": 511,
+      "pushes": 25,
+      "profit": -45.989188021448854,
+      "roi": -0.04460638993351004,
+      "winRate": 0.49204771371769385,
+      "maxDrawdown": 51.60461149261319,
+      "skippedPrices": 1
+    },
+    {
+      "threshold": 3,
+      "bets": 596,
+      "wins": 299,
+      "losses": 285,
+      "pushes": 12,
+      "profit": -5.261669839355974,
+      "roi": -0.008828305099590561,
+      "winRate": 0.511986301369863,
+      "maxDrawdown": 24.951525633411723,
+      "skippedPrices": 1
+    },
+    {
+      "threshold": 4.5,
+      "bets": 307,
+      "wins": 156,
+      "losses": 145,
+      "pushes": 6,
+      "profit": 0.4560607813109694,
+      "roi": 0.0014855400042702587,
+      "winRate": 0.5182724252491694,
+      "maxDrawdown": 12.79950166144183,
+      "skippedPrices": 0
+    },
+    {
+      "threshold": 6,
+      "bets": 139,
+      "wins": 73,
+      "losses": 63,
+      "pushes": 3,
+      "profit": 4.685842477267705,
+      "roi": 0.03371109695876047,
+      "winRate": 0.5367647058823529,
+      "maxDrawdown": 9.403714285962653,
+      "skippedPrices": 0
+    }
+  ],
+  "evaluation": {
+    "bets": 58,
+    "wins": 31,
+    "losses": 27,
+    "pushes": 0,
+    "profit": 1.3209930459161008,
+    "roi": 0.022775742170967256,
+    "winRate": 0.5344827586206896,
+    "maxDrawdown": 7.034558838906666,
+    "curve": [
+      {
+        "date": "2023-09-17",
+        "units": 0.847457627118644
+      },
+      {
+        "date": "2023-09-17",
+        "units": 1.7565485362095532
+      },
+      {
+        "date": "2023-09-17",
+        "units": 2.6656394453004624
+      },
+      {
+        "date": "2023-09-24",
+        "units": 3.5747303543913715
+      },
+      {
+        "date": "2023-09-25",
+        "units": 2.5747303543913715
+      },
+      {
+        "date": "2023-09-28",
+        "units": 1.5747303543913715
+      },
+      {
+        "date": "2023-11-12",
+        "units": 2.4442955717826758
+      },
+      {
+        "date": "2023-11-19",
+        "units": 3.353386480873585
+      },
+      {
+        "date": "2023-11-19",
+        "units": 4.33377863773633
+      },
+      {
+        "date": "2023-11-27",
+        "units": 3.33377863773633
+      },
+      {
+        "date": "2023-12-04",
+        "units": 4.286159590117283
+      },
+      {
+        "date": "2023-12-23",
+        "units": 5.155724807508587
+      },
+      {
+        "date": "2024-01-06",
+        "units": 4.155724807508587
+      },
+      {
+        "date": "2024-01-07",
+        "units": 3.1557248075085873
+      },
+      {
+        "date": "2024-01-07",
+        "units": 4.025290024899892
+      },
+      {
+        "date": "2024-09-15",
+        "units": 4.8727476520185355
+      },
+      {
+        "date": "2024-09-15",
+        "units": 5.765604794875678
+      },
+      {
+        "date": "2024-09-15",
+        "units": 4.765604794875678
+      },
+      {
+        "date": "2024-09-15",
+        "units": 5.6915307208016035
+      },
+      {
+        "date": "2024-09-22",
+        "units": 6.617456646727529
+      },
+      {
+        "date": "2024-09-23",
+        "units": 7.510313789584671
+      },
+      {
+        "date": "2024-09-29",
+        "units": 6.510313789584671
+      },
+      {
+        "date": "2024-09-29",
+        "units": 7.462694741965624
+      },
+      {
+        "date": "2024-10-20",
+        "units": 8.355551884822766
+      },
+      {
+        "date": "2024-10-27",
+        "units": 7.355551884822766
+      },
+      {
+        "date": "2024-10-27",
+        "units": 8.264642793913676
+      },
+      {
+        "date": "2024-11-18",
+        "units": 7.264642793913676
+      },
+      {
+        "date": "2024-12-09",
+        "units": 6.264642793913676
+      },
+      {
+        "date": "2024-12-15",
+        "units": 5.264642793913676
+      },
+      {
+        "date": "2024-12-15",
+        "units": 6.264642793913676
+      },
+      {
+        "date": "2024-12-15",
+        "units": 5.264642793913676
+      },
+      {
+        "date": "2024-12-15",
+        "units": 6.190568719839602
+      },
+      {
+        "date": "2024-12-29",
+        "units": 5.190568719839602
+      },
+      {
+        "date": "2025-01-05",
+        "units": 4.190568719839602
+      },
+      {
+        "date": "2025-01-05",
+        "units": 5.116494645765528
+      },
+      {
+        "date": "2025-01-05",
+        "units": 4.116494645765528
+      },
+      {
+        "date": "2025-01-05",
+        "units": 3.1164946457655276
+      },
+      {
+        "date": "2025-01-05",
+        "units": 4.025585554856437
+      },
+      {
+        "date": "2025-01-05",
+        "units": 4.934676463947346
+      },
+      {
+        "date": "2025-01-05",
+        "units": 5.827533606804488
+      },
+      {
+        "date": "2025-09-07",
+        "units": 4.827533606804488
+      },
+      {
+        "date": "2025-09-14",
+        "units": 5.697098824195793
+      },
+      {
+        "date": "2025-09-28",
+        "units": 4.697098824195793
+      },
+      {
+        "date": "2025-10-05",
+        "units": 3.697098824195793
+      },
+      {
+        "date": "2025-10-12",
+        "units": 4.606189733286702
+      },
+      {
+        "date": "2025-10-12",
+        "units": 3.606189733286702
+      },
+      {
+        "date": "2025-10-30",
+        "units": 2.606189733286702
+      },
+      {
+        "date": "2025-11-09",
+        "units": 1.6061897332867021
+      },
+      {
+        "date": "2025-12-14",
+        "units": 2.5585706856676547
+      },
+      {
+        "date": "2025-12-21",
+        "units": 1.5585706856676547
+      },
+      {
+        "date": "2025-12-25",
+        "units": 2.5585706856676547
+      },
+      {
+        "date": "2025-12-25",
+        "units": 3.428135903058959
+      },
+      {
+        "date": "2025-12-25",
+        "units": 4.428135903058958
+      },
+      {
+        "date": "2025-12-28",
+        "units": 5.320993045916101
+      },
+      {
+        "date": "2026-01-04",
+        "units": 4.320993045916101
+      },
+      {
+        "date": "2026-01-04",
+        "units": 3.320993045916101
+      },
+      {
+        "date": "2026-01-04",
+        "units": 2.320993045916101
+      },
+      {
+        "date": "2026-01-04",
+        "units": 1.3209930459161008
+      }
+    ],
+    "roiInterval": {
+      "low": -0.25987546112617754,
+      "high": 0.30207172825436057,
+      "blocks": 30,
+      "iterations": 2000,
+      "method": "Percentile bootstrap resampling season-week blocks; conditional on this dataset and frozen strategy. Does not correct data quality, strategy searching, or market-regime changes."
+    },
+    "skippedPrices": 0,
+    "stressROI": 0.012775742170967256,
+    "bySeason": [
+      {
+        "season": 2023,
+        "bets": 15,
+        "wins": 10,
+        "losses": 5,
+        "pushes": 0,
+        "profit": 4.025290024899892,
+        "roi": 0.26835266832665944,
+        "winRate": 0.6666666666666666,
+        "maxDrawdown": 2
+      },
+      {
+        "season": 2024,
+        "bets": 25,
+        "wins": 14,
+        "losses": 11,
+        "pushes": 0,
+        "profit": 1.8022435819045985,
+        "roi": 0.07208974327618395,
+        "winRate": 0.56,
+        "maxDrawdown": 5.239057239057239
+      },
+      {
+        "season": 2025,
+        "bets": 18,
+        "wins": 7,
+        "losses": 11,
+        "pushes": 0,
+        "profit": -4.5065405608883875,
+        "roi": -0.2503633644937993,
+        "winRate": 0.3888888888888889,
+        "maxDrawdown": 4.5065405608883875
+      }
+    ]
+  },
+  "assessment": "No reliable profitability edge established. The held-out return or its uncertainty does not support that claim.",
+  "limitations": [
+    "Uses nflverse recorded historical spread lines and actual recorded spread prices, not a timestamped multi-book archive. Availability at a specific decision time is unverified.",
+    "No historical public-money splits. This is a model-only experiment, not a backtest of the live sharp-action ranking.",
+    "Five thresholds were searched in discovery. Later evaluation uses only the selected threshold; do not retune after viewing it.",
+    "Fixed one-unit stakes, one selected side per game. No real executions, limits, fees, stake constraints, or selection of the best book.",
+    "Block-bootstrap uncertainty depends on resampling weeks and assumes those blocks reasonably represent future variability. It cannot prove a durable edge.",
+    "Missing historical prices are skipped and counted. Results may be affected by missing data and later revisions to source statistics."
+  ],
+  "bets": [
+    {
+      "id": "2023_02_BAL_CIN",
+      "date": "2023-09-17",
+      "season": 2023,
+      "week": 2,
+      "team": "Baltimore Ravens",
+      "spread": 3.5,
+      "price": -118,
+      "status": "win",
+      "profit": 0.847457627118644
+    },
+    {
+      "id": "2023_02_CHI_TB",
+      "date": "2023-09-17",
+      "season": 2023,
+      "week": 2,
+      "team": "Tampa Bay Buccaneers",
+      "spread": -2.5,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2023_02_NYG_ARI",
+      "date": "2023-09-17",
+      "season": 2023,
+      "week": 2,
+      "team": "Arizona Cardinals",
+      "spread": 5,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2023_03_NO_GB",
+      "date": "2023-09-24",
+      "season": 2023,
+      "week": 3,
+      "team": "Green Bay Packers",
+      "spread": 1.5,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2023_03_PHI_TB",
+      "date": "2023-09-25",
+      "season": 2023,
+      "week": 3,
+      "team": "Tampa Bay Buccaneers",
+      "spread": 6,
+      "price": -110,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2023_04_DET_GB",
+      "date": "2023-09-28",
+      "season": 2023,
+      "week": 4,
+      "team": "Green Bay Packers",
+      "spread": 2.5,
+      "price": -102,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2023_10_NO_MIN",
+      "date": "2023-11-12",
+      "season": 2023,
+      "week": 10,
+      "team": "Minnesota Vikings",
+      "spread": 3,
+      "price": -115,
+      "status": "win",
+      "profit": 0.8695652173913042
+    },
+    {
+      "id": "2023_11_LV_MIA",
+      "date": "2023-11-19",
+      "season": 2023,
+      "week": 11,
+      "team": "Las Vegas Raiders",
+      "spread": 14,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2023_11_MIN_DEN",
+      "date": "2023-11-19",
+      "season": 2023,
+      "week": 11,
+      "team": "Minnesota Vikings",
+      "spread": 2.5,
+      "price": -102,
+      "status": "win",
+      "profit": 0.9803921568627452
+    },
+    {
+      "id": "2023_12_CHI_MIN",
+      "date": "2023-11-27",
+      "season": 2023,
+      "week": 12,
+      "team": "Minnesota Vikings",
+      "spread": -3,
+      "price": -115,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2023_13_CIN_JAX",
+      "date": "2023-12-04",
+      "season": 2023,
+      "week": 13,
+      "team": "Cincinnati Bengals",
+      "spread": 10,
+      "price": -105,
+      "status": "win",
+      "profit": 0.9523809523809523
+    },
+    {
+      "id": "2023_16_BUF_LAC",
+      "date": "2023-12-23",
+      "season": 2023,
+      "week": 16,
+      "team": "Los Angeles Chargers",
+      "spread": 13,
+      "price": -115,
+      "status": "win",
+      "profit": 0.8695652173913042
+    },
+    {
+      "id": "2023_18_PIT_BAL",
+      "date": "2024-01-06",
+      "season": 2023,
+      "week": 18,
+      "team": "Baltimore Ravens",
+      "spread": 3,
+      "price": -115,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2023_18_CLE_CIN",
+      "date": "2024-01-07",
+      "season": 2023,
+      "week": 18,
+      "team": "Cleveland Browns",
+      "spread": 7.5,
+      "price": -115,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2023_18_KC_LAC",
+      "date": "2024-01-07",
+      "season": 2023,
+      "week": 18,
+      "team": "Kansas City Chiefs",
+      "spread": 3.5,
+      "price": -115,
+      "status": "win",
+      "profit": 0.8695652173913042
+    },
+    {
+      "id": "2024_02_IND_GB",
+      "date": "2024-09-15",
+      "season": 2024,
+      "week": 2,
+      "team": "Green Bay Packers",
+      "spread": 3,
+      "price": -118,
+      "status": "win",
+      "profit": 0.847457627118644
+    },
+    {
+      "id": "2024_02_NO_DAL",
+      "date": "2024-09-15",
+      "season": 2024,
+      "week": 2,
+      "team": "New Orleans Saints",
+      "spread": 6.5,
+      "price": -112,
+      "status": "win",
+      "profit": 0.8928571428571428
+    },
+    {
+      "id": "2024_02_NYJ_TEN",
+      "date": "2024-09-15",
+      "season": 2024,
+      "week": 2,
+      "team": "Tennessee Titans",
+      "spread": 3.5,
+      "price": -108,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_02_TB_DET",
+      "date": "2024-09-15",
+      "season": 2024,
+      "week": 2,
+      "team": "Tampa Bay Buccaneers",
+      "spread": 7.5,
+      "price": -108,
+      "status": "win",
+      "profit": 0.925925925925926
+    },
+    {
+      "id": "2024_03_HOU_MIN",
+      "date": "2024-09-22",
+      "season": 2024,
+      "week": 3,
+      "team": "Minnesota Vikings",
+      "spread": 2,
+      "price": -108,
+      "status": "win",
+      "profit": 0.925925925925926
+    },
+    {
+      "id": "2024_03_JAX_BUF",
+      "date": "2024-09-23",
+      "season": 2024,
+      "week": 3,
+      "team": "Buffalo Bills",
+      "spread": -4,
+      "price": -112,
+      "status": "win",
+      "profit": 0.8928571428571428
+    },
+    {
+      "id": "2024_04_BUF_BAL",
+      "date": "2024-09-29",
+      "season": 2024,
+      "week": 4,
+      "team": "Buffalo Bills",
+      "spread": 2.5,
+      "price": -108,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_04_NO_ATL",
+      "date": "2024-09-29",
+      "season": 2024,
+      "week": 4,
+      "team": "New Orleans Saints",
+      "spread": 2.5,
+      "price": -105,
+      "status": "win",
+      "profit": 0.9523809523809523
+    },
+    {
+      "id": "2024_07_NYJ_PIT",
+      "date": "2024-10-20",
+      "season": 2024,
+      "week": 7,
+      "team": "Pittsburgh Steelers",
+      "spread": 3,
+      "price": -112,
+      "status": "win",
+      "profit": 0.8928571428571428
+    },
+    {
+      "id": "2024_08_ATL_TB",
+      "date": "2024-10-27",
+      "season": 2024,
+      "week": 8,
+      "team": "Tampa Bay Buccaneers",
+      "spread": 1.5,
+      "price": -110,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_08_NYJ_NE",
+      "date": "2024-10-27",
+      "season": 2024,
+      "week": 8,
+      "team": "New England Patriots",
+      "spread": 7,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2024_11_HOU_DAL",
+      "date": "2024-11-18",
+      "season": 2024,
+      "week": 11,
+      "team": "Dallas Cowboys",
+      "spread": 7.5,
+      "price": -120,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_14_CIN_DAL",
+      "date": "2024-12-09",
+      "season": 2024,
+      "week": 14,
+      "team": "Dallas Cowboys",
+      "spread": 5,
+      "price": -110,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_15_BAL_NYG",
+      "date": "2024-12-15",
+      "season": 2024,
+      "week": 15,
+      "team": "New York Giants",
+      "spread": 16.5,
+      "price": -108,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_15_DAL_CAR",
+      "date": "2024-12-15",
+      "season": 2024,
+      "week": 15,
+      "team": "Dallas Cowboys",
+      "spread": 2.5,
+      "price": 100,
+      "status": "win",
+      "profit": 1
+    },
+    {
+      "id": "2024_15_NYJ_JAX",
+      "date": "2024-12-15",
+      "season": 2024,
+      "week": 15,
+      "team": "Jacksonville Jaguars",
+      "spread": 3.5,
+      "price": -118,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_15_WAS_NO",
+      "date": "2024-12-15",
+      "season": 2024,
+      "week": 15,
+      "team": "New Orleans Saints",
+      "spread": 7.5,
+      "price": -108,
+      "status": "win",
+      "profit": 0.925925925925926
+    },
+    {
+      "id": "2024_17_LV_NO",
+      "date": "2024-12-29",
+      "season": 2024,
+      "week": 17,
+      "team": "New Orleans Saints",
+      "spread": 2,
+      "price": -110,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_18_BUF_NE",
+      "date": "2025-01-05",
+      "season": 2024,
+      "week": 18,
+      "team": "Buffalo Bills",
+      "spread": -3,
+      "price": -112,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_18_HOU_TEN",
+      "date": "2025-01-05",
+      "season": 2024,
+      "week": 18,
+      "team": "Houston Texans",
+      "spread": 2.5,
+      "price": -108,
+      "status": "win",
+      "profit": 0.925925925925926
+    },
+    {
+      "id": "2024_18_KC_DEN",
+      "date": "2025-01-05",
+      "season": 2024,
+      "week": 18,
+      "team": "Kansas City Chiefs",
+      "spread": 10.5,
+      "price": -115,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_18_MIA_NYJ",
+      "date": "2025-01-05",
+      "season": 2024,
+      "week": 18,
+      "team": "Miami Dolphins",
+      "spread": 1.5,
+      "price": -110,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2024_18_NYG_PHI",
+      "date": "2025-01-05",
+      "season": 2024,
+      "week": 18,
+      "team": "Philadelphia Eagles",
+      "spread": -3,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2024_18_SEA_LA",
+      "date": "2025-01-05",
+      "season": 2024,
+      "week": 18,
+      "team": "Los Angeles Rams",
+      "spread": 7.5,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2024_18_WAS_DAL",
+      "date": "2025-01-05",
+      "season": 2024,
+      "week": 18,
+      "team": "Dallas Cowboys",
+      "spread": 7,
+      "price": -112,
+      "status": "win",
+      "profit": 0.8928571428571428
+    },
+    {
+      "id": "2025_01_ARI_NO",
+      "date": "2025-09-07",
+      "season": 2025,
+      "week": 1,
+      "team": "New Orleans Saints",
+      "spread": 6,
+      "price": -112,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_02_DEN_IND",
+      "date": "2025-09-14",
+      "season": 2025,
+      "week": 2,
+      "team": "Indianapolis Colts",
+      "spread": 2.5,
+      "price": -115,
+      "status": "win",
+      "profit": 0.8695652173913042
+    },
+    {
+      "id": "2025_04_WAS_ATL",
+      "date": "2025-09-28",
+      "season": 2025,
+      "week": 4,
+      "team": "Washington Commanders",
+      "spread": 2.5,
+      "price": -110,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_05_HOU_BAL",
+      "date": "2025-10-05",
+      "season": 2025,
+      "week": 5,
+      "team": "Baltimore Ravens",
+      "spread": 2.5,
+      "price": -102,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_06_CIN_GB",
+      "date": "2025-10-12",
+      "season": 2025,
+      "week": 6,
+      "team": "Cincinnati Bengals",
+      "spread": 14,
+      "price": -110,
+      "status": "win",
+      "profit": 0.9090909090909092
+    },
+    {
+      "id": "2025_06_LA_BAL",
+      "date": "2025-10-12",
+      "season": 2025,
+      "week": 6,
+      "team": "Baltimore Ravens",
+      "spread": 7,
+      "price": -115,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_09_BAL_MIA",
+      "date": "2025-10-30",
+      "season": 2025,
+      "week": 9,
+      "team": "Miami Dolphins",
+      "spread": 7.5,
+      "price": 100,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_10_BAL_MIN",
+      "date": "2025-11-09",
+      "season": 2025,
+      "week": 10,
+      "team": "Minnesota Vikings",
+      "spread": 4.5,
+      "price": -115,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_15_IND_SEA",
+      "date": "2025-12-14",
+      "season": 2025,
+      "week": 15,
+      "team": "Indianapolis Colts",
+      "spread": 13.5,
+      "price": -105,
+      "status": "win",
+      "profit": 0.9523809523809523
+    },
+    {
+      "id": "2025_16_CIN_MIA",
+      "date": "2025-12-21",
+      "season": 2025,
+      "week": 16,
+      "team": "Miami Dolphins",
+      "spread": 3.5,
+      "price": 100,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_17_DAL_WAS",
+      "date": "2025-12-25",
+      "season": 2025,
+      "week": 17,
+      "team": "Washington Commanders",
+      "spread": 8.5,
+      "price": 100,
+      "status": "win",
+      "profit": 1
+    },
+    {
+      "id": "2025_17_DEN_KC",
+      "date": "2025-12-25",
+      "season": 2025,
+      "week": 17,
+      "team": "Kansas City Chiefs",
+      "spread": 13.5,
+      "price": -115,
+      "status": "win",
+      "profit": 0.8695652173913042
+    },
+    {
+      "id": "2025_17_DET_MIN",
+      "date": "2025-12-25",
+      "season": 2025,
+      "week": 17,
+      "team": "Minnesota Vikings",
+      "spread": 7,
+      "price": 100,
+      "status": "win",
+      "profit": 1
+    },
+    {
+      "id": "2025_17_TB_MIA",
+      "date": "2025-12-28",
+      "season": 2025,
+      "week": 17,
+      "team": "Miami Dolphins",
+      "spread": 5.5,
+      "price": -112,
+      "status": "win",
+      "profit": 0.8928571428571428
+    },
+    {
+      "id": "2025_18_GB_MIN",
+      "date": "2026-01-04",
+      "season": 2025,
+      "week": 18,
+      "team": "Green Bay Packers",
+      "spread": 12.5,
+      "price": -108,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_18_LAC_DEN",
+      "date": "2026-01-04",
+      "season": 2025,
+      "week": 18,
+      "team": "Los Angeles Chargers",
+      "spread": 14.5,
+      "price": -108,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_18_MIA_NE",
+      "date": "2026-01-04",
+      "season": 2025,
+      "week": 18,
+      "team": "Miami Dolphins",
+      "spread": 14,
+      "price": -112,
+      "status": "loss",
+      "profit": -1
+    },
+    {
+      "id": "2025_18_WAS_PHI",
+      "date": "2026-01-04",
+      "season": 2025,
+      "week": 18,
+      "team": "Philadelphia Eagles",
+      "spread": -3,
+      "price": -115,
+      "status": "loss",
+      "profit": -1
+    }
+  ]
+}

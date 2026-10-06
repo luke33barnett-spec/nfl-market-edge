@@ -1,0 +1,13 @@
+{
+  "id": "margin-gap-v1",
+  "description": "One side per game, selected by a pregame margin model versus the historical recorded spread.",
+  "discoverySeasons": [2017, 2018, 2019, 2020, 2021, 2022],
+  "evaluationSeasons": [2023, 2024, 2025],
+  "candidateThresholds": [0, 1.5, 3, 4.5, 6],
+  "minimumDiscoveryBets": 100,
+  "ridgePenalty": 30,
+  "trainingWindowSeasons": 12,
+  "stakeUnits": 1,
+  "stressCostPerBet": 0.01,
+  "rule": "Select the threshold with the highest discovery ROI, freeze it, and report the later seasons without retuning. Do not use public splits or claim sharp-action results."
+}

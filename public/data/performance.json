@@ -1,0 +1,57 @@
+{
+  "version": "ridge-v1",
+  "trainedAt": "2026-10-05T18:33:24.710Z",
+  "trainingGames": 3214,
+  "evaluations": [
+    {
+      "season": 2023,
+      "games": 272,
+      "mae": 10.509755945007429,
+      "rmse": 13.599943925094395,
+      "baselineMae": 11.091911764705882
+    },
+    {
+      "season": 2024,
+      "games": 272,
+      "mae": 10.061270191360379,
+      "rmse": 13.04017321964848,
+      "baselineMae": 11.113970588235293
+    },
+    {
+      "season": 2025,
+      "games": 272,
+      "mae": 10.219390783287679,
+      "rmse": 12.900918796007861,
+      "baselineMae": 11.066176470588236
+    }
+  ],
+  "limitation": "Score-based pregame baseline. Residual probabilities are uncalibrated estimates; historical margin errors are not betting returns. Sharp weights are heuristics, not learned coefficients.",
+  "coefficients": [
+    {
+      "name": "home field",
+      "value": 0.7693623705753112
+    },
+    {
+      "name": "Elo difference",
+      "value": 4.73183716742932
+    },
+    {
+      "name": "recent margin difference",
+      "value": 1.1106639632251512
+    },
+    {
+      "name": "offense difference",
+      "value": 1.1771026273228025
+    },
+    {
+      "name": "defense difference",
+      "value": -0.06643866409809954
+    },
+    {
+      "name": "rest advantage",
+      "value": 0.8010168297540362
+    }
+  ],
+  "source": "nflverse regular-season game results",
+  "paperBets": []
+}

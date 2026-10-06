@@ -1,0 +1,47 @@
+name: Collect NFL markets
+on:
+  schedule:
+    - cron: '17 11,23 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: nfl-market-data
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - name: Train and evaluate baseline on public NFL results
+        run: npm run train
+      - name: Reproduce the frozen historical experiment
+        run: npm run backtest
+      - name: Collect markets or retain labeled demo
+        run: npm run refresh
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          SBD_ENABLED: 'true'
+      - run: npm run check
+      - name: Commit analytical outputs
+        run: |
+          git config user.name "nfl-market-edge[bot]"
+          git config user.email "nfl-market-edge[bot]@users.noreply.github.com"
+          git add data/model.json data/history.json data/tracking.json data/sbd-splits.json public/data
+          if ! git diff --cached --quiet; then
+            git commit -m "Update NFL market analysis"
+            git push
+          fi
+      - name: Trigger Vercel refresh when a hook is configured
+        env:
+          DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$DEPLOY_HOOK" ]; then
+            curl --fail --silent --show-error -X POST "$DEPLOY_HOOK" > /dev/null
+          fi
+

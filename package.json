@@ -1,0 +1,17 @@
+{
+  "name": "nfl-market-edge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A transparent NFL market analytics portfolio project",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "train": "node scripts/train.mjs --download",
+    "refresh": "node scripts/refresh.mjs",
+    "backtest": "node scripts/backtest.mjs",
+    "demo": "node scripts/refresh.mjs --demo",
+    "check": "node scripts/check.mjs"
+  }
+}
