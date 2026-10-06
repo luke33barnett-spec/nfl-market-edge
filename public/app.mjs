@@ -43,12 +43,12 @@ function gameRow(g) {
   const signal = p.reverse ? 'Reverse movement' : p.towardCount >= 2 ? 'Multi-book movement' : 'Limited movement';
   const best = p.best, probability = best.probabilities;
   return `<tr><td><div class="matchup"><span class="rank">${String(rank).padStart(2, '0')}</span><div><span class="team">${esc(p.team)}</span><span class="opponent">vs. ${esc(p.opponent)} · ${p.home ? 'Home' : 'Away'}</span><span class="meta">${esc(date(g.kickoff))}</span></div></div></td>
-    <td><span class="tag ${p.reverse ? 'orange' : ''}">${esc(signal)}</span><p class="signal-text">${p.towardCount} / ${p.movements.length} observed books toward this side</p><span class="meta">${p.againstMoney ? 'Also against reported dollars' : p.gap > 0 ? `Money-ticket gap: +${p.gap} pts` : p.status}</span></td>
+    <td><span class="tag ${p.reverse ? 'orange' : ''}">${esc(signal)}</span><p class="signal-text">${p.towardCount} / ${p.movements.length} observed books toward this side</p><span class="meta">${p.againstMoney ? 'Also against reported dollars' : p.gap > 0 ? `Money-ticket gap: +${p.gap.toFixed(2)} pts` : p.status}</span></td>
     <td>${p.tickets === null ? '<span class="meta">Unavailable</span><span class="meta">No public-money inference</span>' : `<div class="split-bars">${splitBar('Bets', p.tickets)}${splitBar('Money', p.money, true)}</div><span class="meta">${esc(p.split.source)}</span>`}</td>
     <td><span class="figure">${signed(best.spread)} <small>(${signed(best.price)})</small></span><span class="meta">${esc(best.bookmaker)}</span><span class="meta">Cover ${probability ? pct(probability.win) : 'unavailable'} · EV ${best.ev === null ? '—' : signed((best.ev * 100).toFixed(1)) + '%'}</span></td>
     <td><div class="score-cell"><span class="score-number">${Math.round(p.score)}</span><span class="score-scale"><span style="--bar-width:${p.score}%"></span></span></div><button class="detail-button" data-detail="${esc(g.id)}" aria-label="Inspect ${esc(p.team)} evidence">Inspect evidence</button></td></tr>`;
 }
-function splitBar(label, value, money = false) { return `<div class="bar-row"><span>${label}</span><span class="bar ${money ? 'money' : ''}"><span style="--bar-width:${value}%"></span></span><span>${value}%</span></div>`; }
+function splitBar(label, value, money = false) { return `<div class="bar-row"><span>${label}</span><span class="bar ${money ? 'money' : ''}"><span style="--bar-width:${value}%"></span></span><span>${value.toFixed(2)}%</span></div>`; }
 function showDetail(id) {
   const g = ranked.find(g => g.id === id), p = g.pick;
   if (!p) return;
@@ -123,3 +123,4 @@ try {
   render(); renderPerformance();
   setInterval(() => { if (dashboard.mode === 'live') render(); }, 60_000);
 } catch (error) { $('#notice').className = 'notice error'; $('#notice').textContent = `${error.message}. Refresh the page or check the data update workflow.`; }
+
