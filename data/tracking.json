@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "eventId": "c4647ca1201e6768501877267ca8251b",
+    "homeTeam": "Miami Dolphins",
+    "awayTeam": "Cincinnati Bengals",
+    "kickoff": "2026-10-11T17:00:00Z",
+    "team": "Miami Dolphins",
+    "spread": 6.5,
+    "price": -102,
+    "coverProbability": 0.6066176470588235,
+    "capturedAt": "2026-10-07T17:49:06.126Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  }
+]
