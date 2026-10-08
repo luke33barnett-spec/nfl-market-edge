@@ -170,6 +170,10 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": -8.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": -8.5
       }
     ]
   },
@@ -343,6 +347,10 @@
       },
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
+        "homeSpread": -7.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
         "homeSpread": -7.5
       }
     ]
@@ -518,6 +526,10 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": 2
       }
     ]
   },
@@ -691,6 +703,10 @@
       },
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
+        "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
         "homeSpread": 7
       }
     ]
@@ -866,6 +882,10 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": -2
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": -1.5
       }
     ]
   },
@@ -1039,6 +1059,10 @@
       },
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
+        "homeSpread": 7.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
         "homeSpread": 7.5
       }
     ]
@@ -1214,6 +1238,10 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -1387,6 +1415,10 @@
       },
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
         "homeSpread": -3.5
       }
     ]
@@ -1562,6 +1594,10 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": 2
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": 2
       }
     ]
   },
@@ -1735,6 +1771,10 @@
       },
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
         "homeSpread": -3.5
       }
     ]
@@ -1910,6 +1950,10 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -2083,6 +2127,10 @@
       },
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
+        "homeSpread": 5.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
         "homeSpread": 5.5
       }
     ]
@@ -2258,6 +2306,10 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -2431,6 +2483,10 @@
       },
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
         "homeSpread": -3.5
       }
     ]
@@ -2606,6 +2662,116 @@
       {
         "capturedAt": "2026-10-07T17:49:06.126Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": -3
+      }
+    ]
+  },
+  "855f58fad5f0f14b239f4f63df27998b": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Denver Broncos",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-10-08T02:40:43Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Seattle Seahawks",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-10-08T02:40:43Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Denver Broncos",
+        "spread": 1.5,
+        "price": -105,
+        "updatedAt": "2026-10-08T02:41:14Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Seattle Seahawks",
+        "spread": -1.5,
+        "price": -115,
+        "updatedAt": "2026-10-08T02:41:14Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Denver Broncos",
+        "spread": 2.5,
+        "price": -110,
+        "updatedAt": "2026-10-08T02:41:14Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Seattle Seahawks",
+        "spread": -2.5,
+        "price": -110,
+        "updatedAt": "2026-10-08T02:41:14Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Denver Broncos",
+        "spread": 1.5,
+        "price": 100,
+        "updatedAt": "2026-10-08T02:41:15Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Seattle Seahawks",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-10-08T02:41:15Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Denver Broncos",
+        "spread": 1.5,
+        "price": -105,
+        "updatedAt": "2026-10-08T02:41:14Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Seattle Seahawks",
+        "spread": -1.5,
+        "price": -115,
+        "updatedAt": "2026-10-08T02:41:14Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Denver Broncos",
+        "spread": 2.5,
+        "price": -112,
+        "updatedAt": "2026-10-08T02:40:29Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Seattle Seahawks",
+        "spread": -2.5,
+        "price": -109,
+        "updatedAt": "2026-10-08T02:40:29Z",
+        "capturedAt": "2026-10-08T02:41:44.153Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-08T02:41:44.153Z",
+        "homeSpread": 1.5
       }
     ]
   }
