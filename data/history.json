@@ -372,6 +372,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": -7.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": -7.5
       }
     ]
   },
@@ -565,6 +569,10 @@
       },
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
+        "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
         "homeSpread": 1.5
       }
     ]
@@ -760,6 +768,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -953,6 +965,10 @@
       },
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
         "homeSpread": -2.5
       }
     ]
@@ -1148,6 +1164,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -1341,6 +1361,10 @@
       },
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
         "homeSpread": -2.5
       }
     ]
@@ -1536,6 +1560,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -1729,6 +1757,10 @@
       },
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
+        "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
         "homeSpread": 2.5
       }
     ]
@@ -1924,6 +1956,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -2117,6 +2153,10 @@
       },
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
+        "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
         "homeSpread": 3.5
       }
     ]
@@ -2312,6 +2352,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": 5.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": 5.5
       }
     ]
   },
@@ -2505,6 +2549,10 @@
       },
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
         "homeSpread": -3
       }
     ]
@@ -2700,6 +2748,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -2894,6 +2946,10 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -3032,6 +3088,132 @@
       {
         "capturedAt": "2026-10-10T02:19:27.055Z",
         "homeSpread": 2
+      },
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": 2
+      }
+    ]
+  },
+  "57418b2cf5aca558b3c98eafac1e264a": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Houston Texans",
+        "spread": 3,
+        "price": -102,
+        "updatedAt": "2026-10-10T16:12:54Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Jacksonville Jaguars",
+        "spread": -3,
+        "price": -118,
+        "updatedAt": "2026-10-10T16:12:54Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Houston Texans",
+        "spread": 3,
+        "price": -105,
+        "updatedAt": "2026-10-10T16:13:48Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Jacksonville Jaguars",
+        "spread": -3,
+        "price": -115,
+        "updatedAt": "2026-10-10T16:13:48Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Houston Texans",
+        "spread": 3,
+        "price": -105,
+        "updatedAt": "2026-10-10T16:13:32Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Jacksonville Jaguars",
+        "spread": -3,
+        "price": -115,
+        "updatedAt": "2026-10-10T16:13:32Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Houston Texans",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-10-10T16:12:56Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Jacksonville Jaguars",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-10T16:12:56Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Houston Texans",
+        "spread": 3,
+        "price": 100,
+        "updatedAt": "2026-10-10T16:13:48Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Jacksonville Jaguars",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-10T16:13:48Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Houston Texans",
+        "spread": 3,
+        "price": -105,
+        "updatedAt": "2026-10-10T16:13:48Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Jacksonville Jaguars",
+        "spread": -3,
+        "price": -115,
+        "updatedAt": "2026-10-10T16:13:48Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Houston Texans",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-10-10T16:13:02Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Jacksonville Jaguars",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-10T16:13:02Z",
+        "capturedAt": "2026-10-10T16:13:49.817Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-10T16:13:49.817Z",
+        "homeSpread": -3
       }
     ]
   }
