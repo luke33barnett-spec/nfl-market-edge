@@ -12,5 +12,19 @@
     "modelVersion": "ridge-v1",
     "status": "pending",
     "profit": null
+  },
+  {
+    "eventId": "cc52bba56e74f5cddbe9011046181c3d",
+    "homeTeam": "Tennessee Titans",
+    "awayTeam": "Houston Texans",
+    "kickoff": "2026-10-11T17:00:00Z",
+    "team": "Tennessee Titans",
+    "spread": 6.5,
+    "price": 100,
+    "coverProbability": 0.5526960784313726,
+    "capturedAt": "2026-10-11T16:38:36.168Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]
