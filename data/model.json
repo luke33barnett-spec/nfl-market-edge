@@ -1,18 +1,18 @@
 {
   "coefficients": [
-    1.0520016957445093,
-    0.7606230765359588,
-    4.741980187533062,
-    1.1047699518599534,
-    1.1567965425678846,
-    -0.05202659070840942,
-    0.8247706361699612
+    1.0398807450850502,
+    0.7740160700601156,
+    4.810284224004695,
+    1.077490175746471,
+    1.1372295871259872,
+    -0.05973941138004502,
+    0.8299625700981352
   ],
   "lambda": 30,
   "version": "ridge-v1",
-  "trainedAt": "2026-10-11T16:38:35.202Z",
+  "trainedAt": "2026-10-12T02:22:48.558Z",
   "season": 2026,
-  "trainingGames": 3216,
+  "trainingGames": 3228,
   "featureNames": [
     "home field",
     "Elo difference",
@@ -864,7 +864,7 @@
   ],
   "states": {
     "PHI": {
-      "elo": 1551.2122880538602,
+      "elo": 1540.9841998623192,
       "recent": [
         {
           "scored": 24,
@@ -885,12 +885,17 @@
           "scored": 20,
           "allowed": 24,
           "margin": -4
+        },
+        {
+          "scored": 17,
+          "allowed": 19,
+          "margin": -2
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "ARI": {
-      "elo": 1417.2825433586638,
+      "elo": 1409.1659873529932,
       "recent": [
         {
           "scored": 26,
@@ -911,9 +916,14 @@
           "scored": 24,
           "allowed": 36,
           "margin": -12
+        },
+        {
+          "scored": 21,
+          "allowed": 45,
+          "margin": -24
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "STL": {
       "elo": 1499.6382344738988,
@@ -947,7 +957,7 @@
       "lastDate": "2026-10-04"
     },
     "IND": {
-      "elo": 1483.7078504549704,
+      "elo": 1476.4320491304302,
       "recent": [
         {
           "scored": 23,
@@ -968,9 +978,14 @@
           "scored": 30,
           "allowed": 13,
           "margin": 17
+        },
+        {
+          "scored": 22,
+          "allowed": 34,
+          "margin": -12
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "BUF": {
       "elo": 1577.6823438785088,
@@ -999,7 +1014,7 @@
       "lastDate": "2026-10-04"
     },
     "NO": {
-      "elo": 1439.8145942030121,
+      "elo": 1431.949919466545,
       "recent": [
         {
           "scored": 30,
@@ -1020,9 +1035,14 @@
           "scored": 24,
           "allowed": 45,
           "margin": -21
+        },
+        {
+          "scored": 13,
+          "allowed": 23,
+          "margin": -10
         }
       ],
-      "lastDate": "2026-10-05"
+      "lastDate": "2026-10-11"
     },
     "CAR": {
       "elo": 1466.021748444614,
@@ -1051,7 +1071,7 @@
       "lastDate": "2026-10-04"
     },
     "TEN": {
-      "elo": 1378.3401795120742,
+      "elo": 1370.2368066569438,
       "recent": [
         {
           "scored": 10,
@@ -1072,12 +1092,17 @@
           "scored": 18,
           "allowed": 24,
           "margin": -6
+        },
+        {
+          "scored": 3,
+          "allowed": 26,
+          "margin": -23
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "CIN": {
-      "elo": 1485.7644805660461,
+      "elo": 1496.3789553958784,
       "recent": [
         {
           "scored": 33,
@@ -1098,12 +1123,17 @@
           "scored": 17,
           "allowed": 22,
           "margin": -5
+        },
+        {
+          "scored": 31,
+          "allowed": 24,
+          "margin": 7
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "WAS": {
-      "elo": 1458.9927599677214,
+      "elo": 1457.0709565692987,
       "recent": [
         {
           "scored": 22,
@@ -1124,9 +1154,14 @@
           "scored": 13,
           "allowed": 30,
           "margin": -17
+        },
+        {
+          "scored": 27,
+          "allowed": 27,
+          "margin": 0
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "DAL": {
       "elo": 1479.7994420813263,
@@ -1160,7 +1195,7 @@
       "lastDate": "2026-10-08"
     },
     "SEA": {
-      "elo": 1581.1197637826108,
+      "elo": 1569.1125292207207,
       "recent": [
         {
           "scored": 13,
@@ -1181,12 +1216,17 @@
           "scored": 30,
           "allowed": 23,
           "margin": 7
+        },
+        {
+          "scored": 29,
+          "allowed": 32,
+          "margin": -3
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "DET": {
-      "elo": 1538.5107569652448,
+      "elo": 1546.6273129709155,
       "recent": [
         {
           "scored": 31,
@@ -1207,12 +1247,17 @@
           "scored": 26,
           "allowed": 32,
           "margin": -6
+        },
+        {
+          "scored": 45,
+          "allowed": 21,
+          "margin": 24
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "CHI": {
-      "elo": 1523.678842119316,
+      "elo": 1515.2503623287935,
       "recent": [
         {
           "scored": 59,
@@ -1233,9 +1278,14 @@
           "scored": 23,
           "allowed": 12,
           "margin": 11
+        },
+        {
+          "scored": 7,
+          "allowed": 31,
+          "margin": -24
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "KC": {
       "elo": 1544.327431173413,
@@ -1290,7 +1340,7 @@
       "lastDate": "2026-10-05"
     },
     "MIN": {
-      "elo": 1570.1628563032555,
+      "elo": 1578.0275310397226,
       "recent": [
         {
           "scored": 39,
@@ -1311,12 +1361,17 @@
           "scored": 15,
           "allowed": 10,
           "margin": 5
+        },
+        {
+          "scored": 23,
+          "allowed": 13,
+          "margin": 10
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "NYJ": {
-      "elo": 1410.9350349397293,
+      "elo": 1421.1525266011756,
       "recent": [
         {
           "scored": 23,
@@ -1337,12 +1392,17 @@
           "scored": 12,
           "allowed": 23,
           "margin": -11
+        },
+        {
+          "scored": 17,
+          "allowed": 12,
+          "margin": 5
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "NE": {
-      "elo": 1534.066252044936,
+      "elo": 1540.0903133626034,
       "recent": [
         {
           "scored": 10,
@@ -1363,9 +1423,14 @@
           "scored": 29,
           "allowed": 26,
           "margin": 3
+        },
+        {
+          "scored": 45,
+          "allowed": 17,
+          "margin": 28
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "TB": {
       "elo": 1466.5798508342405,
@@ -1399,7 +1464,7 @@
       "lastDate": "2026-10-08"
     },
     "NYG": {
-      "elo": 1446.381745122835,
+      "elo": 1448.3035485212577,
       "recent": [
         {
           "scored": 28,
@@ -1420,12 +1485,17 @@
           "scored": 36,
           "allowed": 24,
           "margin": 12
+        },
+        {
+          "scored": 27,
+          "allowed": 27,
+          "margin": 0
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "GB": {
-      "elo": 1523.735309462427,
+      "elo": 1532.1637892529495,
       "recent": [
         {
           "scored": 22,
@@ -1446,9 +1516,14 @@
           "scored": 17,
           "allowed": 14,
           "margin": 3
+        },
+        {
+          "scored": 31,
+          "allowed": 7,
+          "margin": 24
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "OAK": {
       "elo": 1497.1699172157669,
@@ -1456,7 +1531,7 @@
       "lastDate": "2019-12-29"
     },
     "CLE": {
-      "elo": 1473.4926610159505,
+      "elo": 1463.2751693545042,
       "recent": [
         {
           "scored": 10,
@@ -1477,12 +1552,17 @@
           "scored": 27,
           "allowed": 24,
           "margin": 3
+        },
+        {
+          "scored": 12,
+          "allowed": 17,
+          "margin": -5
         }
       ],
-      "lastDate": "2026-10-01"
+      "lastDate": "2026-10-11"
     },
     "PIT": {
-      "elo": 1525.807694452157,
+      "elo": 1533.0834957766972,
       "recent": [
         {
           "scored": 20,
@@ -1503,12 +1583,17 @@
           "scored": 24,
           "allowed": 27,
           "margin": -3
+        },
+        {
+          "scored": 34,
+          "allowed": 22,
+          "margin": 12
         }
       ],
-      "lastDate": "2026-10-01"
+      "lastDate": "2026-10-11"
     },
     "JAX": {
-      "elo": 1543.2863179504502,
+      "elo": 1553.5144061419912,
       "recent": [
         {
           "scored": 34,
@@ -1529,12 +1614,17 @@
           "scored": 22,
           "allowed": 17,
           "margin": 5
+        },
+        {
+          "scored": 19,
+          "allowed": 17,
+          "margin": 2
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "SF": {
-      "elo": 1565.4213931164913,
+      "elo": 1577.4286276783814,
       "recent": [
         {
           "scored": 27,
@@ -1555,12 +1645,17 @@
           "scored": 24,
           "allowed": 14,
           "margin": 10
+        },
+        {
+          "scored": 32,
+          "allowed": 29,
+          "margin": 3
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "DEN": {
-      "elo": 1560.475039922712,
+      "elo": 1570.0754781954784,
       "recent": [
         {
           "scored": 10,
@@ -1581,12 +1676,17 @@
           "scored": 14,
           "allowed": 24,
           "margin": -10
+        },
+        {
+          "scored": 23,
+          "allowed": 17,
+          "margin": 6
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "MIA": {
-      "elo": 1452.1404536887912,
+      "elo": 1441.525978858959,
       "recent": [
         {
           "scored": 13,
@@ -1607,9 +1707,14 @@
           "scored": 10,
           "allowed": 15,
           "margin": -5
+        },
+        {
+          "scored": 24,
+          "allowed": 31,
+          "margin": -7
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "SD": {
       "elo": 1498.578448243692,
@@ -1617,7 +1722,7 @@
       "lastDate": "2017-01-01"
     },
     "HOU": {
-      "elo": 1500.0433907908427,
+      "elo": 1508.1467636459731,
       "recent": [
         {
           "scored": 31,
@@ -1638,9 +1743,14 @@
           "scored": 30,
           "allowed": 34,
           "margin": -4
+        },
+        {
+          "scored": 26,
+          "allowed": 3,
+          "margin": 23
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "LA": {
       "elo": 1546.7573143829989,
@@ -1669,7 +1779,7 @@
       "lastDate": "2026-10-04"
     },
     "LAC": {
-      "elo": 1491.5854489502674,
+      "elo": 1481.9850106775011,
       "recent": [
         {
           "scored": 14,
@@ -1690,12 +1800,17 @@
           "scored": 23,
           "allowed": 30,
           "margin": -7
+        },
+        {
+          "scored": 17,
+          "allowed": 23,
+          "margin": -6
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     },
     "LV": {
-      "elo": 1442.8696109415564,
+      "elo": 1436.845549623889,
       "recent": [
         {
           "scored": 27,
@@ -1716,9 +1831,14 @@
           "scored": 27,
           "allowed": 30,
           "margin": -3
+        },
+        {
+          "scored": 17,
+          "allowed": 45,
+          "margin": -28
         }
       ],
-      "lastDate": "2026-10-04"
+      "lastDate": "2026-10-11"
     }
   },
   "limitation": "Score-based pregame baseline. Residual probabilities are uncalibrated estimates; historical margin errors are not betting returns. Sharp weights are heuristics, not learned coefficients."

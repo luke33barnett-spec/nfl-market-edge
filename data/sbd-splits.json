@@ -1942,5 +1942,89 @@
     "moneyPct": 33.8,
     "market": "spreads",
     "sourceEventId": "sr:match:71515900"
+  },
+  {
+    "eventId": "e6d00eedd87d367e510314bd8cab8f6f",
+    "team": "Los Angeles Rams",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-10-12T01:05:46.743Z",
+    "observedAt": "2026-10-12T02:22:49.507Z",
+    "ticketsPct": 20.53,
+    "moneyPct": 24.35,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515898"
+  },
+  {
+    "eventId": "855f58fad5f0f14b239f4f63df27998b",
+    "team": "Denver Broncos",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-10-12T01:05:45.071Z",
+    "observedAt": "2026-10-12T02:22:49.507Z",
+    "ticketsPct": 43.97,
+    "moneyPct": 30.14,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515900"
+  },
+  {
+    "eventId": "57418b2cf5aca558b3c98eafac1e264a",
+    "team": "Jacksonville Jaguars",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-10-12T01:05:44.542Z",
+    "observedAt": "2026-10-12T02:22:49.507Z",
+    "ticketsPct": 64.16,
+    "moneyPct": 41.47,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71488626"
+  },
+  {
+    "eventId": "84aa9e190e625d7e9cd67e1f157a45b4",
+    "team": "Indianapolis Colts",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-10-12T01:05:45.921Z",
+    "observedAt": "2026-10-12T02:22:49.507Z",
+    "ticketsPct": 61.47,
+    "moneyPct": 76.59,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515906"
+  },
+  {
+    "eventId": "0b0b582b32b09ab6ff6664ffae0c9653",
+    "team": "New England Patriots",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-10-12T01:05:48.446Z",
+    "observedAt": "2026-10-12T02:22:49.507Z",
+    "ticketsPct": 61.24,
+    "moneyPct": 64.83,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515908"
+  },
+  {
+    "eventId": "20fefae8c296247460ba5773caa42218",
+    "team": "Kansas City Chiefs",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-10-12T01:05:49.491Z",
+    "observedAt": "2026-10-12T02:22:49.507Z",
+    "ticketsPct": 55.56,
+    "moneyPct": 65.43,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515918"
+  },
+  {
+    "eventId": "45b2690b350ed45145c7a716b18e8e66",
+    "team": "Las Vegas Raiders",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-10-12T01:05:50.484Z",
+    "observedAt": "2026-10-12T02:22:49.507Z",
+    "ticketsPct": 54.13,
+    "moneyPct": 67.87,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515920"
   }
 ]
