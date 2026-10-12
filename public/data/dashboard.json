@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "capturedAt": "2026-10-12T02:22:49.507Z",
-  "creditsRemaining": 481,
+  "capturedAt": "2026-10-12T20:17:08.956Z",
+  "creditsRemaining": 480,
   "games": [
     {
       "id": "e6d00eedd87d367e510314bd8cab8f6f",
@@ -10,133 +10,133 @@
       "awayTeam": "Buffalo Bills",
       "kickoff": "2026-10-13T00:15:00Z",
       "mode": "live",
-      "capturedAt": "2026-10-12T02:22:49.507Z",
+      "capturedAt": "2026-10-12T20:17:08.956Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Buffalo Bills",
           "spread": 3.5,
-          "price": -115,
-          "updatedAt": "2026-10-12T02:21:47Z"
+          "price": -118,
+          "updatedAt": "2026-10-12T20:16:57Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Los Angeles Rams",
           "spread": -3.5,
-          "price": -105,
-          "updatedAt": "2026-10-12T02:21:47Z"
+          "price": -102,
+          "updatedAt": "2026-10-12T20:16:57Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Buffalo Bills",
           "spread": 3.5,
-          "price": -118,
-          "updatedAt": "2026-10-12T02:22:31Z"
+          "price": -115,
+          "updatedAt": "2026-10-12T20:16:40Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Los Angeles Rams",
           "spread": -3.5,
-          "price": -104,
-          "updatedAt": "2026-10-12T02:22:31Z"
+          "price": -105,
+          "updatedAt": "2026-10-12T20:16:40Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Buffalo Bills",
-          "spread": 3,
-          "price": 100,
-          "updatedAt": "2026-10-12T02:21:47Z"
+          "spread": 3.5,
+          "price": -120,
+          "updatedAt": "2026-10-12T20:14:57Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Los Angeles Rams",
-          "spread": -3,
-          "price": -120,
-          "updatedAt": "2026-10-12T02:21:47Z"
+          "spread": -3.5,
+          "price": 100,
+          "updatedAt": "2026-10-12T20:14:57Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Buffalo Bills",
           "spread": 3.5,
           "price": -115,
-          "updatedAt": "2026-10-12T02:22:31Z"
+          "updatedAt": "2026-10-12T20:16:40Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Los Angeles Rams",
           "spread": -3.5,
           "price": -105,
-          "updatedAt": "2026-10-12T02:22:31Z"
+          "updatedAt": "2026-10-12T20:16:40Z"
         },
         {
           "bookmaker": "LowVig.ag",
+          "team": "Buffalo Bills",
+          "spread": 3.5,
+          "price": -115,
+          "updatedAt": "2026-10-12T20:16:27Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "Los Angeles Rams",
+          "spread": -3.5,
+          "price": 104,
+          "updatedAt": "2026-10-12T20:16:27Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Buffalo Bills",
+          "spread": 3.5,
+          "price": -117,
+          "updatedAt": "2026-10-12T20:15:31Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Los Angeles Rams",
+          "spread": -3.5,
+          "price": -103,
+          "updatedAt": "2026-10-12T20:15:31Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Buffalo Bills",
+          "spread": 3.5,
+          "price": -117,
+          "updatedAt": "2026-10-12T20:16:59Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Los Angeles Rams",
+          "spread": -3.5,
+          "price": -105,
+          "updatedAt": "2026-10-12T20:16:59Z"
+        },
+        {
+          "bookmaker": "BetMGM",
           "team": "Buffalo Bills",
           "spread": 3.5,
           "price": -110,
-          "updatedAt": "2026-10-12T02:22:03Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "Los Angeles Rams",
-          "spread": -3.5,
-          "price": 100,
-          "updatedAt": "2026-10-12T02:22:03Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Buffalo Bills",
-          "spread": 3.5,
-          "price": -115,
-          "updatedAt": "2026-10-12T02:22:17Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Los Angeles Rams",
-          "spread": -3.5,
-          "price": -105,
-          "updatedAt": "2026-10-12T02:22:17Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "Buffalo Bills",
-          "spread": 3.5,
-          "price": -118,
-          "updatedAt": "2026-10-12T02:22:47Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "Los Angeles Rams",
-          "spread": -3.5,
-          "price": -104,
-          "updatedAt": "2026-10-12T02:22:47Z"
-        },
-        {
-          "bookmaker": "BetMGM",
-          "team": "Buffalo Bills",
-          "spread": 3.5,
-          "price": -115,
-          "updatedAt": "2026-10-12T02:22:45Z"
+          "updatedAt": "2026-10-12T20:14:30Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Los Angeles Rams",
           "spread": -3.5,
-          "price": -102,
-          "updatedAt": "2026-10-12T02:22:45Z"
+          "price": 100,
+          "updatedAt": "2026-10-12T20:14:30Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Buffalo Bills",
-          "spread": 3,
-          "price": 100,
-          "updatedAt": "2026-10-12T02:10:33Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Los Angeles Rams",
-          "spread": -3,
+          "spread": 3.5,
           "price": -120,
-          "updatedAt": "2026-10-12T02:10:33Z"
+          "updatedAt": "2026-10-12T20:16:45Z"
+        },
+        {
+          "bookmaker": "Bovada",
+          "team": "Los Angeles Rams",
+          "spread": -3.5,
+          "price": 100,
+          "updatedAt": "2026-10-12T20:16:45Z"
         }
       ],
       "firstQuotes": [
@@ -285,7 +285,7 @@
           "capturedAt": "2026-10-06T17:09:41.964Z"
         }
       ],
-      "predictedHomeMargin": -1.3884902923423752,
+      "predictedHomeMargin": -1.3919367465291796,
       "residuals": [
         -8.011576614691666,
         0.8047451736334672,
@@ -1164,6 +1164,10 @@
         {
           "capturedAt": "2026-10-12T02:22:49.507Z",
           "homeSpread": -3.5
+        },
+        {
+          "capturedAt": "2026-10-12T20:17:08.956Z",
+          "homeSpread": -3.5
         }
       ],
       "split": {
@@ -1171,10 +1175,10 @@
         "team": "Los Angeles Rams",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-10-12T01:05:46.743Z",
-        "observedAt": "2026-10-12T02:22:49.507Z",
-        "ticketsPct": 20.53,
-        "moneyPct": 24.35,
+        "capturedAt": "2026-10-12T19:05:49.794Z",
+        "observedAt": "2026-10-12T20:17:08.956Z",
+        "ticketsPct": 22.14,
+        "moneyPct": 21.37,
         "market": "spreads",
         "sourceEventId": "sr:match:71515898"
       }
@@ -1195,10 +1199,10 @@
   "sbdStatus": {
     "enabled": true,
     "status": "ok",
-    "matched": 7,
-    "unmatched": 2,
-    "invalid": 6,
-    "observedAt": "2026-10-12T02:22:49.507Z"
+    "matched": 15,
+    "unmatched": 0,
+    "invalid": 0,
+    "observedAt": "2026-10-12T20:17:08.956Z"
   },
   "notice": "Odds collected from The Odds API. Sharp action is inferred, not identified. Public splits are optional and specific to their source; SBD figures are aggregate percentages. Model probabilities are experimental."
 }

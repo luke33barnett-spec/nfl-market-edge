@@ -3062,6 +3062,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -3248,6 +3252,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -3410,6 +3418,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -3526,6 +3538,22 @@
         "price": -110,
         "updatedAt": "2026-10-11T01:51:21Z",
         "capturedAt": "2026-10-11T01:51:49.801Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Atlanta Falcons",
+        "spread": 3,
+        "price": -102,
+        "updatedAt": "2026-10-12T20:14:30Z",
+        "capturedAt": "2026-10-12T20:17:08.956Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Chicago Bears",
+        "spread": -3,
+        "price": -115,
+        "updatedAt": "2026-10-12T20:14:30Z",
+        "capturedAt": "2026-10-12T20:17:08.956Z"
       }
     ],
     "observations": [
@@ -3536,6 +3564,10 @@
       {
         "capturedAt": "2026-10-11T16:38:36.168Z",
         "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -3652,6 +3684,22 @@
         "price": -110,
         "updatedAt": "2026-10-11T01:51:22Z",
         "capturedAt": "2026-10-11T01:51:49.801Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Baltimore Ravens",
+        "spread": -4.5,
+        "price": -110,
+        "updatedAt": "2026-10-12T20:14:30Z",
+        "capturedAt": "2026-10-12T20:17:08.956Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Cleveland Browns",
+        "spread": 4.5,
+        "price": -108,
+        "updatedAt": "2026-10-12T20:14:30Z",
+        "capturedAt": "2026-10-12T20:17:08.956Z"
       }
     ],
     "observations": [
@@ -3662,6 +3710,10 @@
       {
         "capturedAt": "2026-10-11T16:38:36.168Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -3820,6 +3872,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -1.5
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -1
       }
     ]
   },
@@ -3981,6 +4037,10 @@
       },
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": -7
       }
     ]
@@ -4144,6 +4204,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -7
       }
     ]
   },
@@ -4276,6 +4340,22 @@
         "price": -108,
         "updatedAt": "2026-10-12T02:22:46Z",
         "capturedAt": "2026-10-12T02:22:49.507Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "New Orleans Saints",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-10-12T20:16:45Z",
+        "capturedAt": "2026-10-12T20:17:08.956Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "New York Giants",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-10-12T20:16:45Z",
+        "capturedAt": "2026-10-12T20:17:08.956Z"
       }
     ],
     "observations": [
@@ -4290,6 +4370,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": 1.5
       }
     ]
   },
@@ -4436,6 +4520,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -12.5
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -12.5
       }
     ]
   },
@@ -4581,6 +4669,10 @@
       },
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
+        "homeSpread": 6
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": 6
       }
     ]
@@ -4744,6 +4836,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -8
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -8
       }
     ]
   },
@@ -4898,6 +4994,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -5052,6 +5152,10 @@
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
         "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -1
       }
     ]
   },
@@ -5205,6 +5309,10 @@
     "observations": [
       {
         "capturedAt": "2026-10-12T02:22:49.507Z",
+        "homeSpread": -7.5
+      },
+      {
+        "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": -7.5
       }
     ]
