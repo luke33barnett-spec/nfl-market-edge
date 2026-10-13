@@ -3256,6 +3256,10 @@
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -3422,6 +3426,10 @@
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -3568,6 +3576,10 @@
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -3713,6 +3725,10 @@
       },
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
         "homeSpread": 4.5
       }
     ]
@@ -3875,6 +3891,10 @@
       },
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
         "homeSpread": -1
       }
     ]
@@ -4042,6 +4062,10 @@
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
+        "homeSpread": -7
       }
     ]
   },
@@ -4207,6 +4231,10 @@
       },
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
         "homeSpread": -7
       }
     ]
@@ -4374,6 +4402,10 @@
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
+        "homeSpread": 0.5
       }
     ]
   },
@@ -4840,6 +4872,10 @@
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": -8
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
+        "homeSpread": -8
       }
     ]
   },
@@ -4997,6 +5033,10 @@
       },
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
         "homeSpread": 3
       }
     ]
@@ -5156,6 +5196,10 @@
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
         "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
+        "homeSpread": -1
       }
     ]
   },
@@ -5313,6 +5357,10 @@
       },
       {
         "capturedAt": "2026-10-12T20:17:08.956Z",
+        "homeSpread": -7.5
+      },
+      {
+        "capturedAt": "2026-10-13T03:32:44.155Z",
         "homeSpread": -7.5
       }
     ]
