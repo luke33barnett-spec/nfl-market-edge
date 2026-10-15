@@ -3272,6 +3272,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": 2.5
       }
     ]
   },
@@ -3454,6 +3458,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -3632,6 +3640,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -3810,6 +3822,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": 5.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": 5
       }
     ]
   },
@@ -3988,6 +4004,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": 0
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -4169,6 +4189,10 @@
       },
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
         "homeSpread": -7
       }
     ]
@@ -4352,6 +4376,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": -7
       }
     ]
   },
@@ -4534,6 +4562,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": 1
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -4712,6 +4744,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": -12.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": -12.5
       }
     ]
   },
@@ -4889,6 +4925,10 @@
       },
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
         "homeSpread": 4.5
       }
     ]
@@ -5072,6 +5112,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": -8.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": -8
       }
     ]
   },
@@ -5245,6 +5289,10 @@
       },
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
+        "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
         "homeSpread": 2.5
       }
     ]
@@ -5420,6 +5468,10 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": -1.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": -1.5
       }
     ]
   },
@@ -5594,6 +5646,116 @@
       {
         "capturedAt": "2026-10-14T15:49:27.759Z",
         "homeSpread": -7.5
+      },
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": -7.5
+      }
+    ]
+  },
+  "ffebea881c1d7b2dfb85b3e590c35985": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Chicago Bears",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-10-15T01:27:43Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "New England Patriots",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-10-15T01:27:43Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Chicago Bears",
+        "spread": -2.5,
+        "price": -105,
+        "updatedAt": "2026-10-15T01:27:29Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "New England Patriots",
+        "spread": 2.5,
+        "price": -115,
+        "updatedAt": "2026-10-15T01:27:29Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Chicago Bears",
+        "spread": -2,
+        "price": -110,
+        "updatedAt": "2026-10-15T01:26:54Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "New England Patriots",
+        "spread": 2,
+        "price": -110,
+        "updatedAt": "2026-10-15T01:26:54Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Chicago Bears",
+        "spread": -2.5,
+        "price": -110,
+        "updatedAt": "2026-10-15T01:27:27Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "New England Patriots",
+        "spread": 2.5,
+        "price": 100,
+        "updatedAt": "2026-10-15T01:27:27Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Chicago Bears",
+        "spread": -2.5,
+        "price": -115,
+        "updatedAt": "2026-10-15T01:27:26Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "New England Patriots",
+        "spread": 2.5,
+        "price": -105,
+        "updatedAt": "2026-10-15T01:27:26Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Chicago Bears",
+        "spread": -2.5,
+        "price": -109,
+        "updatedAt": "2026-10-15T01:27:12Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "New England Patriots",
+        "spread": 2.5,
+        "price": -112,
+        "updatedAt": "2026-10-15T01:27:12Z",
+        "capturedAt": "2026-10-15T01:27:49.760Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-15T01:27:49.760Z",
+        "homeSpread": -2.5
       }
     ]
   }
