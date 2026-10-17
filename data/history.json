@@ -3482,6 +3482,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -3679,6 +3683,10 @@
       },
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
+        "homeSpread": 1
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
         "homeSpread": 1
       }
     ]
@@ -3878,6 +3886,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -4076,6 +4088,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -4277,6 +4293,10 @@
       },
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
         "homeSpread": -7
       }
     ]
@@ -4480,6 +4500,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": -7
       }
     ]
   },
@@ -4682,6 +4706,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": 0
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": 0
       }
     ]
   },
@@ -4880,6 +4908,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": -12.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": -12.5
       }
     ]
   },
@@ -5077,6 +5109,10 @@
       },
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
         "homeSpread": 4.5
       }
     ]
@@ -5280,6 +5316,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": -7.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": -7.5
       }
     ]
   },
@@ -5473,6 +5513,10 @@
       },
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
+        "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
         "homeSpread": 2.5
       }
     ]
@@ -5668,6 +5712,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": -1
       }
     ]
   },
@@ -5862,6 +5910,10 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": -7.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": -7.5
       }
     ]
   },
@@ -6000,6 +6052,132 @@
       {
         "capturedAt": "2026-10-17T01:18:35.012Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": -2.5
+      }
+    ]
+  },
+  "2e710ea5a306b614f0f966e3d78732f8": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "New Orleans Saints",
+        "spread": 2.5,
+        "price": -110,
+        "updatedAt": "2026-10-17T14:11:12Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Pittsburgh Steelers",
+        "spread": -2.5,
+        "price": -110,
+        "updatedAt": "2026-10-17T14:11:12Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "New Orleans Saints",
+        "spread": 1.5,
+        "price": -104,
+        "updatedAt": "2026-10-17T14:12:00Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Pittsburgh Steelers",
+        "spread": -1.5,
+        "price": -118,
+        "updatedAt": "2026-10-17T14:12:00Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "New Orleans Saints",
+        "spread": 1.5,
+        "price": -115,
+        "updatedAt": "2026-10-17T14:11:57Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Pittsburgh Steelers",
+        "spread": -1.5,
+        "price": -105,
+        "updatedAt": "2026-10-17T14:11:57Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "New Orleans Saints",
+        "spread": 2.5,
+        "price": -110,
+        "updatedAt": "2026-10-17T14:10:34Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Pittsburgh Steelers",
+        "spread": -2.5,
+        "price": -110,
+        "updatedAt": "2026-10-17T14:10:34Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "New Orleans Saints",
+        "spread": 1.5,
+        "price": -115,
+        "updatedAt": "2026-10-17T14:12:19Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Pittsburgh Steelers",
+        "spread": -1.5,
+        "price": -105,
+        "updatedAt": "2026-10-17T14:12:19Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "New Orleans Saints",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-10-17T14:12:22Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Pittsburgh Steelers",
+        "spread": -1.5,
+        "price": 100,
+        "updatedAt": "2026-10-17T14:12:22Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "New Orleans Saints",
+        "spread": 2,
+        "price": -109,
+        "updatedAt": "2026-10-17T14:11:59Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Pittsburgh Steelers",
+        "spread": -2,
+        "price": -112,
+        "updatedAt": "2026-10-17T14:11:59Z",
+        "capturedAt": "2026-10-17T14:12:30.008Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-17T14:12:30.008Z",
+        "homeSpread": 1.5
       }
     ]
   }
