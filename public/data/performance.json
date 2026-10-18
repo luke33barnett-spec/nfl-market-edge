@@ -1,6 +1,6 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-10-18T01:01:12.760Z",
+  "trainedAt": "2026-10-18T14:33:41.667Z",
   "trainingGames": 3231,
   "evaluations": [
     {
@@ -81,6 +81,20 @@
       "modelVersion": "ridge-v1",
       "status": "loss",
       "profit": -1
+    },
+    {
+      "eventId": "82fd5a159fa130e67abab93a9537f70b",
+      "homeTeam": "Green Bay Packers",
+      "awayTeam": "Dallas Cowboys",
+      "kickoff": "2026-10-19T00:20:00Z",
+      "team": "Green Bay Packers",
+      "spread": 0,
+      "price": -110,
+      "coverProbability": 0.5808823529411765,
+      "capturedAt": "2026-10-18T14:33:42.362Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
     }
   ]
 }
