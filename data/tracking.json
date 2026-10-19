@@ -38,7 +38,7 @@
     "coverProbability": 0.5808823529411765,
     "capturedAt": "2026-10-18T14:33:42.362Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "win",
+    "profit": 0.9090909090909091
   }
 ]

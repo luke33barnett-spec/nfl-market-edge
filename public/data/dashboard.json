@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "capturedAt": "2026-10-19T01:14:49.873Z",
-  "creditsRemaining": 467,
+  "capturedAt": "2026-10-19T17:28:13.008Z",
+  "creditsRemaining": 466,
   "games": [
     {
       "id": "f122527f003276d3bca19efa48c902c1",
@@ -10,133 +10,133 @@
       "awayTeam": "Washington Commanders",
       "kickoff": "2026-10-20T00:15:00Z",
       "mode": "live",
-      "capturedAt": "2026-10-19T01:14:49.873Z",
+      "capturedAt": "2026-10-19T17:28:13.008Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "San Francisco 49ers",
           "spread": -7.5,
-          "price": -110,
-          "updatedAt": "2026-10-19T01:13:52Z"
+          "price": -108,
+          "updatedAt": "2026-10-19T17:26:01Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Washington Commanders",
           "spread": 7.5,
-          "price": -110,
-          "updatedAt": "2026-10-19T01:13:52Z"
+          "price": -112,
+          "updatedAt": "2026-10-19T17:26:01Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "San Francisco 49ers",
-          "spread": -8,
-          "price": -105,
-          "updatedAt": "2026-10-19T01:14:09Z"
+          "spread": -7.5,
+          "price": -110,
+          "updatedAt": "2026-10-19T17:27:19Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Washington Commanders",
-          "spread": 8,
+          "spread": 7.5,
+          "price": -110,
+          "updatedAt": "2026-10-19T17:27:19Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "San Francisco 49ers",
+          "spread": -7.5,
+          "price": -105,
+          "updatedAt": "2026-10-19T17:28:00Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Washington Commanders",
+          "spread": 7.5,
           "price": -115,
-          "updatedAt": "2026-10-19T01:14:09Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "San Francisco 49ers",
-          "spread": -7.5,
-          "price": -108,
-          "updatedAt": "2026-10-19T01:14:28Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Washington Commanders",
-          "spread": 7.5,
-          "price": -112,
-          "updatedAt": "2026-10-19T01:14:28Z"
+          "updatedAt": "2026-10-19T17:28:00Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "San Francisco 49ers",
           "spread": -7.5,
-          "price": -103,
-          "updatedAt": "2026-10-19T01:14:29Z"
+          "price": -101,
+          "updatedAt": "2026-10-19T17:27:19Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Washington Commanders",
           "spread": 7.5,
-          "price": -107,
-          "updatedAt": "2026-10-19T01:14:29Z"
+          "price": -109,
+          "updatedAt": "2026-10-19T17:27:19Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "San Francisco 49ers",
           "spread": -7.5,
           "price": -108,
-          "updatedAt": "2026-10-19T01:14:29Z"
+          "updatedAt": "2026-10-19T17:27:38Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Washington Commanders",
           "spread": 7.5,
           "price": -112,
-          "updatedAt": "2026-10-19T01:14:29Z"
+          "updatedAt": "2026-10-19T17:27:38Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "San Francisco 49ers",
           "spread": -7.5,
-          "price": -107,
-          "updatedAt": "2026-10-19T01:14:48Z"
+          "price": -106,
+          "updatedAt": "2026-10-19T17:27:20Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Washington Commanders",
           "spread": 7.5,
-          "price": -114,
-          "updatedAt": "2026-10-19T01:14:48Z"
+          "price": -115,
+          "updatedAt": "2026-10-19T17:27:20Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "San Francisco 49ers",
           "spread": -7.5,
           "price": -110,
-          "updatedAt": "2026-10-19T01:13:35Z"
+          "updatedAt": "2026-10-19T17:27:38Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Washington Commanders",
           "spread": 7.5,
           "price": -110,
-          "updatedAt": "2026-10-19T01:13:35Z"
+          "updatedAt": "2026-10-19T17:27:38Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "San Francisco 49ers",
           "spread": -7.5,
           "price": -105,
-          "updatedAt": "2026-10-19T01:14:09Z"
+          "updatedAt": "2026-10-19T17:28:00Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Washington Commanders",
           "spread": 7.5,
           "price": -112,
-          "updatedAt": "2026-10-19T01:14:09Z"
+          "updatedAt": "2026-10-19T17:28:00Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "San Francisco 49ers",
           "spread": -7.5,
-          "price": -110,
-          "updatedAt": "2026-10-19T01:13:19Z"
+          "price": -105,
+          "updatedAt": "2026-10-19T17:28:03Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Washington Commanders",
           "spread": 7.5,
-          "price": -110,
-          "updatedAt": "2026-10-19T01:13:19Z"
+          "price": -115,
+          "updatedAt": "2026-10-19T17:28:03Z"
         }
       ],
       "firstQuotes": [
@@ -285,7 +285,7 @@
           "capturedAt": "2026-10-12T02:22:49.507Z"
         }
       ],
-      "predictedHomeMargin": 10.431692160430087,
+      "predictedHomeMargin": 10.435785639469009,
       "residuals": [
         -8.011576614691666,
         0.8047451736334672,
@@ -1164,6 +1164,10 @@
         {
           "capturedAt": "2026-10-19T01:14:49.873Z",
           "homeSpread": -7.5
+        },
+        {
+          "capturedAt": "2026-10-19T17:28:13.008Z",
+          "homeSpread": -7.5
         }
       ],
       "split": {
@@ -1171,10 +1175,10 @@
         "team": "San Francisco 49ers",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-10-19T00:05:49.149Z",
-        "observedAt": "2026-10-19T01:14:49.873Z",
-        "ticketsPct": 78.82,
-        "moneyPct": 82.6,
+        "capturedAt": "2026-10-19T17:05:47.985Z",
+        "observedAt": "2026-10-19T17:28:13.008Z",
+        "ticketsPct": 77.39,
+        "moneyPct": 82.18,
         "market": "spreads",
         "sourceEventId": "sr:match:71515924"
       }
@@ -1195,10 +1199,10 @@
   "sbdStatus": {
     "enabled": true,
     "status": "ok",
-    "matched": 6,
-    "unmatched": 2,
-    "invalid": 7,
-    "observedAt": "2026-10-19T01:14:49.873Z"
+    "matched": 14,
+    "unmatched": 0,
+    "invalid": 1,
+    "observedAt": "2026-10-19T17:28:13.008Z"
   },
   "notice": "Odds collected from The Odds API. Sharp action is inferred, not identified. Public splits are optional and specific to their source; SBD figures are aggregate percentages. Model probabilities are experimental."
 }
