@@ -6212,6 +6212,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -6382,6 +6386,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -6682,6 +6690,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -6847,6 +6859,10 @@
       },
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -3
       }
     ]
@@ -7014,6 +7030,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": 2
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": 2
       }
     ]
   },
@@ -7175,6 +7195,10 @@
       },
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
+        "homeSpread": -9.5
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -9.5
       }
     ]
@@ -7342,6 +7366,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": -5.5
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -6
       }
     ]
   },
@@ -7508,6 +7536,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": -5
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -5
       }
     ]
   },
@@ -7624,6 +7656,22 @@
         "price": -105,
         "updatedAt": "2026-10-19T17:28:00Z",
         "capturedAt": "2026-10-19T17:28:13.008Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Detroit Lions",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-20T01:47:03Z",
+        "capturedAt": "2026-10-20T01:49:02.474Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Green Bay Packers",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-10-20T01:47:03Z",
+        "capturedAt": "2026-10-20T01:49:02.474Z"
       }
     ],
     "observations": [
@@ -7637,6 +7685,10 @@
       },
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -3
       }
     ]
@@ -7788,6 +7840,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": 5.5
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -7920,6 +7976,22 @@
         "price": -110,
         "updatedAt": "2026-10-19T17:27:19Z",
         "capturedAt": "2026-10-19T17:28:13.008Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Arizona Cardinals",
+        "spread": 4,
+        "price": -110,
+        "updatedAt": "2026-10-20T01:47:03Z",
+        "capturedAt": "2026-10-20T01:49:02.474Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Denver Broncos",
+        "spread": -4,
+        "price": -110,
+        "updatedAt": "2026-10-20T01:47:03Z",
+        "capturedAt": "2026-10-20T01:49:02.474Z"
       }
     ],
     "observations": [
@@ -7930,6 +8002,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -8088,6 +8164,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": -2
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -8209,6 +8289,10 @@
     "observations": [
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": 4.5
       }
     ]
