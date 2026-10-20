@@ -6216,6 +6216,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -6390,6 +6394,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -6540,6 +6548,10 @@
       {
         "capturedAt": "2026-10-19T17:28:13.008Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -6672,6 +6684,22 @@
         "price": -110,
         "updatedAt": "2026-10-19T01:13:35Z",
         "capturedAt": "2026-10-19T01:14:49.873Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": 100,
+        "updatedAt": "2026-10-20T15:38:48Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Cincinnati Bengals",
+        "spread": 3,
+        "price": -120,
+        "updatedAt": "2026-10-20T15:38:48Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
       }
     ],
     "observations": [
@@ -6693,6 +6721,10 @@
       },
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -2.5
       }
     ]
@@ -6864,6 +6896,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -7034,6 +7070,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": 2
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": 1.5
       }
     ]
   },
@@ -7200,6 +7240,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -9.5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -10
       }
     ]
   },
@@ -7369,6 +7413,10 @@
       },
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -6
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -6
       }
     ]
@@ -7540,6 +7588,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -5
       }
     ]
   },
@@ -7672,6 +7724,22 @@
         "price": -110,
         "updatedAt": "2026-10-20T01:47:03Z",
         "capturedAt": "2026-10-20T01:49:02.474Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Detroit Lions",
+        "spread": -3,
+        "price": -115,
+        "updatedAt": "2026-10-20T15:38:48Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Green Bay Packers",
+        "spread": 3,
+        "price": -105,
+        "updatedAt": "2026-10-20T15:38:48Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
       }
     ],
     "observations": [
@@ -7689,6 +7757,10 @@
       },
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -3
       }
     ]
@@ -7822,6 +7894,22 @@
         "price": -110,
         "updatedAt": "2026-10-19T01:13:19Z",
         "capturedAt": "2026-10-19T01:14:49.873Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Las Vegas Raiders",
+        "spread": 4.5,
+        "price": -110,
+        "updatedAt": "2026-10-20T15:37:34Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Los Angeles Rams",
+        "spread": -4.5,
+        "price": -110,
+        "updatedAt": "2026-10-20T15:37:34Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
       }
     ],
     "observations": [
@@ -7843,6 +7931,10 @@
       },
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": 4.5
       }
     ]
@@ -8006,6 +8098,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": 4
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -8168,6 +8264,10 @@
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -8284,6 +8384,22 @@
         "price": -108,
         "updatedAt": "2026-10-19T17:28:00Z",
         "capturedAt": "2026-10-19T17:28:13.008Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Dallas Cowboys",
+        "spread": -4.5,
+        "price": -110,
+        "updatedAt": "2026-10-20T15:38:48Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Philadelphia Eagles",
+        "spread": 4.5,
+        "price": -110,
+        "updatedAt": "2026-10-20T15:38:48Z",
+        "capturedAt": "2026-10-20T15:38:52.182Z"
       }
     ],
     "observations": [
@@ -8293,6 +8409,10 @@
       },
       {
         "capturedAt": "2026-10-20T01:49:02.474Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": 4.5
       }
     ]
