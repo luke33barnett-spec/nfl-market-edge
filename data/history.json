@@ -6220,6 +6220,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -6398,6 +6402,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -6530,6 +6538,22 @@
         "price": -110,
         "updatedAt": "2026-10-19T01:13:35Z",
         "capturedAt": "2026-10-19T01:14:49.873Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Atlanta Falcons",
+        "spread": 3.5,
+        "price": -120,
+        "updatedAt": "2026-10-21T01:32:22Z",
+        "capturedAt": "2026-10-21T01:34:11.266Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "San Francisco 49ers",
+        "spread": -3.5,
+        "price": 100,
+        "updatedAt": "2026-10-21T01:32:22Z",
+        "capturedAt": "2026-10-21T01:34:11.266Z"
       }
     ],
     "observations": [
@@ -6552,6 +6576,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -6725,6 +6753,10 @@
       },
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
         "homeSpread": -2.5
       }
     ]
@@ -6900,6 +6932,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -7074,6 +7110,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": 1.5
       }
     ]
   },
@@ -7243,6 +7283,10 @@
       },
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
         "homeSpread": -10
       }
     ]
@@ -7418,6 +7462,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -6
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": -6.5
       }
     ]
   },
@@ -7592,6 +7640,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": -5
       }
     ]
   },
@@ -7761,6 +7813,10 @@
       },
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
         "homeSpread": -3
       }
     ]
@@ -7936,6 +7992,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -8102,6 +8162,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -8268,6 +8332,10 @@
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -8400,6 +8468,22 @@
         "price": -110,
         "updatedAt": "2026-10-20T15:38:48Z",
         "capturedAt": "2026-10-20T15:38:52.182Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Dallas Cowboys",
+        "spread": -4.5,
+        "price": -110,
+        "updatedAt": "2026-10-21T01:33:30Z",
+        "capturedAt": "2026-10-21T01:34:11.266Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Philadelphia Eagles",
+        "spread": 4.5,
+        "price": -110,
+        "updatedAt": "2026-10-21T01:33:30Z",
+        "capturedAt": "2026-10-21T01:34:11.266Z"
       }
     ],
     "observations": [
@@ -8413,6 +8497,10 @@
       },
       {
         "capturedAt": "2026-10-20T15:38:52.182Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-21T01:34:11.266Z",
         "homeSpread": 4.5
       }
     ]
