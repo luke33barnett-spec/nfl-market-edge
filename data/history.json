@@ -6228,6 +6228,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -6414,6 +6418,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -6591,6 +6599,10 @@
       },
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
+        "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
         "homeSpread": 3
       }
     ]
@@ -6774,6 +6786,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -6955,6 +6971,10 @@
       },
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
         "homeSpread": -3
       }
     ]
@@ -7138,6 +7158,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": 1.5
       }
     ]
   },
@@ -7316,6 +7340,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": -10.5
       }
     ]
   },
@@ -7497,6 +7525,10 @@
       },
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
+        "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
         "homeSpread": -6.5
       }
     ]
@@ -7680,6 +7712,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": -5
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": -4.5
       }
     ]
   },
@@ -7857,6 +7893,10 @@
       },
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
         "homeSpread": -3
       }
     ]
@@ -8040,6 +8080,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": 4
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -8213,6 +8257,10 @@
       },
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
+        "homeSpread": 4
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
         "homeSpread": 4
       }
     ]
@@ -8388,6 +8436,10 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -8558,6 +8610,116 @@
       {
         "capturedAt": "2026-10-21T15:56:45.138Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": 4.5
+      }
+    ]
+  },
+  "ab2865e9f2d4b012de8bc6fb6de11a7c": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -115,
+        "updatedAt": "2026-10-22T01:29:53Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Green Bay Packers",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-10-22T01:29:53Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-10-22T01:30:14Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Green Bay Packers",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-22T01:30:14Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -108,
+        "updatedAt": "2026-10-22T01:29:53Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Green Bay Packers",
+        "spread": -3,
+        "price": -112,
+        "updatedAt": "2026-10-22T01:29:53Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -112,
+        "updatedAt": "2026-10-22T01:29:29Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Green Bay Packers",
+        "spread": -3,
+        "price": -109,
+        "updatedAt": "2026-10-22T01:29:29Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -105,
+        "updatedAt": "2026-10-22T01:30:15Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Green Bay Packers",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-10-22T01:30:15Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-10-22T01:30:14Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Green Bay Packers",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-22T01:30:14Z",
+        "capturedAt": "2026-10-22T01:30:15.491Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-22T01:30:15.491Z",
+        "homeSpread": -3
       }
     ]
   }
