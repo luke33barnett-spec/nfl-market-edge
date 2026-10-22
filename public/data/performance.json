@@ -1,6 +1,6 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-10-22T01:30:14.570Z",
+  "trainedAt": "2026-10-22T15:52:37.776Z",
   "trainingGames": 3244,
   "evaluations": [
     {
@@ -95,6 +95,20 @@
       "modelVersion": "ridge-v1",
       "status": "win",
       "profit": 0.9090909090909091
+    },
+    {
+      "eventId": "4853610e63c246f2027a6a248e642c9a",
+      "homeTeam": "Philadelphia Eagles",
+      "awayTeam": "Dallas Cowboys",
+      "kickoff": "2026-10-27T00:15:00Z",
+      "team": "Philadelphia Eagles",
+      "spread": 4.5,
+      "price": -108,
+      "coverProbability": 0.7463235294117647,
+      "capturedAt": "2026-10-22T15:52:38.371Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
     }
   ]
 }
