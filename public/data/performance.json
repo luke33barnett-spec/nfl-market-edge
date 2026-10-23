@@ -1,7 +1,7 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-10-23T01:29:47.926Z",
-  "trainingGames": 3244,
+  "trainedAt": "2026-10-23T15:44:02.511Z",
+  "trainingGames": 3245,
   "evaluations": [
     {
       "season": 2023,
@@ -29,27 +29,27 @@
   "coefficients": [
     {
       "name": "home field",
-      "value": 0.8546245946156339
+      "value": 0.8557076869026721
     },
     {
       "name": "Elo difference",
-      "value": 4.786466722742954
+      "value": 4.785485731736975
     },
     {
       "name": "recent margin difference",
-      "value": 1.0785916617361364
+      "value": 1.0789717236343555
     },
     {
       "name": "offense difference",
-      "value": 1.1404642957921975
+      "value": 1.1411796601992639
     },
     {
       "name": "defense difference",
-      "value": -0.06187263405669643
+      "value": -0.06220793656555413
     },
     {
       "name": "rest advantage",
-      "value": 0.8717980746784222
+      "value": 0.8718697269499749
     }
   ],
   "source": "nflverse regular-season game results",
