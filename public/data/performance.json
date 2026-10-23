@@ -1,6 +1,6 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-10-22T15:52:37.776Z",
+  "trainedAt": "2026-10-23T01:29:47.926Z",
   "trainingGames": 3244,
   "evaluations": [
     {
@@ -106,6 +106,20 @@
       "price": -108,
       "coverProbability": 0.7463235294117647,
       "capturedAt": "2026-10-22T15:52:38.371Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "e8e5715eefb6a9ce64765e9ddf49c0cc",
+      "homeTeam": "Detroit Lions",
+      "awayTeam": "Green Bay Packers",
+      "kickoff": "2026-10-25T20:25:00Z",
+      "team": "Detroit Lions",
+      "spread": -3.5,
+      "price": 102,
+      "coverProbability": 0.5281862745098039,
+      "capturedAt": "2026-10-23T01:29:49.020Z",
       "modelVersion": "ridge-v1",
       "status": "pending",
       "profit": null
