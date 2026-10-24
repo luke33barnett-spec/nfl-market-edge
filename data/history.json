@@ -6438,6 +6438,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -6631,6 +6635,10 @@
       },
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
+        "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
         "homeSpread": 2.5
       }
     ]
@@ -6830,6 +6838,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": -1.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -7027,6 +7039,10 @@
       },
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
         "homeSpread": -3
       }
     ]
@@ -7226,6 +7242,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": 2
       }
     ]
   },
@@ -7419,6 +7439,10 @@
       },
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
+        "homeSpread": -10.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
         "homeSpread": -10.5
       }
     ]
@@ -7618,6 +7642,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": -6.5
       }
     ]
   },
@@ -7816,6 +7844,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": -4.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": -4.5
       }
     ]
   },
@@ -8010,6 +8042,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -8208,6 +8244,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -8397,6 +8437,10 @@
       },
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
         "homeSpread": 4.5
       }
     ]
@@ -8588,6 +8632,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -8774,6 +8822,10 @@
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
         "homeSpread": 4
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -8874,6 +8926,22 @@
         "price": -110,
         "updatedAt": "2026-10-22T01:30:14Z",
         "capturedAt": "2026-10-22T01:30:15.491Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-10-24T01:32:26Z",
+        "capturedAt": "2026-10-24T01:34:34.535Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Green Bay Packers",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-24T01:32:26Z",
+        "capturedAt": "2026-10-24T01:34:34.535Z"
       }
     ],
     "observations": [
@@ -8891,6 +8959,10 @@
       },
       {
         "capturedAt": "2026-10-23T15:44:03.467Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-24T01:34:34.535Z",
         "homeSpread": -3
       }
     ]
