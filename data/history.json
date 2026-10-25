@@ -6656,6 +6656,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 2.5
       }
     ]
   },
@@ -6865,6 +6869,10 @@
       },
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": 3
       }
     ]
@@ -7076,6 +7084,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -7286,6 +7298,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 2
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 2
       }
     ]
   },
@@ -7491,6 +7507,10 @@
       },
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": -10.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": -10.5
       }
     ]
@@ -7702,6 +7722,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -7
       }
     ]
   },
@@ -7912,6 +7936,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": -4
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -4
       }
     ]
   },
@@ -8117,6 +8145,10 @@
       },
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": -3.5
       }
     ]
@@ -8328,6 +8360,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -8529,6 +8565,10 @@
       },
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": 4.5
       }
     ]
@@ -8732,6 +8772,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -8930,6 +8974,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -9076,6 +9124,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -9181,6 +9233,10 @@
     "observations": [
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": -6
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": -6
       }
     ]
@@ -9288,6 +9344,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 0
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 0
       }
     ]
   },
@@ -9394,6 +9454,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -9499,6 +9563,10 @@
     "observations": [
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": -9.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": -9.5
       }
     ]
@@ -9712,6 +9780,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -9817,6 +9889,10 @@
     "observations": [
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": -7
       }
     ]
@@ -9924,6 +10000,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 0
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 0
       }
     ]
   },
@@ -10029,6 +10109,10 @@
     "observations": [
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
         "homeSpread": -7
       }
     ]
@@ -10136,6 +10220,10 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 1.5
       }
     ]
   },
@@ -10242,6 +10330,116 @@
       {
         "capturedAt": "2026-10-25T01:08:59.786Z",
         "homeSpread": 8
+      },
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": 8.5
+      }
+    ]
+  },
+  "b9c60db63b1a19ad319f24b33c0defe8": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Philadelphia Eagles",
+        "spread": 3.5,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:44Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Washington Commanders",
+        "spread": -3.5,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:44Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Philadelphia Eagles",
+        "spread": 4,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:46Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Washington Commanders",
+        "spread": -4,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:46Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Philadelphia Eagles",
+        "spread": 3.5,
+        "price": -102,
+        "updatedAt": "2026-10-25T14:56:22Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Washington Commanders",
+        "spread": -3.5,
+        "price": -120,
+        "updatedAt": "2026-10-25T14:56:22Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Philadelphia Eagles",
+        "spread": 4,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:45Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Washington Commanders",
+        "spread": -4,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:45Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Philadelphia Eagles",
+        "spread": 4,
+        "price": -105,
+        "updatedAt": "2026-10-25T14:56:02Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Washington Commanders",
+        "spread": -4,
+        "price": -105,
+        "updatedAt": "2026-10-25T14:56:02Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Philadelphia Eagles",
+        "spread": 4,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:25Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Washington Commanders",
+        "spread": -4,
+        "price": -110,
+        "updatedAt": "2026-10-25T14:56:25Z",
+        "capturedAt": "2026-10-25T14:56:47.269Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-25T14:56:47.269Z",
+        "homeSpread": -4
       }
     ]
   }
