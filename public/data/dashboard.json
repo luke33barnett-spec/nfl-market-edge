@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "capturedAt": "2026-10-26T01:08:21.325Z",
-  "creditsRemaining": 453,
+  "capturedAt": "2026-10-26T17:22:13.468Z",
+  "creditsRemaining": 452,
   "games": [
     {
       "id": "4853610e63c246f2027a6a248e642c9a",
@@ -10,133 +10,133 @@
       "awayTeam": "Dallas Cowboys",
       "kickoff": "2026-10-27T00:15:00Z",
       "mode": "live",
-      "capturedAt": "2026-10-26T01:08:21.325Z",
+      "capturedAt": "2026-10-26T17:22:13.468Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Dallas Cowboys",
           "spread": -4.5,
           "price": -108,
-          "updatedAt": "2026-10-26T01:07:58Z"
+          "updatedAt": "2026-10-26T17:22:06Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Philadelphia Eagles",
           "spread": 4.5,
           "price": -112,
-          "updatedAt": "2026-10-26T01:07:58Z"
+          "updatedAt": "2026-10-26T17:22:06Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Dallas Cowboys",
           "spread": -4,
           "price": -110,
-          "updatedAt": "2026-10-26T01:07:59Z"
+          "updatedAt": "2026-10-26T17:21:40Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Philadelphia Eagles",
           "spread": 4,
           "price": -110,
-          "updatedAt": "2026-10-26T01:07:59Z"
+          "updatedAt": "2026-10-26T17:21:40Z"
         },
         {
           "bookmaker": "FanDuel",
-          "team": "Dallas Cowboys",
-          "spread": -4.5,
-          "price": -115,
-          "updatedAt": "2026-10-26T01:08:20Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Philadelphia Eagles",
-          "spread": 4.5,
-          "price": -105,
-          "updatedAt": "2026-10-26T01:08:20Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Dallas Cowboys",
-          "spread": -4.5,
-          "price": -110,
-          "updatedAt": "2026-10-26T01:08:20Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Philadelphia Eagles",
-          "spread": 4.5,
-          "price": -110,
-          "updatedAt": "2026-10-26T01:08:20Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "Dallas Cowboys",
-          "spread": -4.5,
-          "price": -106,
-          "updatedAt": "2026-10-26T01:07:01Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "Philadelphia Eagles",
-          "spread": 4.5,
-          "price": -104,
-          "updatedAt": "2026-10-26T01:07:01Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "Dallas Cowboys",
-          "spread": -4.5,
-          "price": -112,
-          "updatedAt": "2026-10-26T01:08:03Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "Philadelphia Eagles",
-          "spread": 4.5,
-          "price": -109,
-          "updatedAt": "2026-10-26T01:08:03Z"
-        },
-        {
-          "bookmaker": "BetMGM",
           "team": "Dallas Cowboys",
           "spread": -4.5,
           "price": -108,
-          "updatedAt": "2026-10-26T01:07:58Z"
+          "updatedAt": "2026-10-26T17:22:04Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Philadelphia Eagles",
+          "spread": 4.5,
+          "price": -112,
+          "updatedAt": "2026-10-26T17:22:04Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Dallas Cowboys",
+          "spread": -4.5,
+          "price": -107,
+          "updatedAt": "2026-10-26T17:22:04Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Philadelphia Eagles",
+          "spread": 4.5,
+          "price": -113,
+          "updatedAt": "2026-10-26T17:22:04Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "Dallas Cowboys",
+          "spread": -4.5,
+          "price": -101,
+          "updatedAt": "2026-10-26T17:21:41Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "Philadelphia Eagles",
+          "spread": 4.5,
+          "price": -109,
+          "updatedAt": "2026-10-26T17:21:41Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Dallas Cowboys",
+          "spread": -4.5,
+          "price": -109,
+          "updatedAt": "2026-10-26T17:22:04Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Philadelphia Eagles",
+          "spread": 4.5,
+          "price": -112,
+          "updatedAt": "2026-10-26T17:22:04Z"
+        },
+        {
+          "bookmaker": "BetMGM",
+          "team": "Dallas Cowboys",
+          "spread": -4.5,
+          "price": -110,
+          "updatedAt": "2026-10-26T17:21:40Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Philadelphia Eagles",
           "spread": 4.5,
-          "price": -110,
-          "updatedAt": "2026-10-26T01:07:58Z"
+          "price": -120,
+          "updatedAt": "2026-10-26T17:21:40Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Dallas Cowboys",
-          "spread": -4.5,
+          "spread": -4,
           "price": -110,
-          "updatedAt": "2026-10-26T01:07:59Z"
+          "updatedAt": "2026-10-26T17:20:06Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Philadelphia Eagles",
-          "spread": 4.5,
+          "spread": 4,
           "price": -110,
-          "updatedAt": "2026-10-26T01:07:59Z"
+          "updatedAt": "2026-10-26T17:20:06Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Dallas Cowboys",
-          "spread": -4.5,
-          "price": -110,
-          "updatedAt": "2026-10-26T01:07:44Z"
+          "spread": -4,
+          "price": -115,
+          "updatedAt": "2026-10-26T17:13:11Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Philadelphia Eagles",
-          "spread": 4.5,
-          "price": -110,
-          "updatedAt": "2026-10-26T01:07:44Z"
+          "spread": 4,
+          "price": -105,
+          "updatedAt": "2026-10-26T17:13:11Z"
         }
       ],
       "firstQuotes": [
@@ -285,7 +285,7 @@
           "capturedAt": "2026-10-21T01:34:11.266Z"
         }
       ],
-      "predictedHomeMargin": 3.1204932085956862,
+      "predictedHomeMargin": 3.1290390307011298,
       "residuals": [
         -8.011576614691666,
         0.8047451736334672,
@@ -1160,6 +1160,10 @@
         {
           "capturedAt": "2026-10-26T01:08:21.325Z",
           "homeSpread": 4.5
+        },
+        {
+          "capturedAt": "2026-10-26T17:22:13.468Z",
+          "homeSpread": 4.5
         }
       ],
       "split": {
@@ -1167,10 +1171,10 @@
         "team": "Philadelphia Eagles",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-10-26T00:05:46.832Z",
-        "observedAt": "2026-10-26T01:08:21.325Z",
-        "ticketsPct": 47.58,
-        "moneyPct": 39.9,
+        "capturedAt": "2026-10-26T16:05:49.812Z",
+        "observedAt": "2026-10-26T17:22:13.468Z",
+        "ticketsPct": 42.8,
+        "moneyPct": 31.91,
         "market": "spreads",
         "sourceEventId": "sr:match:71515950"
       }
@@ -1191,10 +1195,10 @@
   "sbdStatus": {
     "enabled": true,
     "status": "ok",
-    "matched": 8,
-    "unmatched": 1,
-    "invalid": 5,
-    "observedAt": "2026-10-26T01:08:21.325Z"
+    "matched": 13,
+    "unmatched": 0,
+    "invalid": 2,
+    "observedAt": "2026-10-26T17:22:13.468Z"
   },
   "notice": "Odds collected from The Odds API. Sharp action is inferred, not identified. Public splits are optional and specific to their source; SBD figures are aggregate percentages. Model probabilities are experimental."
 }
