@@ -1,7 +1,7 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-10-27T02:04:24.323Z",
-  "trainingGames": 3257,
+  "trainedAt": "2026-10-27T16:36:47.915Z",
+  "trainingGames": 3258,
   "evaluations": [
     {
       "season": 2023,
@@ -29,27 +29,27 @@
   "coefficients": [
     {
       "name": "home field",
-      "value": 0.8644408064278551
+      "value": 0.8617815560014154
     },
     {
       "name": "Elo difference",
-      "value": 4.792212769900586
+      "value": 4.781637887654112
     },
     {
       "name": "recent margin difference",
-      "value": 1.0668149384606929
+      "value": 1.070618233281903
     },
     {
       "name": "offense difference",
-      "value": 1.118388533058579
+      "value": 1.127503928257769
     },
     {
       "name": "defense difference",
-      "value": -0.05157359459831673
+      "value": -0.05688569497632848
     },
     {
       "name": "rest advantage",
-      "value": 0.9575545685037186
+      "value": 0.956664059378074
     }
   ],
   "source": "nflverse regular-season game results",
@@ -107,8 +107,8 @@
       "coverProbability": 0.7463235294117647,
       "capturedAt": "2026-10-22T15:52:38.371Z",
       "modelVersion": "ridge-v1",
-      "status": "pending",
-      "profit": null
+      "status": "loss",
+      "profit": -1
     },
     {
       "eventId": "e8e5715eefb6a9ce64765e9ddf49c0cc",
@@ -123,6 +123,34 @@
       "modelVersion": "ridge-v1",
       "status": "loss",
       "profit": -1
+    },
+    {
+      "eventId": "05405af79752f5e742cdf50b61f6745e",
+      "homeTeam": "Miami Dolphins",
+      "awayTeam": "New England Patriots",
+      "kickoff": "2026-11-01T21:25:00Z",
+      "team": "Miami Dolphins",
+      "spread": 7,
+      "price": -102,
+      "coverProbability": 0.5612745098039216,
+      "capturedAt": "2026-10-27T16:36:48.876Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "2ff84d3f6053d083c8c0a5bebf7cdd4c",
+      "homeTeam": "Los Angeles Rams",
+      "awayTeam": "Los Angeles Chargers",
+      "kickoff": "2026-11-01T21:05:00Z",
+      "team": "Los Angeles Chargers",
+      "spread": 6.5,
+      "price": -102,
+      "coverProbability": 0.5245098039215687,
+      "capturedAt": "2026-10-27T16:36:48.876Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
     }
   ]
 }

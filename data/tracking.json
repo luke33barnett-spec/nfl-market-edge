@@ -52,8 +52,8 @@
     "coverProbability": 0.7463235294117647,
     "capturedAt": "2026-10-22T15:52:38.371Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "loss",
+    "profit": -1
   },
   {
     "eventId": "e8e5715eefb6a9ce64765e9ddf49c0cc",
@@ -68,5 +68,33 @@
     "modelVersion": "ridge-v1",
     "status": "loss",
     "profit": -1
+  },
+  {
+    "eventId": "05405af79752f5e742cdf50b61f6745e",
+    "homeTeam": "Miami Dolphins",
+    "awayTeam": "New England Patriots",
+    "kickoff": "2026-11-01T21:25:00Z",
+    "team": "Miami Dolphins",
+    "spread": 7,
+    "price": -102,
+    "coverProbability": 0.5612745098039216,
+    "capturedAt": "2026-10-27T16:36:48.876Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  },
+  {
+    "eventId": "2ff84d3f6053d083c8c0a5bebf7cdd4c",
+    "homeTeam": "Los Angeles Rams",
+    "awayTeam": "Los Angeles Chargers",
+    "kickoff": "2026-11-01T21:05:00Z",
+    "team": "Los Angeles Chargers",
+    "spread": 6.5,
+    "price": -102,
+    "coverProbability": 0.5245098039215687,
+    "capturedAt": "2026-10-27T16:36:48.876Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]
