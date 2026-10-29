@@ -9192,6 +9192,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -9369,6 +9373,10 @@
       },
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
         "homeSpread": -7
       }
     ]
@@ -9552,6 +9560,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": -2
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -9733,6 +9745,10 @@
       },
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
         "homeSpread": -3
       }
     ]
@@ -9916,6 +9932,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": -10.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -10.5
       }
     ]
   },
@@ -10093,6 +10113,10 @@
       },
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
         "homeSpread": -3.5
       }
     ]
@@ -10276,6 +10300,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -10458,6 +10486,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": -9.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -10
       }
     ]
   },
@@ -10639,6 +10671,10 @@
       },
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
+        "homeSpread": -1.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
         "homeSpread": -1.5
       }
     ]
@@ -10822,6 +10858,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -6.5
       }
     ]
   },
@@ -11000,6 +11040,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": 1
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": 1.5
       }
     ]
   },
@@ -11182,6 +11226,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -11356,6 +11404,10 @@
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
         "homeSpread": -5.5
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -5.5
       }
     ]
   },
@@ -11525,6 +11577,132 @@
       },
       {
         "capturedAt": "2026-10-28T17:09:27.316Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
+        "homeSpread": -3
+      }
+    ]
+  },
+  "c75744790b7acf6260c78ba5e739c0e5": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-10-29T02:23:56Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Jacksonville Jaguars",
+        "spread": 3,
+        "price": -115,
+        "updatedAt": "2026-10-29T02:23:56Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": 100,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Jacksonville Jaguars",
+        "spread": 3,
+        "price": -120,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-10-29T02:25:33Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Jacksonville Jaguars",
+        "spread": 3,
+        "price": -115,
+        "updatedAt": "2026-10-29T02:25:33Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": -103,
+        "updatedAt": "2026-10-29T02:25:12Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Jacksonville Jaguars",
+        "spread": 3,
+        "price": -117,
+        "updatedAt": "2026-10-29T02:25:12Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": -101,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Jacksonville Jaguars",
+        "spread": 3,
+        "price": -109,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": -107,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Jacksonville Jaguars",
+        "spread": 3,
+        "price": -114,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Baltimore Ravens",
+        "spread": -3,
+        "price": -110,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Jacksonville Jaguars",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-10-29T02:25:11Z",
+        "capturedAt": "2026-10-29T02:25:54.621Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-29T02:25:54.621Z",
         "homeSpread": -3
       }
     ]
