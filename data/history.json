@@ -9398,6 +9398,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -7
       }
     ]
   },
@@ -9599,6 +9603,10 @@
       },
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
         "homeSpread": -2.5
       }
     ]
@@ -9802,6 +9810,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -10004,6 +10016,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -12.5
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -12.5
       }
     ]
   },
@@ -10201,6 +10217,10 @@
       },
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
         "homeSpread": -3.5
       }
     ]
@@ -10404,6 +10424,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -10605,6 +10629,10 @@
       },
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
+        "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
         "homeSpread": -10
       }
     ]
@@ -10808,6 +10836,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -1
       }
     ]
   },
@@ -11010,6 +11042,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -6.5
       }
     ]
   },
@@ -11207,6 +11243,10 @@
       },
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
+        "homeSpread": 1
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
         "homeSpread": 1
       }
     ]
@@ -11410,6 +11450,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -11604,6 +11648,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -5.5
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -5.5
       }
     ]
   },
@@ -11794,6 +11842,10 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -11932,6 +11984,116 @@
       {
         "capturedAt": "2026-10-31T02:20:17.336Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": -3
+      }
+    ]
+  },
+  "dc56d980f527ffeef89940133b211b13": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Atlanta Falcons",
+        "spread": 3,
+        "price": 100,
+        "updatedAt": "2026-10-31T16:04:17Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Cincinnati Bengals",
+        "spread": -3,
+        "price": -120,
+        "updatedAt": "2026-10-31T16:04:17Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Atlanta Falcons",
+        "spread": 3,
+        "price": -105,
+        "updatedAt": "2026-10-31T16:05:06Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Cincinnati Bengals",
+        "spread": -3,
+        "price": -115,
+        "updatedAt": "2026-10-31T16:05:06Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Atlanta Falcons",
+        "spread": 2.5,
+        "price": 100,
+        "updatedAt": "2026-10-31T16:05:07Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Cincinnati Bengals",
+        "spread": -2.5,
+        "price": -120,
+        "updatedAt": "2026-10-31T16:05:07Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Atlanta Falcons",
+        "spread": 2.5,
+        "price": 105,
+        "updatedAt": "2026-10-31T16:05:06Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Cincinnati Bengals",
+        "spread": -2.5,
+        "price": -125,
+        "updatedAt": "2026-10-31T16:05:06Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Atlanta Falcons",
+        "spread": 2.5,
+        "price": 109,
+        "updatedAt": "2026-10-31T16:04:44Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Cincinnati Bengals",
+        "spread": -2.5,
+        "price": -120,
+        "updatedAt": "2026-10-31T16:04:44Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Atlanta Falcons",
+        "spread": 3,
+        "price": -106,
+        "updatedAt": "2026-10-31T16:04:45Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Cincinnati Bengals",
+        "spread": -3,
+        "price": -115,
+        "updatedAt": "2026-10-31T16:04:45Z",
+        "capturedAt": "2026-10-31T16:05:29.452Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-10-31T16:05:29.452Z",
+        "homeSpread": 3
       }
     ]
   }
