@@ -9406,6 +9406,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -7.5
       }
     ]
   },
@@ -9616,6 +9620,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -1.5
       }
     ]
   },
@@ -9825,6 +9833,10 @@
       },
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": -3
       }
     ]
@@ -10036,6 +10048,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -12.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -13.5
       }
     ]
   },
@@ -10241,6 +10257,10 @@
       },
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": -3.5
       }
     ]
@@ -10452,6 +10472,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -10661,6 +10685,10 @@
       },
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": -10
       }
     ]
@@ -10872,6 +10900,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -1.5
       }
     ]
   },
@@ -11082,6 +11114,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -6.5
       }
     ]
   },
@@ -11287,6 +11323,10 @@
       },
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": 1
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": 1
       }
     ]
@@ -11498,6 +11538,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -11700,6 +11744,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -6
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -6
       }
     ]
   },
@@ -11898,6 +11946,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -12044,6 +12096,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -12153,6 +12209,10 @@
       },
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": 3
       }
     ]
@@ -12276,6 +12336,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": 2.5
       }
     ]
   },
@@ -12397,6 +12461,10 @@
     "observations": [
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": -2.5
       }
     ]
@@ -12520,6 +12588,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -12642,6 +12714,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": 7.5
       }
     ]
   },
@@ -12763,6 +12839,10 @@
     "observations": [
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": -9.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": -9.5
       }
     ]
@@ -12886,6 +12966,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": 5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": 5.5
       }
     ]
   },
@@ -13007,6 +13091,10 @@
     "observations": [
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": 1.5
       }
     ]
@@ -13130,6 +13218,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -13252,6 +13344,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -10.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -10
       }
     ]
   },
@@ -13373,6 +13469,10 @@
     "observations": [
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": -11
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": -11
       }
     ]
@@ -13496,6 +13596,10 @@
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -13617,6 +13721,10 @@
     "observations": [
       {
         "capturedAt": "2026-11-01T02:12:40.556Z",
+        "homeSpread": -6
+      },
+      {
+        "capturedAt": "2026-11-01T17:07:06.300Z",
         "homeSpread": -6
       }
     ]
