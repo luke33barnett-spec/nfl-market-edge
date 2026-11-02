@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "capturedAt": "2026-11-02T02:29:43.848Z",
-  "creditsRemaining": 497,
+  "capturedAt": "2026-11-02T20:45:53.090Z",
+  "creditsRemaining": 496,
   "games": [
     {
       "id": "7d664fbcd39350e559d83c0068ba7169",
@@ -10,133 +10,133 @@
       "awayTeam": "Chicago Bears",
       "kickoff": "2026-11-03T01:20:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-02T02:29:43.848Z",
+      "capturedAt": "2026-11-02T20:45:53.090Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Chicago Bears",
-          "spread": 3,
-          "price": -102,
-          "updatedAt": "2026-11-02T02:29:34Z"
+          "spread": 3.5,
+          "price": -118,
+          "updatedAt": "2026-11-02T20:44:42Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Seattle Seahawks",
+          "spread": -3.5,
+          "price": -102,
+          "updatedAt": "2026-11-02T20:44:42Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Chicago Bears",
+          "spread": 3.5,
+          "price": -120,
+          "updatedAt": "2026-11-02T20:45:34Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Seattle Seahawks",
+          "spread": -3.5,
+          "price": -102,
+          "updatedAt": "2026-11-02T20:45:34Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Chicago Bears",
+          "spread": 3,
+          "price": -104,
+          "updatedAt": "2026-11-02T20:44:43Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Seattle Seahawks",
           "spread": -3,
           "price": -118,
-          "updatedAt": "2026-11-02T02:29:34Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Chicago Bears",
-          "spread": 3,
-          "price": -102,
-          "updatedAt": "2026-11-02T02:29:34Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Seattle Seahawks",
-          "spread": -3,
-          "price": -120,
-          "updatedAt": "2026-11-02T02:29:34Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "Chicago Bears",
-          "spread": 3,
-          "price": -107,
-          "updatedAt": "2026-11-02T02:29:14Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "Seattle Seahawks",
-          "spread": -3,
-          "price": -114,
-          "updatedAt": "2026-11-02T02:29:14Z"
+          "updatedAt": "2026-11-02T20:44:43Z"
         },
         {
           "bookmaker": "LowVig.ag",
+          "team": "Chicago Bears",
+          "spread": 3.5,
+          "price": -118,
+          "updatedAt": "2026-11-02T20:45:09Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "Seattle Seahawks",
+          "spread": -3.5,
+          "price": 107,
+          "updatedAt": "2026-11-02T20:45:09Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
           "team": "Chicago Bears",
           "spread": 3,
           "price": 100,
-          "updatedAt": "2026-11-02T02:29:36Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "Seattle Seahawks",
-          "spread": -3,
-          "price": -110,
-          "updatedAt": "2026-11-02T02:29:36Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Chicago Bears",
-          "spread": 3,
-          "price": -105,
-          "updatedAt": "2026-11-02T02:29:12Z"
+          "updatedAt": "2026-11-02T20:45:09Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Seattle Seahawks",
           "spread": -3,
-          "price": -115,
-          "updatedAt": "2026-11-02T02:29:12Z"
+          "price": -120,
+          "updatedAt": "2026-11-02T20:45:09Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Chicago Bears",
           "spread": 3,
           "price": 100,
-          "updatedAt": "2026-11-02T02:28:48Z"
+          "updatedAt": "2026-11-02T20:44:43Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Seattle Seahawks",
           "spread": -3,
           "price": -120,
-          "updatedAt": "2026-11-02T02:28:48Z"
+          "updatedAt": "2026-11-02T20:44:43Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Chicago Bears",
           "spread": 3,
-          "price": -105,
-          "updatedAt": "2026-11-02T02:29:11Z"
+          "price": 100,
+          "updatedAt": "2026-11-02T20:43:56Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Seattle Seahawks",
           "spread": -3,
-          "price": -115,
-          "updatedAt": "2026-11-02T02:29:11Z"
+          "price": -120,
+          "updatedAt": "2026-11-02T20:43:56Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Chicago Bears",
           "spread": 3.5,
-          "price": -125,
-          "updatedAt": "2026-11-02T02:29:12Z"
+          "price": -118,
+          "updatedAt": "2026-11-02T20:44:44Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Seattle Seahawks",
           "spread": -3.5,
-          "price": -105,
-          "updatedAt": "2026-11-02T02:29:12Z"
+          "price": -102,
+          "updatedAt": "2026-11-02T20:44:44Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Chicago Bears",
           "spread": 3,
-          "price": -105,
-          "updatedAt": "2026-11-02T02:28:06Z"
+          "price": 100,
+          "updatedAt": "2026-11-02T20:44:01Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Seattle Seahawks",
           "spread": -3,
-          "price": -115,
-          "updatedAt": "2026-11-02T02:28:06Z"
+          "price": -120,
+          "updatedAt": "2026-11-02T20:44:01Z"
         }
       ],
       "firstQuotes": [
@@ -285,7 +285,7 @@
           "capturedAt": "2026-10-26T17:22:13.468Z"
         }
       ],
-      "predictedHomeMargin": 2.8668460143110988,
+      "predictedHomeMargin": 2.8514854286075955,
       "residuals": [
         -8.011576614691666,
         0.8047451736334672,
@@ -1160,6 +1160,10 @@
         {
           "capturedAt": "2026-11-02T02:29:43.848Z",
           "homeSpread": -3
+        },
+        {
+          "capturedAt": "2026-11-02T20:45:53.090Z",
+          "homeSpread": -3
         }
       ],
       "split": {
@@ -1167,10 +1171,10 @@
         "team": "Seattle Seahawks",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-02T02:05:49.180Z",
-        "observedAt": "2026-11-02T02:29:43.848Z",
-        "ticketsPct": 38.81,
-        "moneyPct": 27.6,
+        "capturedAt": "2026-11-02T20:05:45.685Z",
+        "observedAt": "2026-11-02T20:45:53.090Z",
+        "ticketsPct": 43.6,
+        "moneyPct": 35.37,
         "market": "spreads",
         "sourceEventId": "sr:match:71515978"
       }
@@ -1191,10 +1195,10 @@
   "sbdStatus": {
     "enabled": true,
     "status": "ok",
-    "matched": 3,
-    "unmatched": 3,
-    "invalid": 10,
-    "observedAt": "2026-11-02T02:29:43.848Z"
+    "matched": 14,
+    "unmatched": 1,
+    "invalid": 1,
+    "observedAt": "2026-11-02T20:45:53.090Z"
   },
   "notice": "Odds collected from The Odds API. Sharp action is inferred, not identified. Public splits are optional and specific to their source; SBD figures are aggregate percentages. Model probabilities are experimental."
 }

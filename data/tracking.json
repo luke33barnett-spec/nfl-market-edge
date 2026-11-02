@@ -80,8 +80,8 @@
     "coverProbability": 0.5612745098039216,
     "capturedAt": "2026-10-27T16:36:48.876Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "win",
+    "profit": 0.9803921568627451
   },
   {
     "eventId": "2ff84d3f6053d083c8c0a5bebf7cdd4c",
@@ -94,7 +94,7 @@
     "coverProbability": 0.5245098039215687,
     "capturedAt": "2026-10-27T16:36:48.876Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "loss",
+    "profit": -1
   }
 ]
