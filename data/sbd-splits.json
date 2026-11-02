@@ -8638,5 +8638,41 @@
     "moneyPct": 72.28,
     "market": "spreads",
     "sourceEventId": "sr:match:71474296"
+  },
+  {
+    "eventId": "7d664fbcd39350e559d83c0068ba7169",
+    "team": "Seattle Seahawks",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-02T02:05:49.180Z",
+    "observedAt": "2026-11-02T02:29:43.848Z",
+    "ticketsPct": 38.81,
+    "moneyPct": 27.6,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515978"
+  },
+  {
+    "eventId": "c75744790b7acf6260c78ba5e739c0e5",
+    "team": "Baltimore Ravens",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-02T02:05:46.363Z",
+    "observedAt": "2026-11-02T02:29:43.848Z",
+    "ticketsPct": 34.82,
+    "moneyPct": 32.88,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71515980"
+  },
+  {
+    "eventId": "dc56d980f527ffeef89940133b211b13",
+    "team": "Atlanta Falcons",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-02T01:05:47.574Z",
+    "observedAt": "2026-11-02T02:29:43.848Z",
+    "ticketsPct": 75.23,
+    "moneyPct": 71.68,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71474296"
   }
 ]
