@@ -96,5 +96,19 @@
     "modelVersion": "ridge-v1",
     "status": "loss",
     "profit": -1
+  },
+  {
+    "eventId": "415fc42e72888c63e82f7bce24c65391",
+    "homeTeam": "Indianapolis Colts",
+    "awayTeam": "Dallas Cowboys",
+    "kickoff": "2026-11-08T18:00:00Z",
+    "team": "Indianapolis Colts",
+    "spread": 5.5,
+    "price": -101,
+    "coverProbability": 0.6482843137254902,
+    "capturedAt": "2026-11-04T18:38:02.560Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]
