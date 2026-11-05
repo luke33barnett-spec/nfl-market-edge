@@ -110,5 +110,19 @@
     "modelVersion": "ridge-v1",
     "status": "pending",
     "profit": null
+  },
+  {
+    "eventId": "89de07377e0aa8ffaa2ae6a7dc0855cc",
+    "homeTeam": "Washington Commanders",
+    "awayTeam": "Los Angeles Rams",
+    "kickoff": "2026-11-08T18:00:00Z",
+    "team": "Washington Commanders",
+    "spread": 5.5,
+    "price": -110,
+    "coverProbability": 0.5857843137254902,
+    "capturedAt": "2026-11-05T03:28:38.671Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]
