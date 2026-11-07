@@ -12378,6 +12378,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -12579,6 +12583,10 @@
       },
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
+        "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
         "homeSpread": 2.5
       }
     ]
@@ -12782,6 +12790,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -12984,6 +12996,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": 5
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -13185,6 +13201,10 @@
       },
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
+        "homeSpread": 6.5
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
         "homeSpread": 6.5
       }
     ]
@@ -13388,6 +13408,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": -9.5
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": -9.5
       }
     ]
   },
@@ -13586,6 +13610,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -13783,6 +13811,10 @@
       },
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
+        "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
         "homeSpread": 3
       }
     ]
@@ -13986,6 +14018,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": 6
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": 6
       }
     ]
   },
@@ -14188,6 +14224,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": -10
       }
     ]
   },
@@ -14385,6 +14425,10 @@
       },
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
+        "homeSpread": -8.5
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
         "homeSpread": -8.5
       }
     ]
@@ -14588,6 +14632,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -14786,6 +14834,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": -6
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": -6
       }
     ]
   },
@@ -14980,6 +15032,10 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -15118,6 +15174,132 @@
       {
         "capturedAt": "2026-11-07T02:47:05.328Z",
         "homeSpread": -1.5
+      },
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": -1.5
+      }
+    ]
+  },
+  "b8c10fdf1e0ac4e13deee7f7c0af0b0b": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Detroit Lions",
+        "spread": 1.5,
+        "price": -115,
+        "updatedAt": "2026-11-07T16:48:44Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "New England Patriots",
+        "spread": -1.5,
+        "price": -105,
+        "updatedAt": "2026-11-07T16:48:44Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Detroit Lions",
+        "spread": -1.5,
+        "price": 100,
+        "updatedAt": "2026-11-07T16:49:39Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "New England Patriots",
+        "spread": 1.5,
+        "price": -120,
+        "updatedAt": "2026-11-07T16:49:39Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Detroit Lions",
+        "spread": -1,
+        "price": -110,
+        "updatedAt": "2026-11-07T16:49:11Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "New England Patriots",
+        "spread": 1,
+        "price": -110,
+        "updatedAt": "2026-11-07T16:49:11Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Detroit Lions",
+        "spread": 0,
+        "price": -110,
+        "updatedAt": "2026-11-07T16:48:44Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "New England Patriots",
+        "spread": 0,
+        "price": -110,
+        "updatedAt": "2026-11-07T16:48:44Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Detroit Lions",
+        "spread": -1,
+        "price": -110,
+        "updatedAt": "2026-11-07T16:48:46Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "New England Patriots",
+        "spread": 1,
+        "price": -110,
+        "updatedAt": "2026-11-07T16:48:46Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Detroit Lions",
+        "spread": -1,
+        "price": -105,
+        "updatedAt": "2026-11-07T16:49:36Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "New England Patriots",
+        "spread": 1,
+        "price": -105,
+        "updatedAt": "2026-11-07T16:49:36Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Detroit Lions",
+        "spread": 1,
+        "price": -117,
+        "updatedAt": "2026-11-07T16:49:35Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "New England Patriots",
+        "spread": -1,
+        "price": -105,
+        "updatedAt": "2026-11-07T16:49:35Z",
+        "capturedAt": "2026-11-07T16:49:48.269Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-11-07T16:49:48.269Z",
+        "homeSpread": -1
       }
     ]
   }
