@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "capturedAt": "2026-11-09T02:39:00.989Z",
-  "creditsRemaining": 483,
+  "capturedAt": "2026-11-09T21:25:44.614Z",
+  "creditsRemaining": 482,
   "games": [
     {
       "id": "17ad7eff2f7875e20a8109abe40470e3",
@@ -10,133 +10,133 @@
       "awayTeam": "Buffalo Bills",
       "kickoff": "2026-11-10T01:15:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-09T02:39:00.989Z",
+      "capturedAt": "2026-11-09T21:25:44.614Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Buffalo Bills",
-          "spread": -3,
-          "price": -120,
-          "updatedAt": "2026-11-09T02:37:27Z"
+          "spread": -3.5,
+          "price": -105,
+          "updatedAt": "2026-11-09T21:25:14Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Minnesota Vikings",
+          "spread": 3.5,
+          "price": -115,
+          "updatedAt": "2026-11-09T21:25:14Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Buffalo Bills",
+          "spread": -3,
+          "price": -120,
+          "updatedAt": "2026-11-09T21:25:14Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Minnesota Vikings",
           "spread": 3,
           "price": 100,
-          "updatedAt": "2026-11-09T02:37:27Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Buffalo Bills",
-          "spread": -3,
-          "price": -115,
-          "updatedAt": "2026-11-09T02:38:53Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Minnesota Vikings",
-          "spread": 3,
-          "price": -105,
-          "updatedAt": "2026-11-09T02:38:53Z"
+          "updatedAt": "2026-11-09T21:25:14Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Buffalo Bills",
           "spread": -3,
-          "price": -115,
-          "updatedAt": "2026-11-09T02:38:52Z"
+          "price": -120,
+          "updatedAt": "2026-11-09T21:24:41Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Minnesota Vikings",
           "spread": 3,
-          "price": -105,
-          "updatedAt": "2026-11-09T02:38:52Z"
+          "price": 100,
+          "updatedAt": "2026-11-09T21:24:41Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Buffalo Bills",
-          "spread": -3,
-          "price": -110,
-          "updatedAt": "2026-11-09T02:38:52Z"
+          "spread": -3.5,
+          "price": 100,
+          "updatedAt": "2026-11-09T21:25:15Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Minnesota Vikings",
-          "spread": 3,
-          "price": -110,
-          "updatedAt": "2026-11-09T02:38:52Z"
+          "spread": 3.5,
+          "price": -120,
+          "updatedAt": "2026-11-09T21:25:15Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Buffalo Bills",
-          "spread": -3,
-          "price": -109,
-          "updatedAt": "2026-11-09T02:38:01Z"
+          "spread": -3.5,
+          "price": 105,
+          "updatedAt": "2026-11-09T21:25:35Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Minnesota Vikings",
-          "spread": 3,
-          "price": -101,
-          "updatedAt": "2026-11-09T02:38:01Z"
+          "spread": 3.5,
+          "price": -116,
+          "updatedAt": "2026-11-09T21:25:35Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Buffalo Bills",
-          "spread": -3,
-          "price": -114,
-          "updatedAt": "2026-11-09T02:38:20Z"
+          "spread": -3.5,
+          "price": -104,
+          "updatedAt": "2026-11-09T21:25:15Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Minnesota Vikings",
-          "spread": 3,
-          "price": -107,
-          "updatedAt": "2026-11-09T02:38:20Z"
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "team": "Buffalo Bills",
-          "spread": -3,
-          "price": -110,
-          "updatedAt": "2026-11-09T02:38:37Z"
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "team": "Minnesota Vikings",
-          "spread": 3,
-          "price": -110,
-          "updatedAt": "2026-11-09T02:38:37Z"
-        },
-        {
-          "bookmaker": "BetMGM",
-          "team": "Buffalo Bills",
-          "spread": -3,
+          "spread": 3.5,
           "price": -118,
-          "updatedAt": "2026-11-09T02:37:27Z"
+          "updatedAt": "2026-11-09T21:25:15Z"
+        },
+        {
+          "bookmaker": "MyBookie.ag",
+          "team": "Buffalo Bills",
+          "spread": -3.5,
+          "price": -110,
+          "updatedAt": "2026-11-09T21:24:58Z"
+        },
+        {
+          "bookmaker": "MyBookie.ag",
+          "team": "Minnesota Vikings",
+          "spread": 3.5,
+          "price": -110,
+          "updatedAt": "2026-11-09T21:24:58Z"
+        },
+        {
+          "bookmaker": "BetMGM",
+          "team": "Buffalo Bills",
+          "spread": -3.5,
+          "price": -105,
+          "updatedAt": "2026-11-09T21:25:16Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Minnesota Vikings",
-          "spread": 3,
-          "price": -102,
-          "updatedAt": "2026-11-09T02:37:27Z"
+          "spread": 3.5,
+          "price": -115,
+          "updatedAt": "2026-11-09T21:25:16Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Buffalo Bills",
-          "spread": -3,
-          "price": -117,
-          "updatedAt": "2026-11-09T02:37:51Z"
+          "spread": -3.5,
+          "price": -105,
+          "updatedAt": "2026-11-09T21:23:51Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Minnesota Vikings",
-          "spread": 3,
-          "price": -103,
-          "updatedAt": "2026-11-09T02:37:51Z"
+          "spread": 3.5,
+          "price": -115,
+          "updatedAt": "2026-11-09T21:23:51Z"
         }
       ],
       "firstQuotes": [
@@ -285,7 +285,7 @@
           "capturedAt": "2026-11-02T20:45:53.090Z"
         }
       ],
-      "predictedHomeMargin": -1.2280841222261798,
+      "predictedHomeMargin": -1.2276131214768773,
       "residuals": [
         -8.011576614691666,
         0.8047451736334672,
@@ -1164,6 +1164,10 @@
         {
           "capturedAt": "2026-11-09T02:39:00.989Z",
           "homeSpread": 3
+        },
+        {
+          "capturedAt": "2026-11-09T21:25:44.614Z",
+          "homeSpread": 3.5
         }
       ],
       "split": {
@@ -1171,10 +1175,10 @@
         "team": "Minnesota Vikings",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-09T02:05:48.458Z",
-        "observedAt": "2026-11-09T02:39:00.989Z",
-        "ticketsPct": 32.19,
-        "moneyPct": 44.79,
+        "capturedAt": "2026-11-09T21:05:47.987Z",
+        "observedAt": "2026-11-09T21:25:44.614Z",
+        "ticketsPct": 34.88,
+        "moneyPct": 45.23,
         "market": "spreads",
         "sourceEventId": "sr:match:71516006"
       }
@@ -1195,10 +1199,10 @@
   "sbdStatus": {
     "enabled": true,
     "status": "ok",
-    "matched": 3,
+    "matched": 15,
     "unmatched": 0,
-    "invalid": 12,
-    "observedAt": "2026-11-09T02:39:00.989Z"
+    "invalid": 0,
+    "observedAt": "2026-11-09T21:25:44.614Z"
   },
   "notice": "Odds collected from The Odds API. Sharp action is inferred, not identified. Public splits are optional and specific to their source; SBD figures are aggregate percentages. Model probabilities are experimental."
 }
