@@ -10798,5 +10798,41 @@
     "moneyPct": 33.77,
     "market": "spreads",
     "sourceEventId": "sr:match:71488892"
+  },
+  {
+    "eventId": "17ad7eff2f7875e20a8109abe40470e3",
+    "team": "Minnesota Vikings",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-09T02:05:48.458Z",
+    "observedAt": "2026-11-09T02:39:00.989Z",
+    "ticketsPct": 32.19,
+    "moneyPct": 44.79,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71516006"
+  },
+  {
+    "eventId": "74d39e19225caf211ad2c8eb4110179f",
+    "team": "New York Giants",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-09T01:05:49.085Z",
+    "observedAt": "2026-11-09T02:39:00.989Z",
+    "ticketsPct": 50,
+    "moneyPct": 66.59,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71516008"
+  },
+  {
+    "eventId": "b8c10fdf1e0ac4e13deee7f7c0af0b0b",
+    "team": "Detroit Lions",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-09T02:05:46.752Z",
+    "observedAt": "2026-11-09T02:39:00.989Z",
+    "ticketsPct": 6.89,
+    "moneyPct": 34.05,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71488892"
   }
 ]
