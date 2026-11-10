@@ -15346,6 +15346,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": -2
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -15520,6 +15524,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -15686,6 +15694,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -15818,6 +15830,22 @@
         "price": -112,
         "updatedAt": "2026-11-09T02:37:27Z",
         "capturedAt": "2026-11-09T02:39:00.989Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Buffalo Bills",
+        "spread": -8,
+        "price": -110,
+        "updatedAt": "2026-11-10T18:37:55Z",
+        "capturedAt": "2026-11-10T18:39:54.355Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "New York Jets",
+        "spread": 8,
+        "price": -110,
+        "updatedAt": "2026-11-10T18:37:55Z",
+        "capturedAt": "2026-11-10T18:39:54.355Z"
       }
     ],
     "observations": [
@@ -15840,6 +15868,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": 8.5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": 8
       }
     ]
   },
@@ -16009,6 +16041,10 @@
       },
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
+        "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
         "homeSpread": -1
       }
     ]
@@ -16180,6 +16216,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": 5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": 5
       }
     ]
   },
@@ -16330,6 +16370,10 @@
       {
         "capturedAt": "2026-11-09T21:25:44.614Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": -5
       }
     ]
   },
@@ -16499,6 +16543,10 @@
       },
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
         "homeSpread": -2.5
       }
     ]
@@ -16670,6 +16718,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": 10
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": 10.5
       }
     ]
   },
@@ -16839,6 +16891,10 @@
       },
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
+        "homeSpread": 9.5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
         "homeSpread": 9.5
       }
     ]
@@ -17010,6 +17066,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": 4
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -17176,6 +17236,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -17338,6 +17402,10 @@
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -17483,6 +17551,10 @@
       },
       {
         "capturedAt": "2026-11-10T04:36:47.716Z",
+        "homeSpread": -5
+      },
+      {
+        "capturedAt": "2026-11-10T18:39:54.355Z",
         "homeSpread": -5
       }
     ]

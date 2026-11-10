@@ -1,6 +1,6 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-11-10T04:36:46.754Z",
+  "trainedAt": "2026-11-10T18:39:53.351Z",
   "trainingGames": 3287,
   "evaluations": [
     {
@@ -179,6 +179,20 @@
       "modelVersion": "ridge-v1",
       "status": "loss",
       "profit": -1
+    },
+    {
+      "eventId": "b8c10fdf1e0ac4e13deee7f7c0af0b0b",
+      "homeTeam": "Detroit Lions",
+      "awayTeam": "New England Patriots",
+      "kickoff": "2026-11-15T14:30:00Z",
+      "team": "Detroit Lions",
+      "spread": -3,
+      "price": 105,
+      "coverProbability": 0.5183823529411765,
+      "capturedAt": "2026-11-10T18:39:54.355Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
     }
   ]
 }
