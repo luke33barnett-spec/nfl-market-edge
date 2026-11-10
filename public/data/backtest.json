@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:25:44.450Z",
+  "generatedAt": "2026-11-10T04:36:47.548Z",
   "experiment": {
     "id": "margin-gap-v1",
     "description": "One side per game, selected by a pregame margin model versus the historical recorded spread.",
