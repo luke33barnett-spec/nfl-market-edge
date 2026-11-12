@@ -138,5 +138,19 @@
     "modelVersion": "ridge-v1",
     "status": "pending",
     "profit": null
+  },
+  {
+    "eventId": "5d8d85473b87f772a979ecf294acab94",
+    "homeTeam": "Green Bay Packers",
+    "awayTeam": "Minnesota Vikings",
+    "kickoff": "2026-11-15T18:00:00Z",
+    "team": "Minnesota Vikings",
+    "spread": 3,
+    "price": 100,
+    "coverProbability": 0.508578431372549,
+    "capturedAt": "2026-11-12T03:48:24.950Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]

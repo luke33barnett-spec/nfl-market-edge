@@ -15358,6 +15358,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": -2
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": -2
       }
     ]
   },
@@ -15544,6 +15548,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -15722,6 +15730,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -15903,6 +15915,10 @@
       },
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
+        "homeSpread": 8
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
         "homeSpread": 8
       }
     ]
@@ -16086,6 +16102,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -16268,6 +16288,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": 5
       }
     ]
   },
@@ -16446,6 +16470,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -16627,6 +16655,10 @@
       },
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
         "homeSpread": -3.5
       }
     ]
@@ -16810,6 +16842,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": 10.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": 10.5
       }
     ]
   },
@@ -16991,6 +17027,10 @@
       },
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
+        "homeSpread": 9.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
         "homeSpread": 9.5
       }
     ]
@@ -17174,6 +17214,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": 4
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -17352,6 +17396,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": -3.5
       }
     ]
   },
@@ -17526,6 +17574,10 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": 6.5
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": 6.5
       }
     ]
   },
@@ -17658,6 +17710,22 @@
         "price": -112,
         "updatedAt": "2026-11-09T02:37:52Z",
         "capturedAt": "2026-11-09T02:39:00.989Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Baltimore Ravens",
+        "spread": -4.5,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:46:27Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Los Angeles Chargers",
+        "spread": 4.5,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:46:27Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
       }
     ],
     "observations": [
@@ -17684,6 +17752,132 @@
       {
         "capturedAt": "2026-11-11T18:41:12.868Z",
         "homeSpread": -4
+      },
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": -4
+      }
+    ]
+  },
+  "66f9e83cf025d58acee12bce18661fb3": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Houston Texans",
+        "spread": -10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:47:44Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Indianapolis Colts",
+        "spread": 10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:47:44Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Houston Texans",
+        "spread": -9.5,
+        "price": -115,
+        "updatedAt": "2026-11-12T03:48:05Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Indianapolis Colts",
+        "spread": 9.5,
+        "price": -105,
+        "updatedAt": "2026-11-12T03:48:05Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Houston Texans",
+        "spread": -10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:48:05Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Indianapolis Colts",
+        "spread": 10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:48:05Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Houston Texans",
+        "spread": -10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:47:45Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Indianapolis Colts",
+        "spread": 10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:47:45Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Houston Texans",
+        "spread": -10,
+        "price": -105,
+        "updatedAt": "2026-11-12T03:48:06Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Indianapolis Colts",
+        "spread": 10,
+        "price": -105,
+        "updatedAt": "2026-11-12T03:48:06Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Houston Texans",
+        "spread": -10,
+        "price": -114,
+        "updatedAt": "2026-11-12T03:47:11Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Indianapolis Colts",
+        "spread": 10,
+        "price": -107,
+        "updatedAt": "2026-11-12T03:47:11Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Houston Texans",
+        "spread": -10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:46:27Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Indianapolis Colts",
+        "spread": 10,
+        "price": -110,
+        "updatedAt": "2026-11-12T03:46:27Z",
+        "capturedAt": "2026-11-12T03:48:24.950Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-11-12T03:48:24.950Z",
+        "homeSpread": -10
       }
     ]
   }
