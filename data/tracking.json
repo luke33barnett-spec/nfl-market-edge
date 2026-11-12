@@ -152,5 +152,19 @@
     "modelVersion": "ridge-v1",
     "status": "pending",
     "profit": null
+  },
+  {
+    "eventId": "35e3bdff558b5d1506251e814986f164",
+    "homeTeam": "Baltimore Ravens",
+    "awayTeam": "Los Angeles Chargers",
+    "kickoff": "2026-11-17T01:15:00Z",
+    "team": "Baltimore Ravens",
+    "spread": -4,
+    "price": -109,
+    "coverProbability": 0.5220588235294118,
+    "capturedAt": "2026-11-12T18:54:00.662Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]

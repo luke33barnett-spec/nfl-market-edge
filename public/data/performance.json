@@ -1,6 +1,6 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-11-12T03:48:24.012Z",
+  "trainedAt": "2026-11-12T18:53:59.829Z",
   "trainingGames": 3287,
   "evaluations": [
     {
@@ -204,6 +204,20 @@
       "price": 100,
       "coverProbability": 0.508578431372549,
       "capturedAt": "2026-11-12T03:48:24.950Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "35e3bdff558b5d1506251e814986f164",
+      "homeTeam": "Baltimore Ravens",
+      "awayTeam": "Los Angeles Chargers",
+      "kickoff": "2026-11-17T01:15:00Z",
+      "team": "Baltimore Ravens",
+      "spread": -4,
+      "price": -109,
+      "coverProbability": 0.5220588235294118,
+      "capturedAt": "2026-11-12T18:54:00.662Z",
       "modelVersion": "ridge-v1",
       "status": "pending",
       "profit": null
