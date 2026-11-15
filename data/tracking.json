@@ -166,5 +166,33 @@
     "modelVersion": "ridge-v1",
     "status": "pending",
     "profit": null
+  },
+  {
+    "eventId": "e5aa20e1364dd639f042af1c2281bbe2",
+    "homeTeam": "New Orleans Saints",
+    "awayTeam": "Carolina Panthers",
+    "kickoff": "2026-11-15T18:00:00Z",
+    "team": "New Orleans Saints",
+    "spread": 1,
+    "price": -109,
+    "coverProbability": 0.553921568627451,
+    "capturedAt": "2026-11-15T17:42:15.047Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  },
+  {
+    "eventId": "be0e03cc42fbc9b6962467b22c7bf9dd",
+    "homeTeam": "Cleveland Browns",
+    "awayTeam": "Houston Texans",
+    "kickoff": "2026-11-15T18:00:00Z",
+    "team": "Cleveland Browns",
+    "spread": 3.5,
+    "price": -102,
+    "coverProbability": 0.5551470588235294,
+    "capturedAt": "2026-11-15T17:42:15.047Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]
