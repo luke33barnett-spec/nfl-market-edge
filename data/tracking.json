@@ -136,8 +136,8 @@
     "coverProbability": 0.5183823529411765,
     "capturedAt": "2026-11-10T18:39:54.355Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "win",
+    "profit": 1.05
   },
   {
     "eventId": "5d8d85473b87f772a979ecf294acab94",
