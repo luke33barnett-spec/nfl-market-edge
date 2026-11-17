@@ -1,6 +1,6 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-11-17T05:03:56.949Z",
+  "trainedAt": "2026-11-17T19:50:11.736Z",
   "trainingGames": 3301,
   "evaluations": [
     {
@@ -219,8 +219,8 @@
       "coverProbability": 0.5220588235294118,
       "capturedAt": "2026-11-12T18:54:00.662Z",
       "modelVersion": "ridge-v1",
-      "status": "pending",
-      "profit": null
+      "status": "loss",
+      "profit": -1
     },
     {
       "eventId": "e5aa20e1364dd639f042af1c2281bbe2",
