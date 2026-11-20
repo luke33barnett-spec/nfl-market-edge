@@ -236,5 +236,33 @@
     "modelVersion": "ridge-v1",
     "status": "pending",
     "profit": null
+  },
+  {
+    "eventId": "4b20b742b6168aaca4f25d87f11b1526",
+    "homeTeam": "Los Angeles Chargers",
+    "awayTeam": "New York Jets",
+    "kickoff": "2026-11-22T21:05:00Z",
+    "team": "Los Angeles Chargers",
+    "spread": -3,
+    "price": -105,
+    "coverProbability": 0.5563725490196079,
+    "capturedAt": "2026-11-20T19:05:30.912Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  },
+  {
+    "eventId": "60e1d27b083a335b722c2c852ea85612",
+    "homeTeam": "San Francisco 49ers",
+    "awayTeam": "Minnesota Vikings",
+    "kickoff": "2026-11-23T01:20:00Z",
+    "team": "San Francisco 49ers",
+    "spread": -3.5,
+    "price": 103,
+    "coverProbability": 0.5232843137254902,
+    "capturedAt": "2026-11-20T19:05:30.912Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]

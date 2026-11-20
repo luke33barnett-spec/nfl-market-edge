@@ -1,7 +1,7 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-11-20T03:58:05.445Z",
-  "trainingGames": 3301,
+  "trainedAt": "2026-11-20T19:05:29.978Z",
+  "trainingGames": 3302,
   "evaluations": [
     {
       "season": 2023,
@@ -29,27 +29,27 @@
   "coefficients": [
     {
       "name": "home field",
-      "value": 0.7589500737214374
+      "value": 0.7620591143183081
     },
     {
       "name": "Elo difference",
-      "value": 4.825550899313988
+      "value": 4.8281491035593085
     },
     {
       "name": "recent margin difference",
-      "value": 1.0971831207890037
+      "value": 1.098650779338507
     },
     {
       "name": "offense difference",
-      "value": 1.1513172997946939
+      "value": 1.1536948374279512
     },
     {
       "name": "defense difference",
-      "value": -0.054134179006450206
+      "value": -0.05504405809010188
     },
     {
       "name": "rest advantage",
-      "value": 1.1343709875148689
+      "value": 1.134628027698913
     }
   ],
   "source": "nflverse regular-season game results",
@@ -288,6 +288,34 @@
       "price": -110,
       "coverProbability": 0.5637254901960784,
       "capturedAt": "2026-11-20T03:58:06.061Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "4b20b742b6168aaca4f25d87f11b1526",
+      "homeTeam": "Los Angeles Chargers",
+      "awayTeam": "New York Jets",
+      "kickoff": "2026-11-22T21:05:00Z",
+      "team": "Los Angeles Chargers",
+      "spread": -3,
+      "price": -105,
+      "coverProbability": 0.5563725490196079,
+      "capturedAt": "2026-11-20T19:05:30.912Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "60e1d27b083a335b722c2c852ea85612",
+      "homeTeam": "San Francisco 49ers",
+      "awayTeam": "Minnesota Vikings",
+      "kickoff": "2026-11-23T01:20:00Z",
+      "team": "San Francisco 49ers",
+      "spread": -3.5,
+      "price": 103,
+      "coverProbability": 0.5232843137254902,
+      "capturedAt": "2026-11-20T19:05:30.912Z",
       "modelVersion": "ridge-v1",
       "status": "pending",
       "profit": null
