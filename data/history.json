@@ -18532,6 +18532,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": -16
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": -16
       }
     ]
   },
@@ -18721,6 +18725,10 @@
       },
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
         "homeSpread": -3
       }
     ]
@@ -18912,6 +18920,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": -16.5
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": -16.5
       }
     ]
   },
@@ -19101,6 +19113,10 @@
       },
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
+        "homeSpread": -11.5
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
         "homeSpread": -11.5
       }
     ]
@@ -19292,6 +19308,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": -8
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": -8
       }
     ]
   },
@@ -19478,6 +19498,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": -6
       }
     ]
   },
@@ -19663,6 +19687,10 @@
       },
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
+        "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
         "homeSpread": 4.5
       }
     ]
@@ -19854,6 +19882,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -20043,6 +20075,10 @@
       },
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
+        "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
         "homeSpread": -10
       }
     ]
@@ -20234,6 +20270,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": 6
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": 6
       }
     ]
   },
@@ -20424,6 +20464,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -20602,6 +20646,10 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": 6.5
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": 6.5
       }
     ]
   },
@@ -20718,6 +20766,22 @@
         "price": -112,
         "updatedAt": "2026-11-19T19:28:04Z",
         "capturedAt": "2026-11-19T19:28:31.932Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Green Bay Packers",
+        "spread": 3.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Los Angeles Rams",
+        "spread": -3.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
       }
     ],
     "observations": [
@@ -20735,6 +20799,10 @@
       },
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
+        "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
         "homeSpread": -3.5
       }
     ]
@@ -20836,6 +20904,22 @@
         "price": 100,
         "updatedAt": "2026-11-18T19:23:03Z",
         "capturedAt": "2026-11-18T19:23:47.362Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Chicago Bears",
+        "spread": -2.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Detroit Lions",
+        "spread": 2.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
       }
     ],
     "observations": [
@@ -20849,6 +20933,10 @@
       },
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
+        "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
         "homeSpread": 2.5
       }
     ]
@@ -20950,6 +21038,22 @@
         "price": -105,
         "updatedAt": "2026-11-19T04:09:35Z",
         "capturedAt": "2026-11-19T04:10:13.742Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Dallas Cowboys",
+        "spread": -8,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Philadelphia Eagles",
+        "spread": 8,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
       }
     ],
     "observations": [
@@ -20959,6 +21063,10 @@
       },
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
+        "homeSpread": -8
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
         "homeSpread": -8
       }
     ]
@@ -21086,6 +21194,132 @@
       {
         "capturedAt": "2026-11-19T19:28:31.932Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": -3
+      }
+    ]
+  },
+  "44a3bcf5bd002583ddef2207a92dd977": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Denver Broncos",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:35Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Pittsburgh Steelers",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:35Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Denver Broncos",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:58:03Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Pittsburgh Steelers",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:58:03Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Denver Broncos",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:58:05Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Pittsburgh Steelers",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:58:05Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Denver Broncos",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:49Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Pittsburgh Steelers",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:49Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Denver Broncos",
+        "spread": -1.5,
+        "price": -105,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Pittsburgh Steelers",
+        "spread": 1.5,
+        "price": -105,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Denver Broncos",
+        "spread": -1,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:20Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Pittsburgh Steelers",
+        "spread": 1,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:20Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Denver Broncos",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Pittsburgh Steelers",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-11-20T03:57:37Z",
+        "capturedAt": "2026-11-20T03:58:06.061Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-11-20T03:58:06.061Z",
+        "homeSpread": 1.5
       }
     ]
   }

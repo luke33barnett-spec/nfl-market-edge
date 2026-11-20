@@ -194,5 +194,47 @@
     "modelVersion": "ridge-v1",
     "status": "win",
     "profit": 0.9803921568627451
+  },
+  {
+    "eventId": "3a60ed1d20004aa4d4772b2c1a2272e7",
+    "homeTeam": "Washington Commanders",
+    "awayTeam": "Cincinnati Bengals",
+    "kickoff": "2026-11-24T01:15:00Z",
+    "team": "Washington Commanders",
+    "spread": 6,
+    "price": -105,
+    "coverProbability": 0.5674019607843137,
+    "capturedAt": "2026-11-20T03:58:06.061Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  },
+  {
+    "eventId": "cbe45bafcc2615fc1d96cbc12840377a",
+    "homeTeam": "Philadelphia Eagles",
+    "awayTeam": "Pittsburgh Steelers",
+    "kickoff": "2026-11-22T18:00:00Z",
+    "team": "Philadelphia Eagles",
+    "spread": 4.5,
+    "price": -110,
+    "coverProbability": 0.5845588235294118,
+    "capturedAt": "2026-11-20T03:58:06.061Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  },
+  {
+    "eventId": "4c5b1c0843a260278e95eb93e7787576",
+    "homeTeam": "Buffalo Bills",
+    "awayTeam": "Miami Dolphins",
+    "kickoff": "2026-11-22T18:00:00Z",
+    "team": "Miami Dolphins",
+    "spread": 16.5,
+    "price": -110,
+    "coverProbability": 0.5637254901960784,
+    "capturedAt": "2026-11-20T03:58:06.061Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]
