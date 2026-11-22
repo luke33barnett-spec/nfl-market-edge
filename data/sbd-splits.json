@@ -15466,5 +15466,65 @@
     "moneyPct": 37.48,
     "market": "spreads",
     "sourceEventId": "sr:match:71516058"
+  },
+  {
+    "eventId": "4b20b742b6168aaca4f25d87f11b1526",
+    "team": "Los Angeles Chargers",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-22T18:05:45.897Z",
+    "observedAt": "2026-11-22T18:29:29.753Z",
+    "ticketsPct": 55.79,
+    "moneyPct": 46.35,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71516050"
+  },
+  {
+    "eventId": "8ba112fabf4e87639338a5f437c5abfe",
+    "team": "New York Giants",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-22T18:05:45.087Z",
+    "observedAt": "2026-11-22T18:29:29.753Z",
+    "ticketsPct": 20.01,
+    "moneyPct": 18.2,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71516048"
+  },
+  {
+    "eventId": "1940706a79cbcbafacdcbf231069716b",
+    "team": "Denver Broncos",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-22T17:05:47.629Z",
+    "observedAt": "2026-11-22T18:29:29.753Z",
+    "ticketsPct": 43.52,
+    "moneyPct": 46.28,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71516052"
+  },
+  {
+    "eventId": "60e1d27b083a335b722c2c852ea85612",
+    "team": "San Francisco 49ers",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-22T17:05:47.362Z",
+    "observedAt": "2026-11-22T18:29:29.753Z",
+    "ticketsPct": 22.84,
+    "moneyPct": 54.16,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71489040"
+  },
+  {
+    "eventId": "3a60ed1d20004aa4d4772b2c1a2272e7",
+    "team": "Washington Commanders",
+    "bookmaker": "Sports Betting Dime aggregate",
+    "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
+    "capturedAt": "2026-11-22T18:05:45.933Z",
+    "observedAt": "2026-11-22T18:29:29.753Z",
+    "ticketsPct": 15.4,
+    "moneyPct": 25.14,
+    "market": "spreads",
+    "sourceEventId": "sr:match:71516056"
   }
 ]
