@@ -1,18 +1,18 @@
 {
   "coefficients": [
-    0.9951802945702534,
-    0.7620591143183081,
-    4.8281491035593085,
-    1.098650779338507,
-    1.1536948374279512,
-    -0.05504405809010188,
-    1.134628027698913
+    0.9999673020090544,
+    0.7697554846191021,
+    4.833628183240919,
+    1.1017989157590755,
+    1.1570669470192414,
+    -0.055268031260998454,
+    1.1514157767699968
   ],
   "lambda": 30,
   "version": "ridge-v1",
-  "trainedAt": "2026-11-22T18:29:28.953Z",
+  "trainedAt": "2026-11-23T03:42:29.697Z",
   "season": 2026,
-  "trainingGames": 3302,
+  "trainingGames": 3312,
   "featureNames": [
     "home field",
     "Elo difference",
@@ -864,13 +864,8 @@
   ],
   "states": {
     "PHI": {
-      "elo": 1491.094832956082,
+      "elo": 1501.127290780697,
       "recent": [
-        {
-          "scored": 24,
-          "allowed": 20,
-          "margin": 4
-        },
         {
           "scored": 7,
           "allowed": 27,
@@ -905,18 +900,18 @@
           "scored": 11,
           "allowed": 19,
           "margin": -8
+        },
+        {
+          "scored": 19,
+          "allowed": 16,
+          "margin": 3
         }
       ],
-      "lastDate": "2026-11-08"
+      "lastDate": "2026-11-22"
     },
     "ARI": {
-      "elo": 1416.8674689096797,
+      "elo": 1411.805398762007,
       "recent": [
-        {
-          "scored": 30,
-          "allowed": 36,
-          "margin": -6
-        },
         {
           "scored": 24,
           "allowed": 36,
@@ -951,9 +946,14 @@
           "scored": 6,
           "allowed": 34,
           "margin": -28
+        },
+        {
+          "scored": 7,
+          "allowed": 34,
+          "margin": -27
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "STL": {
       "elo": 1499.6382344738988,
@@ -961,13 +961,8 @@
       "lastDate": "2016-01-03"
     },
     "BAL": {
-      "elo": 1492.7739627101773,
+      "elo": 1483.5347114018894,
       "recent": [
-        {
-          "scored": 34,
-          "allowed": 31,
-          "margin": 3
-        },
         {
           "scored": 24,
           "allowed": 18,
@@ -1002,9 +997,14 @@
           "scored": 20,
           "allowed": 23,
           "margin": -3
+        },
+        {
+          "scored": 33,
+          "allowed": 35,
+          "margin": -2
         }
       ],
-      "lastDate": "2026-11-16"
+      "lastDate": "2026-11-22"
     },
     "IND": {
       "elo": 1441.0060263352398,
@@ -1053,13 +1053,8 @@
       "lastDate": "2026-11-19"
     },
     "BUF": {
-      "elo": 1618.4069704458634,
+      "elo": 1622.3009849840118,
       "recent": [
-        {
-          "scored": 41,
-          "allowed": 31,
-          "margin": 10
-        },
         {
           "scored": 24,
           "allowed": 16,
@@ -1094,18 +1089,18 @@
           "scored": 31,
           "allowed": 12,
           "margin": 19
+        },
+        {
+          "scored": 26,
+          "allowed": 9,
+          "margin": 17
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "NO": {
-      "elo": 1434.919377555485,
+      "elo": 1429.5449875353315,
       "recent": [
-        {
-          "scored": 24,
-          "allowed": 17,
-          "margin": 7
-        },
         {
           "scored": 27,
           "allowed": 35,
@@ -1140,18 +1135,18 @@
           "scored": 17,
           "allowed": 20,
           "margin": -3
+        },
+        {
+          "scored": 13,
+          "allowed": 21,
+          "margin": -8
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "CAR": {
-      "elo": 1464.2562462378219,
+      "elo": 1473.4954975461098,
       "recent": [
-        {
-          "scored": 34,
-          "allowed": 3,
-          "margin": 31
-        },
         {
           "scored": 18,
           "allowed": 21,
@@ -1186,18 +1181,18 @@
           "scored": 20,
           "allowed": 17,
           "margin": 3
+        },
+        {
+          "scored": 35,
+          "allowed": 33,
+          "margin": 2
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "TEN": {
-      "elo": 1364.172708701916,
+      "elo": 1358.6006829440898,
       "recent": [
-        {
-          "scored": 20,
-          "allowed": 24,
-          "margin": -4
-        },
         {
           "scored": 7,
           "allowed": 12,
@@ -1232,9 +1227,14 @@
           "scored": 23,
           "allowed": 40,
           "margin": -17
+        },
+        {
+          "scored": 30,
+          "allowed": 51,
+          "margin": -21
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "CIN": {
       "elo": 1532.225517652351,
@@ -1329,13 +1329,8 @@
       "lastDate": "2026-11-12"
     },
     "DAL": {
-      "elo": 1474.4496058790205,
+      "elo": 1480.021631636847,
       "recent": [
-        {
-          "scored": 31,
-          "allowed": 34,
-          "margin": -3
-        },
         {
           "scored": 34,
           "allowed": 30,
@@ -1370,9 +1365,14 @@
           "scored": 40,
           "allowed": 46,
           "margin": -6
+        },
+        {
+          "scored": 51,
+          "allowed": 30,
+          "margin": 21
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "SEA": {
       "elo": 1569.3157003171673,
@@ -1421,13 +1421,8 @@
       "lastDate": "2026-11-15"
     },
     "DET": {
-      "elo": 1581.1170177333302,
+      "elo": 1586.6990227126507,
       "recent": [
-        {
-          "scored": 31,
-          "allowed": 41,
-          "margin": -10
-        },
         {
           "scored": 31,
           "allowed": 24,
@@ -1462,18 +1457,18 @@
           "scored": 35,
           "allowed": 10,
           "margin": 25
+        },
+        {
+          "scored": 31,
+          "allowed": 21,
+          "margin": 10
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "CHI": {
-      "elo": 1553.8333007137157,
+      "elo": 1559.2076907338692,
       "recent": [
-        {
-          "scored": 3,
-          "allowed": 9,
-          "margin": -6
-        },
         {
           "scored": 27,
           "allowed": 7,
@@ -1508,18 +1503,18 @@
           "scored": 27,
           "allowed": 24,
           "margin": 3
+        },
+        {
+          "scored": 21,
+          "allowed": 13,
+          "margin": 8
         }
       ],
-      "lastDate": "2026-11-08"
+      "lastDate": "2026-11-22"
     },
     "KC": {
-      "elo": 1549.8523715426438,
+      "elo": 1554.9144416903166,
       "recent": [
-        {
-          "scored": 33,
-          "allowed": 30,
-          "margin": 3
-        },
         {
           "scored": 24,
           "allowed": 10,
@@ -1554,9 +1549,14 @@
           "scored": 35,
           "allowed": 13,
           "margin": 22
+        },
+        {
+          "scored": 34,
+          "allowed": 7,
+          "margin": 27
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "ATL": {
       "elo": 1452.7576837593274,
@@ -1651,13 +1651,8 @@
       "lastDate": "2026-11-15"
     },
     "NYJ": {
-      "elo": 1383.4530030297276,
+      "elo": 1397.332135743649,
       "recent": [
-        {
-          "scored": 24,
-          "allowed": 31,
-          "margin": -7
-        },
         {
           "scored": 12,
           "allowed": 23,
@@ -1692,9 +1687,14 @@
           "scored": 12,
           "allowed": 31,
           "margin": -19
+        },
+        {
+          "scored": 27,
+          "allowed": 24,
+          "margin": 3
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "NE": {
       "elo": 1524.9477692101884,
@@ -1743,13 +1743,8 @@
       "lastDate": "2026-11-15"
     },
     "TB": {
-      "elo": 1471.2711570752826,
+      "elo": 1465.689152095962,
       "recent": [
-        {
-          "scored": 19,
-          "allowed": 23,
-          "margin": -4
-        },
         {
           "scored": 16,
           "allowed": 23,
@@ -1784,18 +1779,18 @@
           "scored": 24,
           "allowed": 27,
           "margin": -3
+        },
+        {
+          "scored": 21,
+          "allowed": 31,
+          "margin": -10
         }
       ],
-      "lastDate": "2026-11-08"
+      "lastDate": "2026-11-22"
     },
     "NYG": {
-      "elo": 1451.2329397589256,
+      "elo": 1462.9188491079262,
       "recent": [
-        {
-          "scored": 6,
-          "allowed": 28,
-          "margin": -22
-        },
         {
           "scored": 12,
           "allowed": 7,
@@ -1830,9 +1825,14 @@
           "scored": 21,
           "allowed": 24,
           "margin": -3
+        },
+        {
+          "scored": 23,
+          "allowed": 18,
+          "margin": 5
         }
       ],
-      "lastDate": "2026-11-12"
+      "lastDate": "2026-11-22"
     },
     "GB": {
       "elo": 1538.2796807515804,
@@ -1932,13 +1932,8 @@
       "lastDate": "2026-11-15"
     },
     "PIT": {
-      "elo": 1547.2225372462447,
+      "elo": 1537.1900794216297,
       "recent": [
-        {
-          "scored": 3,
-          "allowed": 20,
-          "margin": -17
-        },
         {
           "scored": 30,
           "allowed": 27,
@@ -1973,18 +1968,18 @@
           "scored": 18,
           "allowed": 38,
           "margin": -20
+        },
+        {
+          "scored": 16,
+          "allowed": 19,
+          "margin": -3
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "JAX": {
-      "elo": 1565.3720427992987,
+      "elo": 1553.686133450298,
       "recent": [
-        {
-          "scored": 13,
-          "allowed": 20,
-          "margin": -7
-        },
         {
           "scored": 35,
           "allowed": 6,
@@ -2019,9 +2014,14 @@
           "scored": 40,
           "allowed": 23,
           "margin": 17
+        },
+        {
+          "scored": 18,
+          "allowed": 23,
+          "margin": -5
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "SF": {
       "elo": 1584.9098064788725,
@@ -2070,13 +2070,8 @@
       "lastDate": "2026-11-15"
     },
     "DEN": {
-      "elo": 1600.760099416611,
+      "elo": 1604.8367058203778,
       "recent": [
-        {
-          "scored": 20,
-          "allowed": 13,
-          "margin": 7
-        },
         {
           "scored": 30,
           "allowed": 26,
@@ -2111,18 +2106,18 @@
           "scored": 26,
           "allowed": 21,
           "margin": 5
+        },
+        {
+          "scored": 38,
+          "allowed": 24,
+          "margin": 14
         }
       ],
-      "lastDate": "2026-11-08"
+      "lastDate": "2026-11-22"
     },
     "MIA": {
-      "elo": 1426.771076793749,
+      "elo": 1422.8770622556005,
       "recent": [
-        {
-          "scored": 13,
-          "allowed": 35,
-          "margin": -22
-        },
         {
           "scored": 10,
           "allowed": 24,
@@ -2157,9 +2152,14 @@
           "scored": 22,
           "allowed": 24,
           "margin": -2
+        },
+        {
+          "scored": 9,
+          "allowed": 26,
+          "margin": -17
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     },
     "SD": {
       "elo": 1498.578448243692,
@@ -2259,13 +2259,8 @@
       "lastDate": "2026-11-15"
     },
     "LAC": {
-      "elo": 1470.6727491983595,
+      "elo": 1456.7936164844382,
       "recent": [
-        {
-          "scored": 14,
-          "allowed": 26,
-          "margin": -12
-        },
         {
           "scored": 16,
           "allowed": 24,
@@ -2300,18 +2295,18 @@
           "scored": 23,
           "allowed": 20,
           "margin": 3
+        },
+        {
+          "scored": 24,
+          "allowed": 27,
+          "margin": -3
         }
       ],
-      "lastDate": "2026-11-16"
+      "lastDate": "2026-11-22"
     },
     "LV": {
-      "elo": 1419.065360288512,
+      "elo": 1414.9887538847452,
       "recent": [
-        {
-          "scored": 35,
-          "allowed": 27,
-          "margin": 8
-        },
         {
           "scored": 27,
           "allowed": 30,
@@ -2346,9 +2341,14 @@
           "scored": 13,
           "allowed": 21,
           "margin": -8
+        },
+        {
+          "scored": 24,
+          "allowed": 38,
+          "margin": -14
         }
       ],
-      "lastDate": "2026-11-15"
+      "lastDate": "2026-11-22"
     }
   },
   "limitation": "Score-based pregame baseline. Residual probabilities are uncalibrated estimates; historical margin errors are not betting returns. Sharp weights are heuristics, not learned coefficients."

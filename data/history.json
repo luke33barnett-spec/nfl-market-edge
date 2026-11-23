@@ -20862,6 +20862,10 @@
       {
         "capturedAt": "2026-11-22T18:29:29.753Z",
         "homeSpread": 6
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": 6
       }
     ]
   },
@@ -20994,6 +20998,22 @@
         "price": -110,
         "updatedAt": "2026-11-20T03:57:37Z",
         "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Green Bay Packers",
+        "spread": 3,
+        "price": -115,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Los Angeles Rams",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
@@ -21031,6 +21051,10 @@
       },
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
         "homeSpread": -3
       }
     ]
@@ -21148,6 +21172,38 @@
         "price": -110,
         "updatedAt": "2026-11-20T03:57:37Z",
         "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Chicago Bears",
+        "spread": -2.5,
+        "price": -112,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Detroit Lions",
+        "spread": 2.5,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Chicago Bears",
+        "spread": -2.5,
+        "price": -117,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Detroit Lions",
+        "spread": 2.5,
+        "price": -103,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
@@ -21181,6 +21237,10 @@
       },
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
+        "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
         "homeSpread": 2.5
       }
     ]
@@ -21298,6 +21358,38 @@
         "price": -110,
         "updatedAt": "2026-11-20T03:57:37Z",
         "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Dallas Cowboys",
+        "spread": -8.5,
+        "price": -108,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Philadelphia Eagles",
+        "spread": 8.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Dallas Cowboys",
+        "spread": -8.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Philadelphia Eagles",
+        "spread": 8.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
@@ -21328,6 +21420,10 @@
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": -8
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": -8.5
       }
     ]
   },
@@ -21444,6 +21540,38 @@
         "price": -110,
         "updatedAt": "2026-11-19T19:28:19Z",
         "capturedAt": "2026-11-19T19:28:31.932Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Buffalo Bills",
+        "spread": -3,
+        "price": -102,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Kansas City Chiefs",
+        "spread": 3,
+        "price": -118,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Buffalo Bills",
+        "spread": -3,
+        "price": -103,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Kansas City Chiefs",
+        "spread": 3,
+        "price": -117,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
@@ -21474,6 +21602,10 @@
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -21590,6 +21722,22 @@
         "price": -110,
         "updatedAt": "2026-11-20T03:57:37Z",
         "capturedAt": "2026-11-20T03:58:06.061Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Denver Broncos",
+        "spread": -2.5,
+        "price": -118,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Pittsburgh Steelers",
+        "spread": 2.5,
+        "price": -102,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
@@ -21612,6 +21760,10 @@
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": 2.5
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": 3
       }
     ]
   },
@@ -21770,11 +21922,79 @@
         "price": -109,
         "updatedAt": "2026-11-22T03:08:17Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Baltimore Ravens",
+        "spread": 6.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:41:39Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Houston Texans",
+        "spread": -6.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:41:39Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Baltimore Ravens",
+        "spread": 6.5,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:41:25Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Houston Texans",
+        "spread": -6.5,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:41:25Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Baltimore Ravens",
+        "spread": 6.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:07Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Houston Texans",
+        "spread": -6.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:07Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Baltimore Ravens",
+        "spread": 6.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Houston Texans",
+        "spread": -6.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
+        "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
         "homeSpread": -6.5
       }
     ]
@@ -21876,11 +22096,31 @@
         "price": -110,
         "updatedAt": "2026-11-22T03:08:46Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Cincinnati Bengals",
+        "spread": -10,
+        "price": -108,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "New Orleans Saints",
+        "spread": 10,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
+        "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
         "homeSpread": -10
       }
     ]
@@ -21934,12 +22174,80 @@
         "price": -112,
         "updatedAt": "2026-11-22T03:08:17Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Indianapolis Colts",
+        "spread": 7,
+        "price": -120,
+        "updatedAt": "2026-11-23T03:41:39Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "New York Giants",
+        "spread": -7,
+        "price": 100,
+        "updatedAt": "2026-11-23T03:41:39Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Indianapolis Colts",
+        "spread": 7,
+        "price": -114,
+        "updatedAt": "2026-11-23T03:41:25Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "New York Giants",
+        "spread": -7,
+        "price": 103,
+        "updatedAt": "2026-11-23T03:41:25Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Indianapolis Colts",
+        "spread": 7,
+        "price": -118,
+        "updatedAt": "2026-11-23T03:42:07Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "New York Giants",
+        "spread": -7,
+        "price": -102,
+        "updatedAt": "2026-11-23T03:42:07Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Indianapolis Colts",
+        "spread": 7,
+        "price": -115,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "New York Giants",
+        "spread": -7,
+        "price": -102,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": 6.5
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -22040,11 +22348,31 @@
         "price": -105,
         "updatedAt": "2026-11-22T03:08:31Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Jacksonville Jaguars",
+        "spread": -14.5,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Tennessee Titans",
+        "spread": 14.5,
+        "price": -112,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
+        "homeSpread": -14.5
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
         "homeSpread": -14.5
       }
     ]
@@ -22146,12 +22474,32 @@
         "price": -110,
         "updatedAt": "2026-11-22T03:08:30Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Miami Dolphins",
+        "spread": 3.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "New York Jets",
+        "spread": -3.5,
+        "price": -108,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": 3
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -22252,12 +22600,32 @@
         "price": -110,
         "updatedAt": "2026-11-22T03:08:46Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Los Angeles Chargers",
+        "spread": -1,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "New England Patriots",
+        "spread": 1,
+        "price": -108,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": -3.5
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": -1
       }
     ]
   },
@@ -22358,12 +22726,32 @@
         "price": -120,
         "updatedAt": "2026-11-22T03:08:46Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Arizona Cardinals",
+        "spread": 7,
+        "price": -108,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Washington Commanders",
+        "spread": -7,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": 6.5
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -22570,12 +22958,170 @@
         "price": -105,
         "updatedAt": "2026-11-22T03:08:31Z",
         "capturedAt": "2026-11-22T03:09:13.016Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Cleveland Browns",
+        "spread": -4.5,
+        "price": -108,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Las Vegas Raiders",
+        "spread": 4.5,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-22T03:09:13.016Z",
         "homeSpread": -4
+      },
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": -4.5
+      }
+    ]
+  },
+  "2cdaecba7c0bff9b58a48a82e6ee17a7": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -114,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -115,
+        "updatedAt": "2026-11-23T03:41:39Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:41:39Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Carolina Panthers",
+        "spread": 2.5,
+        "price": 100,
+        "updatedAt": "2026-11-23T03:42:20Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -2.5,
+        "price": -120,
+        "updatedAt": "2026-11-23T03:42:20Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -118,
+        "updatedAt": "2026-11-23T03:42:00Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -3,
+        "price": -104,
+        "updatedAt": "2026-11-23T03:42:00Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -110,
+        "updatedAt": "2026-11-23T03:41:25Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -3,
+        "price": 100,
+        "updatedAt": "2026-11-23T03:41:25Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -115,
+        "updatedAt": "2026-11-23T03:42:07Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:42:07Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -118,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "BetMGM",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -3,
+        "price": -102,
+        "updatedAt": "2026-11-23T03:42:21Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Carolina Panthers",
+        "spread": 3,
+        "price": -115,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      },
+      {
+        "bookmaker": "Bovada",
+        "team": "Tampa Bay Buccaneers",
+        "spread": -3,
+        "price": -105,
+        "updatedAt": "2026-11-23T03:40:58Z",
+        "capturedAt": "2026-11-23T03:42:30.539Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-11-23T03:42:30.539Z",
+        "homeSpread": -3
       }
     ]
   }
