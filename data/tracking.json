@@ -220,8 +220,8 @@
     "coverProbability": 0.5845588235294118,
     "capturedAt": "2026-11-20T03:58:06.061Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "win",
+    "profit": 0.9090909090909091
   },
   {
     "eventId": "4c5b1c0843a260278e95eb93e7787576",
@@ -234,8 +234,8 @@
     "coverProbability": 0.5637254901960784,
     "capturedAt": "2026-11-20T03:58:06.061Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "loss",
+    "profit": -1
   },
   {
     "eventId": "4b20b742b6168aaca4f25d87f11b1526",
@@ -248,8 +248,8 @@
     "coverProbability": 0.5563725490196079,
     "capturedAt": "2026-11-20T19:05:30.912Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "loss",
+    "profit": -1
   },
   {
     "eventId": "60e1d27b083a335b722c2c852ea85612",
@@ -262,7 +262,7 @@
     "coverProbability": 0.5232843137254902,
     "capturedAt": "2026-11-20T19:05:30.912Z",
     "modelVersion": "ridge-v1",
-    "status": "pending",
-    "profit": null
+    "status": "win",
+    "profit": 1.03
   }
 ]

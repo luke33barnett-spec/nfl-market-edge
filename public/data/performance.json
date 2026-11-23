@@ -1,7 +1,7 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-11-23T03:42:29.697Z",
-  "trainingGames": 3312,
+  "trainedAt": "2026-11-23T22:37:31.730Z",
+  "trainingGames": 3313,
   "evaluations": [
     {
       "season": 2023,
@@ -29,27 +29,27 @@
   "coefficients": [
     {
       "name": "home field",
-      "value": 0.7697554846191021
+      "value": 0.5413707156609356
     },
     {
       "name": "Elo difference",
-      "value": 4.833628183240919
+      "value": 4.831589430303301
     },
     {
       "name": "recent margin difference",
-      "value": 1.1017989157590755
+      "value": 1.1034524528347716
     },
     {
       "name": "offense difference",
-      "value": 1.1570669470192414
+      "value": 1.1730793270141056
     },
     {
       "name": "defense difference",
-      "value": -0.055268031260998454
+      "value": -0.06962687418005174
     },
     {
       "name": "rest advantage",
-      "value": 1.1514157767699968
+      "value": 1.1498469409705245
     }
   ],
   "source": "nflverse regular-season game results",
@@ -275,8 +275,8 @@
       "coverProbability": 0.5845588235294118,
       "capturedAt": "2026-11-20T03:58:06.061Z",
       "modelVersion": "ridge-v1",
-      "status": "pending",
-      "profit": null
+      "status": "win",
+      "profit": 0.9090909090909091
     },
     {
       "eventId": "4c5b1c0843a260278e95eb93e7787576",
@@ -289,8 +289,8 @@
       "coverProbability": 0.5637254901960784,
       "capturedAt": "2026-11-20T03:58:06.061Z",
       "modelVersion": "ridge-v1",
-      "status": "pending",
-      "profit": null
+      "status": "loss",
+      "profit": -1
     },
     {
       "eventId": "4b20b742b6168aaca4f25d87f11b1526",
@@ -303,8 +303,8 @@
       "coverProbability": 0.5563725490196079,
       "capturedAt": "2026-11-20T19:05:30.912Z",
       "modelVersion": "ridge-v1",
-      "status": "pending",
-      "profit": null
+      "status": "loss",
+      "profit": -1
     },
     {
       "eventId": "60e1d27b083a335b722c2c852ea85612",
@@ -317,8 +317,8 @@
       "coverProbability": 0.5232843137254902,
       "capturedAt": "2026-11-20T19:05:30.912Z",
       "modelVersion": "ridge-v1",
-      "status": "pending",
-      "profit": null
+      "status": "win",
+      "profit": 1.03
     }
   ]
 }

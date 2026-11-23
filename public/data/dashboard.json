@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "capturedAt": "2026-11-23T03:42:30.539Z",
-  "creditsRemaining": 455,
+  "capturedAt": "2026-11-23T22:37:32.567Z",
+  "creditsRemaining": 454,
   "games": [
     {
       "id": "3a60ed1d20004aa4d4772b2c1a2272e7",
@@ -10,133 +10,133 @@
       "awayTeam": "Cincinnati Bengals",
       "kickoff": "2026-11-24T01:15:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-23T03:42:30.539Z",
+      "capturedAt": "2026-11-23T22:37:32.567Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Cincinnati Bengals",
           "spread": -6,
-          "price": -112,
-          "updatedAt": "2026-11-23T03:42:21Z"
+          "price": -120,
+          "updatedAt": "2026-11-23T22:36:59Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Washington Commanders",
           "spread": 6,
-          "price": -107,
-          "updatedAt": "2026-11-23T03:42:21Z"
-        },
-        {
-          "bookmaker": "BetUS",
-          "team": "Cincinnati Bengals",
-          "spread": -6,
-          "price": -110,
-          "updatedAt": "2026-11-23T03:41:39Z"
-        },
-        {
-          "bookmaker": "BetUS",
-          "team": "Washington Commanders",
-          "spread": 6,
-          "price": -110,
-          "updatedAt": "2026-11-23T03:41:39Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Cincinnati Bengals",
-          "spread": -5.5,
-          "price": -120,
-          "updatedAt": "2026-11-23T03:42:20Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Washington Commanders",
-          "spread": 5.5,
           "price": 100,
-          "updatedAt": "2026-11-23T03:42:20Z"
+          "updatedAt": "2026-11-23T22:36:59Z"
+        },
+        {
+          "bookmaker": "BetUS",
+          "team": "Cincinnati Bengals",
+          "spread": -6,
+          "price": -115,
+          "updatedAt": "2026-11-23T22:37:17Z"
+        },
+        {
+          "bookmaker": "BetUS",
+          "team": "Washington Commanders",
+          "spread": 6,
+          "price": -105,
+          "updatedAt": "2026-11-23T22:37:17Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Cincinnati Bengals",
+          "spread": -6.5,
+          "price": -110,
+          "updatedAt": "2026-11-23T22:37:03Z"
+        },
+        {
+          "bookmaker": "FanDuel",
+          "team": "Washington Commanders",
+          "spread": 6.5,
+          "price": -110,
+          "updatedAt": "2026-11-23T22:37:03Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Cincinnati Bengals",
           "spread": -6,
-          "price": -110,
-          "updatedAt": "2026-11-23T03:42:07Z"
+          "price": -115,
+          "updatedAt": "2026-11-23T22:37:00Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Washington Commanders",
           "spread": 6,
-          "price": -110,
-          "updatedAt": "2026-11-23T03:42:07Z"
+          "price": -105,
+          "updatedAt": "2026-11-23T22:37:00Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Cincinnati Bengals",
-          "spread": -6,
-          "price": -105,
-          "updatedAt": "2026-11-23T03:41:25Z"
+          "spread": -6.5,
+          "price": -104,
+          "updatedAt": "2026-11-23T22:37:00Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Washington Commanders",
-          "spread": 6,
-          "price": -105,
-          "updatedAt": "2026-11-23T03:41:25Z"
+          "spread": 6.5,
+          "price": -106,
+          "updatedAt": "2026-11-23T22:37:00Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Cincinnati Bengals",
-          "spread": -6,
-          "price": -112,
-          "updatedAt": "2026-11-23T03:41:58Z"
+          "spread": -6.5,
+          "price": -110,
+          "updatedAt": "2026-11-23T22:37:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Washington Commanders",
-          "spread": 6,
-          "price": -109,
-          "updatedAt": "2026-11-23T03:41:58Z"
+          "spread": 6.5,
+          "price": -110,
+          "updatedAt": "2026-11-23T22:37:17Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Cincinnati Bengals",
-          "spread": -6,
+          "spread": -6.5,
           "price": -110,
-          "updatedAt": "2026-11-23T03:40:43Z"
+          "updatedAt": "2026-11-23T22:35:55Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Washington Commanders",
-          "spread": 6,
+          "spread": 6.5,
           "price": -110,
-          "updatedAt": "2026-11-23T03:40:43Z"
+          "updatedAt": "2026-11-23T22:35:55Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Cincinnati Bengals",
-          "spread": -6,
+          "spread": -6.5,
+          "price": -110,
+          "updatedAt": "2026-11-23T22:37:17Z"
+        },
+        {
+          "bookmaker": "BetMGM",
+          "team": "Washington Commanders",
+          "spread": 6.5,
           "price": -108,
-          "updatedAt": "2026-11-23T03:42:21Z"
-        },
-        {
-          "bookmaker": "BetMGM",
-          "team": "Washington Commanders",
-          "spread": 6,
-          "price": -110,
-          "updatedAt": "2026-11-23T03:42:21Z"
+          "updatedAt": "2026-11-23T22:37:17Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Cincinnati Bengals",
-          "spread": -6,
-          "price": -110,
-          "updatedAt": "2026-11-23T03:40:58Z"
+          "spread": -6.5,
+          "price": -108,
+          "updatedAt": "2026-11-23T22:37:26Z"
         },
         {
           "bookmaker": "Bovada",
           "team": "Washington Commanders",
-          "spread": 6,
-          "price": -110,
-          "updatedAt": "2026-11-23T03:40:58Z"
+          "spread": 6.5,
+          "price": -112,
+          "updatedAt": "2026-11-23T22:37:26Z"
         }
       ],
       "firstQuotes": [
@@ -285,7 +285,7 @@
           "capturedAt": "2026-11-18T04:17:41.530Z"
         }
       ],
-      "predictedHomeMargin": -3.4519555007511467,
+      "predictedHomeMargin": -3.459415251374902,
       "residuals": [
         -8.011576614691666,
         0.8047451736334672,
@@ -1160,6 +1160,10 @@
         {
           "capturedAt": "2026-11-23T03:42:30.539Z",
           "homeSpread": 6
+        },
+        {
+          "capturedAt": "2026-11-23T22:37:32.567Z",
+          "homeSpread": 6.5
         }
       ],
       "split": {
@@ -1167,10 +1171,10 @@
         "team": "Washington Commanders",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-23T03:05:45.242Z",
-        "observedAt": "2026-11-23T03:42:30.539Z",
-        "ticketsPct": 17.5,
-        "moneyPct": 24.89,
+        "capturedAt": "2026-11-23T22:05:47.418Z",
+        "observedAt": "2026-11-23T22:37:32.567Z",
+        "ticketsPct": 26.05,
+        "moneyPct": 19.75,
         "market": "spreads",
         "sourceEventId": "sr:match:71516056"
       }
@@ -1191,10 +1195,10 @@
   "sbdStatus": {
     "enabled": true,
     "status": "ok",
-    "matched": 8,
-    "unmatched": 2,
-    "invalid": 7,
-    "observedAt": "2026-11-23T03:42:30.539Z"
+    "matched": 15,
+    "unmatched": 0,
+    "invalid": 2,
+    "observedAt": "2026-11-23T22:37:32.567Z"
   },
   "notice": "Odds collected from The Odds API. Sharp action is inferred, not identified. Public splits are optional and specific to their source; SBD figures are aggregate percentages. Model probabilities are experimental."
 }
