@@ -1,7 +1,7 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-11-23T22:37:31.730Z",
-  "trainingGames": 3313,
+  "trainedAt": "2026-11-24T06:56:51.977Z",
+  "trainingGames": 3314,
   "evaluations": [
     {
       "season": 2023,
@@ -29,27 +29,27 @@
   "coefficients": [
     {
       "name": "home field",
-      "value": 0.5413707156609356
+      "value": 0.5427725618060674
     },
     {
       "name": "Elo difference",
-      "value": 4.831589430303301
+      "value": 4.831134681092146
     },
     {
       "name": "recent margin difference",
-      "value": 1.1034524528347716
+      "value": 1.1024292354031773
     },
     {
       "name": "offense difference",
-      "value": 1.1730793270141056
+      "value": 1.1719675663736082
     },
     {
       "name": "defense difference",
-      "value": -0.06962687418005174
+      "value": -0.06953833097105992
     },
     {
       "name": "rest advantage",
-      "value": 1.1498469409705245
+      "value": 1.1553710117889449
     }
   ],
   "source": "nflverse regular-season game results",
@@ -319,6 +319,34 @@
       "modelVersion": "ridge-v1",
       "status": "win",
       "profit": 1.03
+    },
+    {
+      "eventId": "e9da808e36e1b7475698a57465ad4519",
+      "homeTeam": "Indianapolis Colts",
+      "awayTeam": "New York Giants",
+      "kickoff": "2026-11-29T18:00:00Z",
+      "team": "Indianapolis Colts",
+      "spread": 6.5,
+      "price": -103,
+      "coverProbability": 0.6887254901960784,
+      "capturedAt": "2026-11-24T06:56:52.530Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "eaa993c3d62d6b5aeb6142cdd7862fd5",
+      "homeTeam": "Cleveland Browns",
+      "awayTeam": "Las Vegas Raiders",
+      "kickoff": "2026-11-30T01:20:00Z",
+      "team": "Cleveland Browns",
+      "spread": -4.5,
+      "price": -105,
+      "coverProbability": 0.5563725490196079,
+      "capturedAt": "2026-11-24T06:56:52.530Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
     }
   ]
 }

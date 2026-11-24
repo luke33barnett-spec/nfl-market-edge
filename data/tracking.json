@@ -264,5 +264,33 @@
     "modelVersion": "ridge-v1",
     "status": "win",
     "profit": 1.03
+  },
+  {
+    "eventId": "e9da808e36e1b7475698a57465ad4519",
+    "homeTeam": "Indianapolis Colts",
+    "awayTeam": "New York Giants",
+    "kickoff": "2026-11-29T18:00:00Z",
+    "team": "Indianapolis Colts",
+    "spread": 6.5,
+    "price": -103,
+    "coverProbability": 0.6887254901960784,
+    "capturedAt": "2026-11-24T06:56:52.530Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  },
+  {
+    "eventId": "eaa993c3d62d6b5aeb6142cdd7862fd5",
+    "homeTeam": "Cleveland Browns",
+    "awayTeam": "Las Vegas Raiders",
+    "kickoff": "2026-11-30T01:20:00Z",
+    "team": "Cleveland Browns",
+    "spread": -4.5,
+    "price": -105,
+    "coverProbability": 0.5563725490196079,
+    "capturedAt": "2026-11-24T06:56:52.530Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]
