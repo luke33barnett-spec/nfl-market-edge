@@ -292,5 +292,33 @@
     "modelVersion": "ridge-v1",
     "status": "pending",
     "profit": null
+  },
+  {
+    "eventId": "f7d3ae7a8fe2438cef7d7d7bc67e31db",
+    "homeTeam": "Cincinnati Bengals",
+    "awayTeam": "New Orleans Saints",
+    "kickoff": "2026-11-29T18:00:00Z",
+    "team": "New Orleans Saints",
+    "spread": 9.5,
+    "price": 100,
+    "coverProbability": 0.5269607843137255,
+    "capturedAt": "2026-11-25T20:28:06.581Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
+  },
+  {
+    "eventId": "6a05021bdb6bab24b9bb381ffff10f0c",
+    "homeTeam": "Minnesota Vikings",
+    "awayTeam": "Atlanta Falcons",
+    "kickoff": "2026-11-29T18:00:00Z",
+    "team": "Atlanta Falcons",
+    "spread": 6.5,
+    "price": -105,
+    "coverProbability": 0.5281862745098039,
+    "capturedAt": "2026-11-25T20:28:06.581Z",
+    "modelVersion": "ridge-v1",
+    "status": "pending",
+    "profit": null
   }
 ]

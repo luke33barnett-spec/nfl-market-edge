@@ -21076,6 +21076,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -21278,6 +21282,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -21476,6 +21484,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -8.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -9
       }
     ]
   },
@@ -21674,6 +21686,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -21864,6 +21880,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": 3.5
       }
     ]
   },
@@ -22033,6 +22053,10 @@
       },
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": -7
       }
     ]
@@ -22208,6 +22232,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -7
       }
     ]
   },
@@ -22382,6 +22410,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -10
       }
     ]
   },
@@ -22514,6 +22546,22 @@
         "price": -112,
         "updatedAt": "2026-11-23T22:37:26Z",
         "capturedAt": "2026-11-23T22:37:32.567Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Indianapolis Colts",
+        "spread": 6,
+        "price": -110,
+        "updatedAt": "2026-11-25T20:27:42Z",
+        "capturedAt": "2026-11-25T20:28:06.581Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "New York Giants",
+        "spread": -6,
+        "price": -110,
+        "updatedAt": "2026-11-25T20:27:42Z",
+        "capturedAt": "2026-11-25T20:28:06.581Z"
       }
     ],
     "observations": [
@@ -22539,6 +22587,10 @@
       },
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
+        "homeSpread": 6.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 6.5
       }
     ]
@@ -22714,6 +22766,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -14.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -14.5
       }
     ]
   },
@@ -22846,6 +22902,22 @@
         "price": -112,
         "updatedAt": "2026-11-23T22:37:26Z",
         "capturedAt": "2026-11-23T22:37:32.567Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Miami Dolphins",
+        "spread": 3.5,
+        "price": -110,
+        "updatedAt": "2026-11-25T20:27:42Z",
+        "capturedAt": "2026-11-25T20:28:06.581Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "New York Jets",
+        "spread": -3.5,
+        "price": -110,
+        "updatedAt": "2026-11-25T20:27:42Z",
+        "capturedAt": "2026-11-25T20:28:06.581Z"
       }
     ],
     "observations": [
@@ -22871,6 +22943,10 @@
       },
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
+        "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 3.5
       }
     ]
@@ -23046,6 +23122,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -0.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -1
       }
     ]
   },
@@ -23178,6 +23258,22 @@
         "price": -110,
         "updatedAt": "2026-11-23T22:37:26Z",
         "capturedAt": "2026-11-23T22:37:32.567Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Arizona Cardinals",
+        "spread": 7,
+        "price": -110,
+        "updatedAt": "2026-11-25T20:27:42Z",
+        "capturedAt": "2026-11-25T20:28:06.581Z"
+      },
+      {
+        "bookmaker": "MyBookie.ag",
+        "team": "Washington Commanders",
+        "spread": -7,
+        "price": -110,
+        "updatedAt": "2026-11-25T20:27:42Z",
+        "capturedAt": "2026-11-25T20:28:06.581Z"
       }
     ],
     "observations": [
@@ -23203,6 +23299,10 @@
       },
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
+        "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 7
       }
     ]
@@ -23374,6 +23474,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -2.5
       }
     ]
   },
@@ -23548,6 +23652,10 @@
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
         "homeSpread": -4.5
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -4.5
       }
     ]
   },
@@ -23717,6 +23825,10 @@
       },
       {
         "capturedAt": "2026-11-25T05:25:28.323Z",
+        "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": -3
       }
     ]
