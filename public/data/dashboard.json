@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "mode": "live",
-  "capturedAt": "2026-11-24T21:10:01.007Z",
-  "creditsRemaining": 452,
+  "capturedAt": "2026-11-25T05:25:28.323Z",
+  "creditsRemaining": 451,
   "games": [
     {
       "id": "5b612899d6dcdf998107f2c6c6e49a58",
@@ -10,133 +10,119 @@
       "awayTeam": "Green Bay Packers",
       "kickoff": "2026-11-26T01:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Green Bay Packers",
           "spread": 2.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Los Angeles Rams",
           "spread": -2.5,
           "price": -109,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Green Bay Packers",
           "spread": 2.5,
           "price": -108,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:16Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Los Angeles Rams",
           "spread": -2.5,
           "price": -112,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:16Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Green Bay Packers",
           "spread": 2.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Los Angeles Rams",
           "spread": -2.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "price": -108,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Green Bay Packers",
           "spread": 2,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Los Angeles Rams",
           "spread": -2,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Green Bay Packers",
           "spread": 2,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Los Angeles Rams",
           "spread": -2,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Green Bay Packers",
           "spread": 2.5,
           "price": -109,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Los Angeles Rams",
           "spread": -2.5,
           "price": -112,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Green Bay Packers",
           "spread": 2.5,
           "price": -103,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Los Angeles Rams",
           "spread": -2.5,
           "price": -107,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Green Bay Packers",
           "spread": 1.5,
           "price": 102,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Los Angeles Rams",
           "spread": -1.5,
           "price": -122,
-          "updatedAt": "2026-11-24T21:09:16Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Green Bay Packers",
-          "spread": 2.5,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Los Angeles Rams",
-          "spread": -2.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         }
       ],
       "firstQuotes": [
@@ -1156,6 +1142,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -2.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -2.5
         }
       ],
       "split": {
@@ -1163,10 +1153,10 @@
         "team": "Los Angeles Rams",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:45.089Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 43.81,
-        "moneyPct": 47.42,
+        "capturedAt": "2026-11-25T04:05:45.527Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 45.55,
+        "moneyPct": 49.54,
         "market": "spreads",
         "sourceEventId": "sr:match:71492556"
       }
@@ -1177,133 +1167,119 @@
       "awayTeam": "Chicago Bears",
       "kickoff": "2026-11-26T18:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Chicago Bears",
-          "spread": -2.5,
-          "price": -114,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": -1.5,
+          "price": -107,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Detroit Lions",
-          "spread": 2.5,
-          "price": -106,
-          "updatedAt": "2026-11-24T21:09:14Z"
-        },
-        {
-          "bookmaker": "FanDuel",
-          "team": "Chicago Bears",
-          "spread": -2.5,
+          "spread": 1.5,
           "price": -112,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
-          "team": "Detroit Lions",
-          "spread": 2.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:09:58Z"
-        },
-        {
-          "bookmaker": "BetMGM",
-          "team": "Chicago Bears",
-          "spread": -2.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "BetMGM",
-          "team": "Detroit Lions",
-          "spread": 2.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "MyBookie.ag",
           "team": "Chicago Bears",
           "spread": -2.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
-          "bookmaker": "MyBookie.ag",
+          "bookmaker": "FanDuel",
           "team": "Detroit Lions",
           "spread": 2.5,
           "price": -115,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
-          "bookmaker": "BetRivers",
+          "bookmaker": "BetMGM",
           "team": "Chicago Bears",
-          "spread": -2.5,
-          "price": -117,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "spread": -1.5,
+          "price": -108,
+          "updatedAt": "2026-11-25T05:25:11Z"
+        },
+        {
+          "bookmaker": "BetMGM",
+          "team": "Detroit Lions",
+          "spread": 1.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
+        },
+        {
+          "bookmaker": "MyBookie.ag",
+          "team": "Chicago Bears",
+          "spread": -1,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
+        },
+        {
+          "bookmaker": "MyBookie.ag",
+          "team": "Detroit Lions",
+          "spread": 1,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetRivers",
-          "team": "Detroit Lions",
-          "spread": 2.5,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:10:01Z"
-        },
-        {
-          "bookmaker": "BetUS",
           "team": "Chicago Bears",
           "spread": -2,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "price": -112,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Detroit Lions",
+          "spread": 2,
+          "price": -109,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetUS",
+          "team": "Chicago Bears",
+          "spread": -1,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Detroit Lions",
-          "spread": 2,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": 1,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Chicago Bears",
-          "spread": -2.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:16Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Detroit Lions",
-          "spread": 2.5,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:09:16Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "Chicago Bears",
-          "spread": -2.5,
-          "price": -109,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "Detroit Lions",
-          "spread": 2.5,
-          "price": -101,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Chicago Bears",
-          "spread": -2.5,
+          "spread": -1,
           "price": -112,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
-          "bookmaker": "Bovada",
+          "bookmaker": "BetOnline.ag",
           "team": "Detroit Lions",
-          "spread": 2.5,
+          "spread": 1,
           "price": -108,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "Chicago Bears",
+          "spread": -1,
+          "price": -107,
+          "updatedAt": "2026-11-25T05:24:30Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "Detroit Lions",
+          "spread": 1,
+          "price": -103,
+          "updatedAt": "2026-11-25T05:24:30Z"
         }
       ],
       "firstQuotes": [
@@ -2319,6 +2295,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": 2.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": 1.5
         }
       ],
       "split": {
@@ -2326,10 +2306,10 @@
         "team": "Detroit Lions",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:46.504Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 41.52,
-        "moneyPct": 56.62,
+        "capturedAt": "2026-11-25T04:05:48.256Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 43.04,
+        "moneyPct": 57.76,
         "market": "spreads",
         "sourceEventId": "sr:match:71506882"
       }
@@ -2340,133 +2320,119 @@
       "awayTeam": "Philadelphia Eagles",
       "kickoff": "2026-11-26T21:30:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Dallas Cowboys",
           "spread": -8.5,
           "price": -111,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Philadelphia Eagles",
           "spread": 8.5,
           "price": -108,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Dallas Cowboys",
           "spread": -8.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:16Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Philadelphia Eagles",
           "spread": 8.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:16Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Dallas Cowboys",
           "spread": -10,
           "price": 106,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Philadelphia Eagles",
           "spread": 10,
           "price": -126,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Dallas Cowboys",
           "spread": -8.5,
           "price": -108,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Philadelphia Eagles",
           "spread": 8.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Dallas Cowboys",
           "spread": -9,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Philadelphia Eagles",
           "spread": 9,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Dallas Cowboys",
           "spread": -8.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Philadelphia Eagles",
           "spread": 8.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Dallas Cowboys",
           "spread": -9,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Philadelphia Eagles",
           "spread": 9,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Dallas Cowboys",
           "spread": -9,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Philadelphia Eagles",
           "spread": 9,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Dallas Cowboys",
-          "spread": -8.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Philadelphia Eagles",
-          "spread": 8.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         }
       ],
       "firstQuotes": [
@@ -3478,6 +3444,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -8.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -8.5
         }
       ],
       "split": {
@@ -3485,10 +3455,10 @@
         "team": "Dallas Cowboys",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:44.406Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 41.16,
-        "moneyPct": 40.77,
+        "capturedAt": "2026-11-25T04:05:44.532Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 42.32,
+        "moneyPct": 42.06,
         "market": "spreads",
         "sourceEventId": "sr:match:71451906"
       }
@@ -3499,133 +3469,119 @@
       "awayTeam": "Kansas City Chiefs",
       "kickoff": "2026-11-27T01:20:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Buffalo Bills",
           "spread": -3,
-          "price": 101,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "price": 100,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Kansas City Chiefs",
           "spread": 3,
-          "price": -121,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "price": -120,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Buffalo Bills",
           "spread": -2.5,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Kansas City Chiefs",
           "spread": 2.5,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Buffalo Bills",
           "spread": -3,
           "price": -102,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Kansas City Chiefs",
           "spread": 3,
           "price": -118,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Buffalo Bills",
           "spread": -2.5,
           "price": -120,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Kansas City Chiefs",
           "spread": 2.5,
           "price": 100,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Buffalo Bills",
           "spread": -3,
-          "price": -107,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "price": -106,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Kansas City Chiefs",
           "spread": 3,
-          "price": -114,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "price": -115,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Buffalo Bills",
           "spread": -2.5,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Kansas City Chiefs",
           "spread": 2.5,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Buffalo Bills",
           "spread": -2.5,
-          "price": -114,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "price": -118,
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Kansas City Chiefs",
           "spread": 2.5,
-          "price": 103,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "price": 107,
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Buffalo Bills",
           "spread": -2,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Kansas City Chiefs",
           "spread": 2,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Buffalo Bills",
-          "spread": -2.5,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Kansas City Chiefs",
-          "spread": 2.5,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         }
       ],
       "firstQuotes": [
@@ -4637,6 +4593,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -2.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -2.5
         }
       ],
       "split": {
@@ -4644,10 +4604,10 @@
         "team": "Buffalo Bills",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:46.075Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 42.18,
-        "moneyPct": 38.06,
+        "capturedAt": "2026-11-25T04:05:47.112Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 41.32,
+        "moneyPct": 36.54,
         "market": "spreads",
         "sourceEventId": "sr:match:71516058"
       }
@@ -4658,133 +4618,119 @@
       "awayTeam": "Denver Broncos",
       "kickoff": "2026-11-27T20:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Denver Broncos",
-          "spread": -3,
-          "price": -104,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": -3.5,
+          "price": -107,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Pittsburgh Steelers",
-          "spread": 3,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": 3.5,
+          "price": -112,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Denver Broncos",
-          "spread": -2.5,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "spread": -3.5,
+          "price": -115,
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Pittsburgh Steelers",
-          "spread": 2.5,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:09:58Z"
-        },
-        {
-          "bookmaker": "BetMGM",
-          "team": "Denver Broncos",
-          "spread": -3,
+          "spread": 3.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
+        },
+        {
+          "bookmaker": "BetMGM",
+          "team": "Denver Broncos",
+          "spread": -3.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Pittsburgh Steelers",
-          "spread": 3,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "spread": 3.5,
+          "price": -108,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Denver Broncos",
-          "spread": -3,
+          "spread": -4,
           "price": -107,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Pittsburgh Steelers",
-          "spread": 3,
+          "spread": 4,
+          "price": -114,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Denver Broncos",
+          "spread": -3.5,
           "price": -115,
-          "updatedAt": "2026-11-24T21:10:01Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Denver Broncos",
-          "spread": -2.5,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Pittsburgh Steelers",
-          "spread": 2.5,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "spread": 3.5,
+          "price": -105,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Denver Broncos",
-          "spread": -2.5,
-          "price": -116,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": -3.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Pittsburgh Steelers",
-          "spread": 2.5,
-          "price": 105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": 3.5,
+          "price": 100,
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Denver Broncos",
-          "spread": -2,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": -3.5,
+          "price": -115,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Pittsburgh Steelers",
-          "spread": 2,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": 3.5,
+          "price": -105,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Denver Broncos",
-          "spread": -3,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "spread": -3.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Pittsburgh Steelers",
-          "spread": 3,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:08:07Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Denver Broncos",
-          "spread": -3,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Pittsburgh Steelers",
-          "spread": 3,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "spread": 3.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -5788,6 +5734,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": 3
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": 3.5
         }
       ],
       "split": {
@@ -5795,10 +5745,10 @@
         "team": "Pittsburgh Steelers",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:45.641Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 25.53,
-        "moneyPct": 20.66,
+        "capturedAt": "2026-11-25T04:05:44.374Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 27.06,
+        "moneyPct": 24.63,
         "market": "spreads",
         "sourceEventId": "sr:match:71516060"
       }
@@ -5809,133 +5759,119 @@
       "awayTeam": "Atlanta Falcons",
       "kickoff": "2026-11-29T18:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Atlanta Falcons",
           "spread": 7,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Atlanta Falcons",
           "spread": 7,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Atlanta Falcons",
           "spread": 7,
           "price": -115,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": -106,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Atlanta Falcons",
           "spread": 7,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Atlanta Falcons",
           "spread": 7,
           "price": -117,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": 106,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Atlanta Falcons",
           "spread": 7,
           "price": -117,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": -103,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Atlanta Falcons",
           "spread": 7,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "price": -118,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": -102,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Atlanta Falcons",
-          "spread": 7,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Minnesota Vikings",
-          "spread": -7,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Atlanta Falcons",
           "spread": 7,
           "price": -120,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Minnesota Vikings",
           "spread": -7,
           "price": 100,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -6919,6 +6855,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -7
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -7
         }
       ],
       "split": {
@@ -6926,10 +6866,10 @@
         "team": "Minnesota Vikings",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T19:05:46.451Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 86.22,
-        "moneyPct": 88.09,
+        "capturedAt": "2026-11-25T04:05:45.946Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 85.9,
+        "moneyPct": 87.54,
         "market": "spreads",
         "sourceEventId": "sr:match:71516072"
       }
@@ -6940,133 +6880,119 @@
       "awayTeam": "Baltimore Ravens",
       "kickoff": "2026-11-29T18:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Baltimore Ravens",
-          "spread": 6.5,
-          "price": -104,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": 7,
+          "price": -113,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Houston Texans",
-          "spread": -6.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": -7,
+          "price": -106,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Baltimore Ravens",
           "spread": 6.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Houston Texans",
           "spread": -6.5,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Baltimore Ravens",
           "spread": 6.5,
           "price": -108,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Houston Texans",
           "spread": -6.5,
           "price": -114,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Baltimore Ravens",
           "spread": 7,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Houston Texans",
           "spread": -7,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Baltimore Ravens",
           "spread": 7,
           "price": -112,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Houston Texans",
           "spread": -7,
           "price": 101,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Baltimore Ravens",
           "spread": 7,
           "price": -116,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Houston Texans",
           "spread": -7,
           "price": -104,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Baltimore Ravens",
           "spread": 7,
-          "price": -118,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "price": -115,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Houston Texans",
           "spread": -7,
-          "price": -102,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "price": -105,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
-          "bookmaker": "Bovada",
+          "bookmaker": "MyBookie.ag",
           "team": "Baltimore Ravens",
           "spread": 7,
-          "price": -117,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
-          "bookmaker": "Bovada",
+          "bookmaker": "MyBookie.ag",
           "team": "Houston Texans",
           "spread": -7,
-          "price": -103,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "team": "Baltimore Ravens",
-          "spread": 6.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:08Z"
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "team": "Houston Texans",
-          "spread": -6.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:08:08Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -8054,6 +7980,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -7
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -7
         }
       ],
       "split": {
@@ -8061,10 +7991,10 @@
         "team": "Houston Texans",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:44.772Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 60.73,
-        "moneyPct": 61.74,
+        "capturedAt": "2026-11-25T04:05:45.253Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 60.33,
+        "moneyPct": 60.44,
         "market": "spreads",
         "sourceEventId": "sr:match:71516066"
       }
@@ -8075,133 +8005,119 @@
       "awayTeam": "New Orleans Saints",
       "kickoff": "2026-11-29T18:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Cincinnati Bengals",
           "spread": -10,
           "price": -107,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "New Orleans Saints",
           "spread": 10,
           "price": -112,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Cincinnati Bengals",
           "spread": -10,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "New Orleans Saints",
           "spread": 10,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Cincinnati Bengals",
           "spread": -9.5,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "New Orleans Saints",
           "spread": 9.5,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Cincinnati Bengals",
           "spread": -10,
           "price": -109,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "New Orleans Saints",
           "spread": 10,
           "price": -112,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Cincinnati Bengals",
           "spread": -10,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "New Orleans Saints",
           "spread": 10,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Cincinnati Bengals",
           "spread": -10,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "New Orleans Saints",
           "spread": 10,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Cincinnati Bengals",
           "spread": -10,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "price": -105,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
-          "team": "New Orleans Saints",
-          "spread": 10,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Cincinnati Bengals",
-          "spread": -10,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
           "team": "New Orleans Saints",
           "spread": 10,
           "price": -112,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Cincinnati Bengals",
           "spread": -10,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "New Orleans Saints",
           "spread": 10,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -9189,6 +9105,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -10
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -10
         }
       ],
       "split": {
@@ -9196,10 +9116,10 @@
         "team": "Cincinnati Bengals",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:45.244Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 87.4,
-        "moneyPct": 87.79,
+        "capturedAt": "2026-11-25T04:05:45.479Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 87.5,
+        "moneyPct": 89.13,
         "market": "spreads",
         "sourceEventId": "sr:match:71516062"
       }
@@ -9210,119 +9130,105 @@
       "awayTeam": "New York Giants",
       "kickoff": "2026-11-29T18:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Indianapolis Colts",
           "spread": 6.5,
-          "price": -104,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "price": -108,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "New York Giants",
           "spread": -6.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "price": -111,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Indianapolis Colts",
           "spread": 6.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "New York Giants",
           "spread": -6.5,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
-          "team": "Indianapolis Colts",
-          "spread": 6.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:10:01Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "New York Giants",
-          "spread": -6.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:10:01Z"
-        },
-        {
-          "bookmaker": "BetUS",
           "team": "Indianapolis Colts",
           "spread": 7,
-          "price": -125,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "price": -115,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
-          "bookmaker": "BetUS",
+          "bookmaker": "BetRivers",
           "team": "New York Giants",
           "spread": -7,
-          "price": 105,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "Indianapolis Colts",
-          "spread": 6.5,
-          "price": -103,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "New York Giants",
-          "spread": -6.5,
           "price": -107,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
-          "bookmaker": "BetOnline.ag",
+          "bookmaker": "BetUS",
           "team": "Indianapolis Colts",
-          "spread": 7,
-          "price": -123,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "spread": 6.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
-          "bookmaker": "BetOnline.ag",
+          "bookmaker": "BetUS",
           "team": "New York Giants",
-          "spread": -7,
-          "price": 103,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "spread": -6.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
-          "bookmaker": "BetMGM",
+          "bookmaker": "LowVig.ag",
           "team": "Indianapolis Colts",
           "spread": 6.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "New York Giants",
+          "spread": -6.5,
+          "price": -105,
+          "updatedAt": "2026-11-25T05:24:30Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Indianapolis Colts",
+          "spread": 6.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "New York Giants",
+          "spread": -6.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetMGM",
+          "team": "Indianapolis Colts",
+          "spread": 6.5,
+          "price": -108,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "New York Giants",
           "spread": -6.5,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Indianapolis Colts",
-          "spread": 6.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "New York Giants",
-          "spread": -6.5,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:11Z"
         }
       ],
       "firstQuotes": [
@@ -10294,6 +10200,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": 6.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": 6.5
         }
       ],
       "split": {
@@ -10301,10 +10211,10 @@
         "team": "Indianapolis Colts",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:44.177Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 13.31,
-        "moneyPct": 13.84,
+        "capturedAt": "2026-11-25T04:05:44.223Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 13.98,
+        "moneyPct": 15.29,
         "market": "spreads",
         "sourceEventId": "sr:match:71516068"
       }
@@ -10315,133 +10225,119 @@
       "awayTeam": "Tennessee Titans",
       "kickoff": "2026-11-29T18:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Jacksonville Jaguars",
           "spread": -14.5,
           "price": -104,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Tennessee Titans",
           "spread": 14.5,
           "price": -116,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Jacksonville Jaguars",
           "spread": -14.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "price": -105,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Tennessee Titans",
           "spread": 14.5,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "price": -115,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Jacksonville Jaguars",
           "spread": -14.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Tennessee Titans",
           "spread": 14.5,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
-          "team": "Jacksonville Jaguars",
-          "spread": -15.5,
-          "price": -109,
-          "updatedAt": "2026-11-24T21:10:01Z"
-        },
-        {
-          "bookmaker": "BetRivers",
-          "team": "Tennessee Titans",
-          "spread": 15.5,
-          "price": -113,
-          "updatedAt": "2026-11-24T21:10:01Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Jacksonville Jaguars",
-          "spread": -14.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:16Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
-          "team": "Tennessee Titans",
-          "spread": 14.5,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:09:16Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
           "team": "Jacksonville Jaguars",
           "spread": -14.5,
           "price": -112,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetRivers",
+          "team": "Tennessee Titans",
+          "spread": 14.5,
+          "price": -112,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Jacksonville Jaguars",
+          "spread": -14.5,
+          "price": -104,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Tennessee Titans",
+          "spread": 14.5,
+          "price": -116,
+          "updatedAt": "2026-11-25T05:24:29Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "Jacksonville Jaguars",
+          "spread": -14.5,
+          "price": 101,
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Tennessee Titans",
           "spread": 14.5,
-          "price": 101,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "price": -112,
+          "updatedAt": "2026-11-25T05:24:30Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Jacksonville Jaguars",
           "spread": -14.5,
           "price": -108,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Tennessee Titans",
           "spread": 14.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
-          "bookmaker": "Bovada",
+          "bookmaker": "MyBookie.ag",
           "team": "Jacksonville Jaguars",
           "spread": -14.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
-          "bookmaker": "Bovada",
+          "bookmaker": "MyBookie.ag",
           "team": "Tennessee Titans",
           "spread": 14.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "team": "Jacksonville Jaguars",
-          "spread": -15,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
-        },
-        {
-          "bookmaker": "MyBookie.ag",
-          "team": "Tennessee Titans",
-          "spread": 15,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -11429,6 +11325,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -14.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -14.5
         }
       ],
       "split": {
@@ -11436,10 +11336,10 @@
         "team": "Jacksonville Jaguars",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:46.010Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 87.53,
-        "moneyPct": 86.92,
+        "capturedAt": "2026-11-25T04:05:44.669Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 89.37,
+        "moneyPct": 89.12,
         "market": "spreads",
         "sourceEventId": "sr:match:71516074"
       }
@@ -11450,119 +11350,105 @@
       "awayTeam": "New York Jets",
       "kickoff": "2026-11-29T18:00:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Miami Dolphins",
           "spread": 3.5,
           "price": -103,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "New York Jets",
           "spread": -3.5,
           "price": -117,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Miami Dolphins",
           "spread": 3.5,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "New York Jets",
           "spread": -3.5,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Miami Dolphins",
           "spread": 4,
           "price": -114,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "New York Jets",
           "spread": -4,
           "price": -108,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
-          "team": "Miami Dolphins",
-          "spread": 3.5,
-          "price": -102,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "LowVig.ag",
-          "team": "New York Jets",
-          "spread": -3.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:09:17Z"
-        },
-        {
-          "bookmaker": "BetOnline.ag",
           "team": "Miami Dolphins",
           "spread": 3.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:30Z"
+        },
+        {
+          "bookmaker": "LowVig.ag",
+          "team": "New York Jets",
+          "spread": -3.5,
+          "price": -105,
+          "updatedAt": "2026-11-25T05:24:30Z"
+        },
+        {
+          "bookmaker": "BetOnline.ag",
+          "team": "Miami Dolphins",
+          "spread": 3.5,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "New York Jets",
           "spread": -3.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Miami Dolphins",
           "spread": 3.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "New York Jets",
           "spread": -3.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
-          "team": "Miami Dolphins",
-          "spread": 4,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "BetMGM",
-          "team": "New York Jets",
-          "spread": -4,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
           "team": "Miami Dolphins",
           "spread": 3.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "price": -105,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
-          "bookmaker": "Bovada",
+          "bookmaker": "BetMGM",
           "team": "New York Jets",
           "spread": -3.5,
           "price": -112,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         }
       ],
       "firstQuotes": [
@@ -12534,6 +12420,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": 3.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": 3.5
         }
       ],
       "split": {
@@ -12541,10 +12431,10 @@
         "team": "Miami Dolphins",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:46.866Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 36.63,
-        "moneyPct": 36.66,
+        "capturedAt": "2026-11-25T04:05:44.578Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 37.65,
+        "moneyPct": 38.18,
         "market": "spreads",
         "sourceEventId": "sr:match:71516070"
       }
@@ -12555,133 +12445,119 @@
       "awayTeam": "New England Patriots",
       "kickoff": "2026-11-29T21:05:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Los Angeles Chargers",
           "spread": -1.5,
           "price": 102,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "New England Patriots",
           "spread": 1.5,
           "price": -122,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Los Angeles Chargers",
           "spread": 0,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "New England Patriots",
           "spread": 0,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Los Angeles Chargers",
           "spread": -1.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "New England Patriots",
           "spread": 1.5,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Los Angeles Chargers",
           "spread": -0.5,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "New England Patriots",
           "spread": 0.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "price": -112,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Los Angeles Chargers",
           "spread": 0,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "New England Patriots",
           "spread": 0,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Los Angeles Chargers",
           "spread": 0,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "New England Patriots",
           "spread": 0,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Los Angeles Chargers",
           "spread": -1,
           "price": -105,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "New England Patriots",
           "spread": 1,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Los Angeles Chargers",
-          "spread": -1.5,
-          "price": 102,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "New England Patriots",
-          "spread": 1.5,
-          "price": -122,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "price": -112,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Los Angeles Chargers",
           "spread": -1,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "New England Patriots",
           "spread": 1,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -13669,6 +13545,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -1
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -0.5
         }
       ],
       "split": {
@@ -13676,10 +13556,10 @@
         "team": "Los Angeles Chargers",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:45.105Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 35,
-        "moneyPct": 40.93,
+        "capturedAt": "2026-11-25T04:05:46.590Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 34.55,
+        "moneyPct": 39.08,
         "market": "spreads",
         "sourceEventId": "sr:match:71516080"
       }
@@ -13690,119 +13570,105 @@
       "awayTeam": "Washington Commanders",
       "kickoff": "2026-11-29T21:25:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Arizona Cardinals",
-          "spread": 7.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": 7,
+          "price": -109,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Washington Commanders",
-          "spread": -7.5,
-          "price": -109,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": -7,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Arizona Cardinals",
-          "spread": 7.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": 7,
+          "price": -115,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Washington Commanders",
-          "spread": -7.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": -7,
+          "price": -105,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Arizona Cardinals",
           "spread": 7,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Washington Commanders",
           "spread": -7,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Arizona Cardinals",
           "spread": 7,
           "price": -106,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Washington Commanders",
           "spread": -7,
           "price": -117,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Arizona Cardinals",
-          "spread": 7.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": 7,
+          "price": -107,
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Washington Commanders",
-          "spread": -7.5,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "spread": -7,
+          "price": -103,
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Arizona Cardinals",
-          "spread": 7.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "spread": 7,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Washington Commanders",
-          "spread": -7.5,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "spread": -7,
+          "price": -110,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Arizona Cardinals",
-          "spread": 7.5,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "spread": 7,
+          "price": -108,
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Washington Commanders",
-          "spread": -7.5,
-          "price": -102,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Arizona Cardinals",
-          "spread": 7.5,
+          "spread": -7,
           "price": -110,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Washington Commanders",
-          "spread": -7.5,
-          "price": -110,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         }
       ],
       "firstQuotes": [
@@ -14774,6 +14640,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": 7.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": 7
         }
       ],
       "split": {
@@ -14781,10 +14651,10 @@
         "team": "Arizona Cardinals",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:44.491Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 18.94,
-        "moneyPct": 14.44,
+        "capturedAt": "2026-11-25T04:05:44.884Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 20.41,
+        "moneyPct": 17.75,
         "market": "spreads",
         "sourceEventId": "sr:match:71516076"
       }
@@ -14795,133 +14665,119 @@
       "awayTeam": "Seattle Seahawks",
       "kickoff": "2026-11-29T21:25:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "San Francisco 49ers",
-          "spread": -3,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": -3.5,
+          "price": -101,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Seattle Seahawks",
-          "spread": 3,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "spread": 3.5,
+          "price": -118,
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "San Francisco 49ers",
           "spread": -3,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Seattle Seahawks",
           "spread": 3,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "San Francisco 49ers",
           "spread": -3,
-          "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Seattle Seahawks",
           "spread": 3,
-          "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "price": -110,
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "San Francisco 49ers",
           "spread": -3,
           "price": -108,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Seattle Seahawks",
           "spread": 3,
           "price": -113,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "San Francisco 49ers",
           "spread": -3,
           "price": -116,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Seattle Seahawks",
           "spread": 3,
           "price": 105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "San Francisco 49ers",
           "spread": -3,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Seattle Seahawks",
           "spread": 3,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "San Francisco 49ers",
           "spread": -3,
           "price": -118,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Seattle Seahawks",
           "spread": 3,
           "price": -102,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "San Francisco 49ers",
-          "spread": -3,
-          "price": -120,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Seattle Seahawks",
-          "spread": 3,
-          "price": 100,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "San Francisco 49ers",
           "spread": -3,
           "price": -120,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Seattle Seahawks",
           "spread": 3,
           "price": 100,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -15905,6 +15761,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -3
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -3
         }
       ],
       "split": {
@@ -15912,10 +15772,10 @@
         "team": "San Francisco 49ers",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:45.858Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 67.69,
-        "moneyPct": 66.17,
+        "capturedAt": "2026-11-25T04:05:46.348Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 66.99,
+        "moneyPct": 64.92,
         "market": "spreads",
         "sourceEventId": "sr:match:71516078"
       }
@@ -15926,133 +15786,119 @@
       "awayTeam": "Las Vegas Raiders",
       "kickoff": "2026-11-30T01:20:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Cleveland Browns",
           "spread": -4.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
           "price": -114,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Cleveland Browns",
           "spread": -4.5,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Cleveland Browns",
           "spread": -4.5,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "price": -113,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
-          "price": -109,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "price": -108,
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Cleveland Browns",
           "spread": -4.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Cleveland Browns",
           "spread": -4.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Cleveland Browns",
           "spread": -4.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Cleveland Browns",
           "spread": -4.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
           "price": -108,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Cleveland Browns",
-          "spread": -4.5,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Las Vegas Raiders",
-          "spread": 4.5,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Cleveland Browns",
           "spread": -4.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Las Vegas Raiders",
           "spread": 4.5,
           "price": -110,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -17040,6 +16886,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -4.5
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -4.5
         }
       ],
       "split": {
@@ -17047,10 +16897,10 @@
         "team": "Cleveland Browns",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:43.713Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 34.96,
-        "moneyPct": 34.67,
+        "capturedAt": "2026-11-25T04:05:44.772Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 35.24,
+        "moneyPct": 35,
         "market": "spreads",
         "sourceEventId": "sr:match:71516064"
       }
@@ -17061,133 +16911,119 @@
       "awayTeam": "Carolina Panthers",
       "kickoff": "2026-12-01T01:15:00Z",
       "mode": "live",
-      "capturedAt": "2026-11-24T21:10:01.007Z",
+      "capturedAt": "2026-11-25T05:25:28.323Z",
       "quotes": [
         {
           "bookmaker": "DraftKings",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -115,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "DraftKings",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": -105,
-          "updatedAt": "2026-11-24T21:09:14Z"
+          "updatedAt": "2026-11-25T05:24:52Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetUS",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -120,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "FanDuel",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": 100,
-          "updatedAt": "2026-11-24T21:09:58Z"
+          "updatedAt": "2026-11-25T05:25:17Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -117,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetRivers",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": -105,
-          "updatedAt": "2026-11-24T21:10:01Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -107,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "LowVig.ag",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": -103,
-          "updatedAt": "2026-11-24T21:09:17Z"
+          "updatedAt": "2026-11-25T05:24:31Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -112,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetOnline.ag",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": -108,
-          "updatedAt": "2026-11-24T21:09:16Z"
+          "updatedAt": "2026-11-25T05:24:29Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -118,
-          "updatedAt": "2026-11-24T21:08:56Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "BetMGM",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": -102,
-          "updatedAt": "2026-11-24T21:08:56Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Carolina Panthers",
-          "spread": 3,
-          "price": -112,
-          "updatedAt": "2026-11-24T21:02:15Z"
-        },
-        {
-          "bookmaker": "Bovada",
-          "team": "Tampa Bay Buccaneers",
-          "spread": -3,
-          "price": -108,
-          "updatedAt": "2026-11-24T21:02:15Z"
+          "updatedAt": "2026-11-25T05:25:11Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Carolina Panthers",
           "spread": 3,
           "price": -120,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         },
         {
           "bookmaker": "MyBookie.ag",
           "team": "Tampa Bay Buccaneers",
           "spread": -3,
           "price": 100,
-          "updatedAt": "2026-11-24T21:08:07Z"
+          "updatedAt": "2026-11-25T05:25:12Z"
         }
       ],
       "firstQuotes": [
@@ -18171,6 +18007,10 @@
         {
           "capturedAt": "2026-11-24T21:10:01.007Z",
           "homeSpread": -3
+        },
+        {
+          "capturedAt": "2026-11-25T05:25:28.323Z",
+          "homeSpread": -3
         }
       ],
       "split": {
@@ -18178,10 +18018,10 @@
         "team": "Tampa Bay Buccaneers",
         "bookmaker": "Sports Betting Dime aggregate",
         "source": "https://www.sportsbettingdime.com/nfl/public-betting-trends/",
-        "capturedAt": "2026-11-24T20:05:45.231Z",
-        "observedAt": "2026-11-24T21:10:01.007Z",
-        "ticketsPct": 38.46,
-        "moneyPct": 36.02,
+        "capturedAt": "2026-11-25T04:05:46.167Z",
+        "observedAt": "2026-11-25T05:25:28.323Z",
+        "ticketsPct": 36.12,
+        "moneyPct": 32.43,
         "market": "spreads",
         "sourceEventId": "sr:match:71516082"
       }
@@ -18205,7 +18045,7 @@
     "matched": 16,
     "unmatched": 0,
     "invalid": 0,
-    "observedAt": "2026-11-24T21:10:01.007Z"
+    "observedAt": "2026-11-25T05:25:28.323Z"
   },
   "notice": "Odds collected from The Odds API. Sharp action is inferred, not identified. Public splits are optional and specific to their source; SBD figures are aggregate percentages. Model probabilities are experimental."
 }
