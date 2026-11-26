@@ -1,6 +1,6 @@
 {
   "version": "ridge-v1",
-  "trainedAt": "2026-11-26T05:00:26.437Z",
+  "trainedAt": "2026-11-26T20:09:52.167Z",
   "trainingGames": 3315,
   "evaluations": [
     {
@@ -372,6 +372,34 @@
       "price": -105,
       "coverProbability": 0.5281862745098039,
       "capturedAt": "2026-11-25T20:28:06.581Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "69a1dbe9de3d3212c3a7a55be5d204ab",
+      "homeTeam": "Arizona Cardinals",
+      "awayTeam": "Washington Commanders",
+      "kickoff": "2026-11-29T21:25:00Z",
+      "team": "Arizona Cardinals",
+      "spread": 6.5,
+      "price": -102,
+      "coverProbability": 0.6029411764705882,
+      "capturedAt": "2026-11-26T20:09:53.096Z",
+      "modelVersion": "ridge-v1",
+      "status": "pending",
+      "profit": null
+    },
+    {
+      "eventId": "f36f518585aec40e8cb40e071c0844aa",
+      "homeTeam": "Buffalo Bills",
+      "awayTeam": "Kansas City Chiefs",
+      "kickoff": "2026-11-27T01:20:00Z",
+      "team": "Buffalo Bills",
+      "spread": -3,
+      "price": 100,
+      "coverProbability": 0.5686274509803921,
+      "capturedAt": "2026-11-26T20:09:53.096Z",
       "modelVersion": "ridge-v1",
       "status": "pending",
       "profit": null

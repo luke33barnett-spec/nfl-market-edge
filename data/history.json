@@ -21496,6 +21496,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -9
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": -8.5
       }
     ]
   },
@@ -21702,6 +21706,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -21900,6 +21908,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": 4
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -22077,6 +22089,10 @@
       },
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
         "homeSpread": -7
       }
     ]
@@ -22260,6 +22276,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -6.5
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": -6.5
       }
     ]
   },
@@ -22441,6 +22461,10 @@
       },
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
         "homeSpread": -10
       }
     ]
@@ -22624,6 +22648,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": 6
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": 6
       }
     ]
   },
@@ -22805,6 +22833,10 @@
       },
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": -14.5
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
         "homeSpread": -14.5
       }
     ]
@@ -22988,6 +23020,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": 4.5
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": 5
       }
     ]
   },
@@ -23170,6 +23206,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": 1
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": 2
       }
     ]
   },
@@ -23352,6 +23392,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": 6.5
       }
     ]
   },
@@ -23530,6 +23574,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -23712,6 +23760,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -4.5
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": -4.5
       }
     ]
   },
@@ -23890,6 +23942,10 @@
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -23926,11 +23982,79 @@
         "price": -115,
         "updatedAt": "2026-11-26T04:59:36Z",
         "capturedAt": "2026-11-26T05:00:26.997Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Kansas City Chiefs",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-11-26T20:09:11Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
+      },
+      {
+        "bookmaker": "BetUS",
+        "team": "Los Angeles Rams",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-11-26T20:09:11Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Kansas City Chiefs",
+        "spread": -1.5,
+        "price": -110,
+        "updatedAt": "2026-11-26T20:09:34Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
+      },
+      {
+        "bookmaker": "BetOnline.ag",
+        "team": "Los Angeles Rams",
+        "spread": 1.5,
+        "price": -110,
+        "updatedAt": "2026-11-26T20:09:34Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Kansas City Chiefs",
+        "spread": -1.5,
+        "price": -105,
+        "updatedAt": "2026-11-26T20:09:11Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
+      },
+      {
+        "bookmaker": "LowVig.ag",
+        "team": "Los Angeles Rams",
+        "spread": 1.5,
+        "price": -105,
+        "updatedAt": "2026-11-26T20:09:11Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Kansas City Chiefs",
+        "spread": -1,
+        "price": -107,
+        "updatedAt": "2026-11-26T20:09:35Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
+      },
+      {
+        "bookmaker": "BetRivers",
+        "team": "Los Angeles Rams",
+        "spread": 1,
+        "price": -114,
+        "updatedAt": "2026-11-26T20:09:35Z",
+        "capturedAt": "2026-11-26T20:09:53.096Z"
       }
     ],
     "observations": [
       {
         "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 1.5
+      },
+      {
+        "capturedAt": "2026-11-26T20:09:53.096Z",
         "homeSpread": 1.5
       }
     ]
