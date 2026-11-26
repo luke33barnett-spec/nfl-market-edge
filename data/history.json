@@ -21286,6 +21286,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 1
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -21487,6 +21491,10 @@
       },
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -9
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -9
       }
     ]
@@ -21690,6 +21698,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": -3
       }
     ]
   },
@@ -21884,6 +21896,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 4
       }
     ]
   },
@@ -22057,6 +22073,10 @@
       },
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -7
       }
     ]
@@ -22236,6 +22256,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": -7
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": -6.5
       }
     ]
   },
@@ -22413,6 +22437,10 @@
       },
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -10
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -10
       }
     ]
@@ -22592,6 +22620,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 6.5
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 6
       }
     ]
   },
@@ -22769,6 +22801,10 @@
       },
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -14.5
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -14.5
       }
     ]
@@ -22948,6 +22984,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 3.5
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 4.5
       }
     ]
   },
@@ -23126,6 +23166,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": -1
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 1
       }
     ]
   },
@@ -23304,6 +23348,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": 7
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 7
       }
     ]
   },
@@ -23477,6 +23525,10 @@
       },
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
+        "homeSpread": -2.5
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
         "homeSpread": -2.5
       }
     ]
@@ -23656,6 +23708,10 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": -4.5
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": -4.5
       }
     ]
   },
@@ -23830,6 +23886,52 @@
       {
         "capturedAt": "2026-11-25T20:28:06.581Z",
         "homeSpread": -3
+      },
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": -3
+      }
+    ]
+  },
+  "06e52a676b516186989e3b181a37c8a7": {
+    "firstQuotes": [
+      {
+        "bookmaker": "DraftKings",
+        "team": "Kansas City Chiefs",
+        "spread": 1.5,
+        "price": -123,
+        "updatedAt": "2026-11-26T04:59:55Z",
+        "capturedAt": "2026-11-26T05:00:26.997Z"
+      },
+      {
+        "bookmaker": "DraftKings",
+        "team": "Los Angeles Rams",
+        "spread": -1.5,
+        "price": 102,
+        "updatedAt": "2026-11-26T04:59:55Z",
+        "capturedAt": "2026-11-26T05:00:26.997Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Kansas City Chiefs",
+        "spread": -1.5,
+        "price": -105,
+        "updatedAt": "2026-11-26T04:59:36Z",
+        "capturedAt": "2026-11-26T05:00:26.997Z"
+      },
+      {
+        "bookmaker": "FanDuel",
+        "team": "Los Angeles Rams",
+        "spread": 1.5,
+        "price": -115,
+        "updatedAt": "2026-11-26T04:59:36Z",
+        "capturedAt": "2026-11-26T05:00:26.997Z"
+      }
+    ],
+    "observations": [
+      {
+        "capturedAt": "2026-11-26T05:00:26.997Z",
+        "homeSpread": 1.5
       }
     ]
   }
