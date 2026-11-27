@@ -1,18 +1,18 @@
 {
   "coefficients": [
-    1.2318855196353704,
-    0.5447190471419557,
-    4.830598428614033,
-    1.1034048470065878,
-    1.1730090448701795,
-    -0.06960419786426827,
-    1.1555028362906559
+    1.2306689924624559,
+    0.5411185046018476,
+    4.832005138230209,
+    1.10164546932435,
+    1.167985413166081,
+    -0.06633994384242042,
+    1.155418577883191
   ],
   "lambda": 30,
   "version": "ridge-v1",
-  "trainedAt": "2026-11-26T20:09:52.167Z",
+  "trainedAt": "2026-11-27T05:01:39.994Z",
   "season": 2026,
-  "trainingGames": 3315,
+  "trainingGames": 3318,
   "featureNames": [
     "home field",
     "Elo difference",
@@ -864,13 +864,8 @@
   ],
   "states": {
     "PHI": {
-      "elo": 1501.127290780697,
+      "elo": 1512.0997652324704,
       "recent": [
-        {
-          "scored": 7,
-          "allowed": 27,
-          "margin": -20
-        },
         {
           "scored": 20,
           "allowed": 24,
@@ -905,9 +900,14 @@
           "scored": 19,
           "allowed": 16,
           "margin": 3
+        },
+        {
+          "scored": 39,
+          "allowed": 38,
+          "margin": 1
         }
       ],
-      "lastDate": "2026-11-22"
+      "lastDate": "2026-11-26"
     },
     "ARI": {
       "elo": 1411.805398762007,
@@ -1053,13 +1053,8 @@
       "lastDate": "2026-11-19"
     },
     "BUF": {
-      "elo": 1622.3009849840118,
+      "elo": 1628.9172304009733,
       "recent": [
-        {
-          "scored": 24,
-          "allowed": 16,
-          "margin": 8
-        },
         {
           "scored": 26,
           "allowed": 29,
@@ -1094,9 +1089,14 @@
           "scored": 26,
           "allowed": 9,
           "margin": 17
+        },
+        {
+          "scored": 13,
+          "allowed": 10,
+          "margin": 3
         }
       ],
-      "lastDate": "2026-11-22"
+      "lastDate": "2026-11-26"
     },
     "NO": {
       "elo": 1429.5449875353315,
@@ -1329,13 +1329,8 @@
       "lastDate": "2026-11-23"
     },
     "DAL": {
-      "elo": 1480.021631636847,
+      "elo": 1469.0491571850735,
       "recent": [
-        {
-          "scored": 34,
-          "allowed": 30,
-          "margin": 4
-        },
         {
           "scored": 16,
           "allowed": 24,
@@ -1370,9 +1365,14 @@
           "scored": 51,
           "allowed": 30,
           "margin": 21
+        },
+        {
+          "scored": 38,
+          "allowed": 39,
+          "margin": -1
         }
       ],
-      "lastDate": "2026-11-22"
+      "lastDate": "2026-11-26"
     },
     "SEA": {
       "elo": 1569.3157003171673,
@@ -1421,13 +1421,8 @@
       "lastDate": "2026-11-15"
     },
     "DET": {
-      "elo": 1586.6990227126507,
+      "elo": 1574.3683627282653,
       "recent": [
-        {
-          "scored": 31,
-          "allowed": 24,
-          "margin": 7
-        },
         {
           "scored": 26,
           "allowed": 32,
@@ -1462,18 +1457,18 @@
           "scored": 31,
           "allowed": 21,
           "margin": 10
+        },
+        {
+          "scored": 35,
+          "allowed": 39,
+          "margin": -4
         }
       ],
-      "lastDate": "2026-11-22"
+      "lastDate": "2026-11-26"
     },
     "CHI": {
-      "elo": 1559.2076907338692,
+      "elo": 1571.5383507182546,
       "recent": [
-        {
-          "scored": 27,
-          "allowed": 7,
-          "margin": 20
-        },
         {
           "scored": 23,
           "allowed": 12,
@@ -1508,18 +1503,18 @@
           "scored": 21,
           "allowed": 13,
           "margin": 8
+        },
+        {
+          "scored": 39,
+          "allowed": 35,
+          "margin": 4
         }
       ],
-      "lastDate": "2026-11-22"
+      "lastDate": "2026-11-26"
     },
     "KC": {
-      "elo": 1554.9144416903166,
+      "elo": 1548.2981962733552,
       "recent": [
-        {
-          "scored": 24,
-          "allowed": 10,
-          "margin": 14
-        },
         {
           "scored": 30,
           "allowed": 27,
@@ -1554,9 +1549,14 @@
           "scored": 34,
           "allowed": 7,
           "margin": 27
+        },
+        {
+          "scored": 10,
+          "allowed": 13,
+          "margin": -3
         }
       ],
-      "lastDate": "2026-11-22"
+      "lastDate": "2026-11-26"
     },
     "ATL": {
       "elo": 1452.7576837593274,
